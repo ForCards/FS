@@ -1,24 +1,12 @@
 {
   "expansion": {
-    "folder" : ["base", "gif", "sow", "dd", "empty"],
-    "name" : ["Base Game", "Galaxy in Flames", "Symphony of War", "Darkest Dawn", "Example"]
+    "folder" : ["sow", "empty"],
+    "name" : ["Symphony of War", "Example"]
   } ,
     "faction": {
-      "base": {
-        "folder": ["space_marines", "chaos", "ork", "eldar"],
-        "name": ["Space Marines", "Chaos", "Ork", "Eldar"]
-      },
-      "gif": {
-        "folder": ["ig", "tyranid", "necron", "tau"],
-        "name": ["Imperial Guard", "Tyranid", "Necron", "Tau"]
-      },
       "sow": {
         "folder": ["adepta_sororitas", "adeptus_mechanicus", "dark_eldar", "inquisition"],
         "name": ["Sisters of Battle", "Adeptus Mechanicus", "Dark Eldar", "Inquisition"]
-      },
-      "dd": {
-        "folder": ["worldeaters", "emperorschildren", "thousandsons", "deathguard"],
-        "name": ["World Eaters", "Emperor's Children", "Thousand Sons", "Death Guard"]
       },
       "empty": {
         "folder": ["empty"],
