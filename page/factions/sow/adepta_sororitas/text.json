@@ -65,9 +65,9 @@
     ],
     "combatText": [
         {
-            "title": "DRIVEN ONWARDS",
-            "general": "Your opponent rerolls 2 dice of his choice.",
-            "unit": "Sister Repentia/Light Cruiser: Gain 1 (S) for each [B] rolled by your opponent while resolving the general ability of this card."
+            "title": "       SENSUAL ALLURE",
+            "general": "Your opponent must choose and rout 1 of his units.",
+            "unit": "Seeker/Cruiser: Gain [M] equal to the highest command level among your opponent's unrouted units."
         },
         {
             "title": "       CORRUPTING INFLUENCE",
