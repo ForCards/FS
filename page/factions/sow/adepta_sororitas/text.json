@@ -70,24 +70,25 @@
             "unit": "Seeker/Cruiser: Gain [M] equal to the highest command level among your opponent's unrouted units."
         },
         {
+
             "title": "       CORRUPTING INFLUENCE",
             "general": "Your opponent must give you one of his [D].",
             "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand."
         },
         {
-            "title": "GUIDED RETRIBUTION",
-            "general": "",
-            "unit": "Bastion/Sister Repentia/Light Cruiser: Gain either 1 (B) or 1 (S). *newline* Play 1 combat card from your hand. Then discard this card."
+            "title": "       TRAITOROUS SOUL",
+            "general": "Gain 1 (B) for each enemy command level 0 unit.",
+            "unit": "Seeker: Replace 1 enemy command level 0 unit with a friendly command level 0 unit."
         },
         {
-            "title": "HOLY TRINITY",
-            "general": "Gain 2 [B].",
-            "unit": "Bastion/Battle Sister: Gain 2 (B). During the assess damage step of this execution round, your opponent assigns damage 1 at a time."
+            "title": "       SONG OF SLAANESH",
+            "general": "Gain 1 [M].",
+            "unit": "Seeker/Cruiser: Gain 1 (B) for each [M] you have."
         },
         {
-            "title": "SANCTIFIED CHARGE",
-            "general": "Gain 2 [D]. *newpara* Reroll 1 of your dice.",
-            "unit": "Sister Repentia/Light Cruiser: For each [B], [S], and [M] rolled while resolving the general abilities of this card, gain 1 (B), 1 (S), or 1 [D], respectively."
+            "title": "       UNEXPECTED ALACRITY",
+            "general": "Either steal 1 (B) or 1 (S) or gain 1 (B) or 1 (S).",
+            "unit": "Seeker/Cruiser: Discard a combat card from your hand and resolve its unit abilities."
         },
         {
             "title": "ZEALOT'S PASSION",
