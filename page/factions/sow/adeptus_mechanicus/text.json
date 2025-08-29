@@ -65,29 +65,29 @@
     ],
     "combatText": [
         {
-            "title": "SKITARII RANGERS",
-            "general": "Either gain 1 [D] or resolve the general abilities of your faceup combat card played in the previous execution round.",
-            "unit": "Skitarii/Light Cruiser: Gain 1 (S)."
+            "title": "SHIELD FORMATION",
+            "general": "Convert 1 of your [D] to [S]. Gain 1 (S).",
+            "unit": "Slave mechanic/Cruiser/Bastion: Convert 1 of your [D] to [S]."
         },
         {
-            "title": "TECH-PRIEST ENGINEER",
-            "general": "Either rally 1 of your units or gain 1 (B) and 1 (S).",
-            "unit": "Skitarii/Light Cruiser: Gain 1 [D]."
+            "title": "BRUTAL ATTRITION",
+            "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain up to 3 (B). Your opponents gains that many (B).",
+            "unit": "Slave mechanic/Cruiser: You may convert 1 of your [D] to [B]."
         },
         {
-            "title": "SKITARII VANGUARD",
-            "general": "Gain 2 (S).",
-            "unit": "Skitarii/Light Cruiser: During the assess damage step of this execution round, you may assign damage to your routed units."
+            "title": "PURGE THE WEAK",
+            "general": "If this world contains a structure, gain 1 [S]. *newpara* Destroy any number of friendly routed units to gain that many [M] and materiel.",
+            "unit": ""
         },
         {
-            "title": "SICARIAN INFILTRATORS",
-            "general": "If you are attacking, look at your opponent's facedown combat card. *newpara* Gain either 1 [B] or 1 [S].",
-            "unit": "Skitarii/Light Cruiser: Gain 1 [M], 2 (B), or 2 (S)."
+            "title": "WARSMITH",
+            "general": "You may reroll 1 [D].",
+            "unit": "Siege Marine: if this world contains no structures, you may rout 1 friendly level 0 unit to buy and immediately place a friendly factory on this world."
         },
         {
-            "title": "SICARIAN RUSTSTALKERS",
-            "general": "Gain 1 [B].",
-            "unit": "Skitarii/Light Cruiser: Either gain 1 [M] or choose 1 of your unrouted units to gain (B) equal to the chosen unit's command level. "
+            "title": "TIDE OF IRON",
+            "general": "Convert up to 2 of your [S] to [B]. Spend up to 2 [S] to gain that many (B).",
+            "unit": "Slave mechanic/Cruiser: : Gain 1 [S]. "
         },
         {
             "title": "TRANSCENDENT COGITATION",
