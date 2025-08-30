@@ -111,19 +111,19 @@
             "unit": "Noise Marine/Cruiser: Your opponent cannot rally units during this round of combat."
         },
         {
-            "title": "MARTYR'S IMMOLATION",
-            "general": "Gain 3 (S) unless your opponent spends 1 die of his choice. If he does, gain 1 [M].",
-            "unit": "Resolve one of the following: *newline* Battle Sister/Light Cruiser: Spend 1 [S] to gain 2 (B). *newline* Exorcist/Grand Cruiser: Gain 3 (B). During the assess damage step of this execution round, assign damage to a command level 2 unit first if able. If that unit is destroyed, do not discard your (B) at the end of this execution round."
+            "title": "       UNSPEAKABLE PERVERSION",
+            "general": "Steal 1 [M].",
+            "unit": "Seeker: Your opponent looses all reinforcement tokens. Place that many free reinforcement tokens in this area."
         },
         {
-            "title": "ARMOURED IN FAITH",
-            "general": "Gain 1 [M] and 1 (S).",
-            "unit": "Resolve one of the following: *newline* Battle Sister/Light Cruiser: Rally 1 of your units. *newpara* Exorcist/Grand Cruiser: If you have more [M] than your opponent, your opponent chooses and routs 1 of his units."
+            "title": "       MUTUAL DESTRUCTION",
+            "general": "Destroy a friendly unrouted unit to choose and destroy an enemy unit of the same or lower command level.",
+            "unit": "Soul Grinder/Cruiser/Grand Cruiser: Gain (B) equal to the highest command level among unrouted friendly units."
         },
         {
-            "title": "DEVASTATING REFRAIN",
-            "general": "Gain 1 (B) for each of your opponent's units.",
-            "unit": "Resolve one of the following: *newline* Bastion: Gain 1 (S) for each [M] you have. *newline* Sister Repentia/Battle Sister/Light Cruiser: Gain 1 [D]."
+            "title": "       REVEL IN MISERY",
+            "general": "Rally all friendly and enemy units.",
+            "unit": "Soul Grinder/Grand Cruiser: Gain 1 (B) or 1 (S) for each unit that was rallied while resolving the general ability of this card."
         },
         {
             "title": "DIVINE BLESSING",
