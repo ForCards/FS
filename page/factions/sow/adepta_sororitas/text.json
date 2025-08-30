@@ -126,14 +126,14 @@
             "unit": "Soul Grinder/Grand Cruiser: Gain 1 (B) or 1 (S) for each unit that was rallied as a result of the general ability of this card."
         },
         {
-            "title": "DIVINE BLESSING",
-            "general": "Spend any number of [S] or [M]. For each [S] or [M] you spend, force your opponent to lose 1 [B].",
-            "unit": "Living Saint/Grand Cruiser: Gain 4 [D]."
+            "title": "       FULGRIM'S AVARICE",
+            "general": "Gain 1 [M] for each unclaimed objective in the active system.",
+            "unit": "Keeper of Secrets/Grand Cruiser: Gain 3 (B) if you have claimed more objectives than your opponent. Gain 3 (S) if you have claimed fewer objectives than your opponent."
         },
         {
-            "title": "DIVINE SMITING",
-            "general": "Either gain 1 [M] or convert up to 2 of your dice into [M].",
-            "unit": "Living Saint/Grand Cruiser: Gain 1 (B) for each [M] you have. *newline* During this execution round, none of the [B] are added to offence values."
+            "title": "       IRRESISTIBLE TEMPTATION",
+            "general": "Steal 1 [B] and 1 [M].",
+            "unit": "Keeper of Secrets/Grand Cruiser: gain 2 (B) for each [D] you could not steal."
         }
     ]
 }
