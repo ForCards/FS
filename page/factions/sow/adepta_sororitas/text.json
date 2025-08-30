@@ -91,9 +91,9 @@
             "unit": "Seeker/Cruiser: Discard a combat card from your hand and resolve its unit abilities."
         },
         {
-            "title": "ZEALOT'S PASSION",
-            "general": "Gain 1 (B). *newpara* Force your opponent to lose 1 [M].",
-            "unit": "Battle Sister/Light Cruiser: During this execution round, your opponent cannot rally his units or place reinforcement tokens in this area. *newline* If you are defending, rally 1 of your units."
+            "title": "       ACOUSTIC BARRAGE",
+            "general": "Spend 1 [M] to gain 1 (B).",
+            "unit": "Noise Marine/Cruiser: Your opponent must rout 1 of his units or destroy all of his routed units."
         },
         {
             "title": "MARTYRDOM",
