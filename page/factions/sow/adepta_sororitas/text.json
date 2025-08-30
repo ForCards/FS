@@ -92,23 +92,23 @@
         },
         {
             "title": "       ACOUSTIC BARRAGE",
-            "general": "Spend 1 [M] to gain 1 (B).",
+            "general": "Spend 1 [M] to gain 2 (B).",
             "unit": "Noise Marine/Cruiser: Your opponent must rout 1 of his units or destroy all of his routed units."
         },
         {
-            "title": "MARTYRDOM",
-            "general": "Convert up to 2 of your [B] into [M].",
-            "unit": "Battle Sister/Light Cruiser: When 1 of your units is destroyed during the assess damage step of this execution round, gain 1 [S]. Damage in excess of that unit's health value is lost."
+            "title": "       BLISSFUL AGONY",
+            "general": "Gain 1 (S) for each friendly routed unit.",
+            "unit": "Noise Marine/Cruiser: Friendly units cannot become routed during the next assess damage step."
         },
         {
-            "title": "SPIRITUAL FORTITUDE",
-            "general": "Force your oppononent to lose either 1 [B] or 1 [M]. *newpara* If you are defending, your opponent loses 2 (B).",
-            "unit": "Battle Sister/Light Cruiser: Gain 2 [D]."
+            "title": "       LURID VISIONS",
+            "general": "Steal 1 [B].",
+            "unit": "Noise Marine/Cruiser: Your opponent chooses and reveals a combat card from his hand. He must play that card in the next combat round."
         },
         {
-            "title": "ANGELIC DESCENT",
-            "general": "Gain 1 (S) for each of your unrouted units, to a maximum of 3.",
-            "unit": "Battle Sister/Light Cruiser: At the end of the assess damage step of this execution round, your opponent chooses and destroys 1 of his routed units unless he spends 1 [B]."
+            "title": "       SHRIEKING HAVOCS",
+            "general": "Your opponent chooses for you to gain either 2 (B) or 2 (S).",
+            "unit": "Noise Marine/Cruiser: Your opponent cannot rally units during this round of combat."
         },
         {
             "title": "MARTYR'S IMMOLATION",
