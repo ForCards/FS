@@ -106,28 +106,28 @@
         },
         {
             "title": "    IRON WITHOUT",
-            "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain 2 (B) or (S) in any combination. Your opponent gains the same combination of (B) and (S).",
+            "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain 2 (B) or 2 (S) in any combination. Your opponent gains the same combination of (B) and (S).",
             "unit": "Slave soldier/Cruiser/Bastion: Convert 1 of your [D] to [S] or [B]."
         },
         {
             "title": "    JUDGEMENT OF IRON",
-            "general": "Spend up to 2 [S]. Gain 2 (B) for every die spent. *newline* If this world contains a friendly structure, gain 1 [S].",
+            "general": "Spend up to 2 [S]. Gain 2 (B) for every die spent. *newpara* If this world contains a friendly structure, gain 1 [S].",
             "unit": "Leviathan/Grand Cruiser: Gain 1 [B]. If this world contains your opponent's structure, destroy it."
         },
         {
             "title": "    SIEGECRAFT",
-            "general": "Gain either 1 (B) or 1 (S). Convert 1 of your [D] to [M].",
+            "general": "Gain 1 (B) or 1 (S). Convert 1 of your [D] to [M].",
             "unit": "Leviathan/Grand Cruiser: Spend 1 [M] to force your opponent to either discard 2 reinforcement tokens or loose 2 [M] in any combination (your opponent chooses)."
         },
         {
             "title": "    THOROUGH PREPARATIONS",
-            "general": "You may convert 1 of your [D] to [S]. *newpara* Resolve one of the following: *newline* If this world contains a structure, gain materiel equal to the world's materiel value. *newline* Take your set-aside dominate order token and place it on top of this system's order stack.",
+            "general": "You may convert 1 of your [D] to [S]. *newpara* Resolve one of the following: *newline* If this world contains a structure, gain materiel equal to the world's materiel value. *newpara* Take your set-aside dominate order token and place it on top of this system's order stack.",
             "unit": ""
         },
         {
             "title": "    HAMMER OF OLYMPIA",
-            "general": "You may spend up to 4 [shield die] or [morale die]. For every die spent, gain 2 [temp bolter] and your opponent gains 2 [temp bolter]. *newline* If this world contains a friendly structure your opponent looses 2 [temp bolter].",
-            "unit": "Donjon/Grand Cruiser: Your opponent looses 2 [temp bolter]."
+            "general": "Spend up to 4 [S] or [M]. For every die spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a friendly structure your opponent looses 2 (B).",
+            "unit": "Donjon/Grand Cruiser: Your opponent looses 2 (B)."
         },
         {
             "title": "    DEADLY EFFICIENCY",
