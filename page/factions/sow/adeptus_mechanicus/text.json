@@ -112,8 +112,7 @@
         {
             "title": "    JUDGEMENT OF IRON",
             "general": "Spend up to 2 [S]. Gain 2 (B) for every die spent. *newline* If this world contains a friendly structure, gain 1 [S].",
-            "unit": "Leviathan/Grand Cruiser: Gain 1 [B]. If this world contains your opponent's structure, destroy it. 
-."
+            "unit": "Leviathan/Grand Cruiser: Gain 1 [B]. If this world contains your opponent's structure, destroy it."
         },
         {
             "title": "    SIEGECRAFT",
@@ -122,7 +121,7 @@
         },
         {
             "title": "    THOROUGH PREPARATIONS",
-            "general": "You may convert 1 of your dice to [S]. *newpara* Resolve one of the following: *newline* If this world contains a structure, gain materiel equal to the world's materiel value. *newline* Take your set-aside dominate order token and place it on top of this system's order stack.",
+            "general": "You may convert 1 of your [D] to [S]. *newpara* Resolve one of the following: *newline* If this world contains a structure, gain materiel equal to the world's materiel value. *newline* Take your set-aside dominate order token and place it on top of this system's order stack.",
             "unit": ""
         },
         {
