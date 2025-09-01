@@ -95,9 +95,9 @@
             "unit": "Siege Marine/Cruiser: After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
         },
         {
-            "title": "    DIG IN",
+            "title": "    DIG IN!",
             "general": "Gain 1 [M].",
-            "unit": "Siege Marine/Cruiser: If this world contains no structures, spend 1 [M] and destroy a friendly level 0 unit to immediatly place a free friendly bastion on it."
+            "unit": "Siege Marine: If this world contains no structures, spend 1 [M] and destroy a friendly level 0 unit to immediatly place a free friendly bastion on it."
         },
         {
             "title": "    OBLITERATORS",
@@ -105,34 +105,35 @@
             "unit": "Siege Marine/Cruiser: Gain 1 (S). You may destroy your unrouted Siege Marine to destroy a structure on this world."
         },
         {
-            "title": "    SIEGECRAFT",
+            "title": "    IRON WITHOUT",
             "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain 2 (B) or (S) in any combination. Your opponent gains the same combination of (B) and (S).",
             "unit": "Slave soldier/Cruiser/Bastion: Convert 1 of your [D] to [S] or [B]."
         },
         {
-            "title": "MACHINE SUPERIORITY",
-            "general": "Gain 1 [D], 2 (B), or 2 (S). *newpara* Spend 1 [M] to rally 1 of your units.",
-            "unit": "Onager/Ark Mechanicus: Choose [B], [S] or [M]. Force your opponent to convert up to 2 of the chosen dice to a different icon of your choice."
+            "title": "    JUDGEMENT OF IRON",
+            "general": "Spend up to 2 [S]. Gain 2 (B) for every die spent. *newline* If this world contains a friendly structure, gain 1 [S].",
+            "unit": "Leviathan/Grand Cruiser: Gain 1 [B]. If this world contains your opponent's structure, destroy it. 
+."
         },
         {
-            "title": "MANOEUVRABLE CRAFT",
-            "general": "Convert up to 2 of your [B] into [M]. *newpara* Spend 1 [M] to gain 3 (S).",
-            "unit": "Onager/Ark Mechanicus: Do not discard your (S) at the end of this execution round."
+            "title": "    SIEGECRAFT",
+            "general": "Gain either 1 (B) or 1 (S). Convert 1 of your [D] to [M].",
+            "unit": "Leviathan/Grand Cruiser: Spend 1 [M] to force your opponent to either discard 2 reinforcement tokens or loose 2 [M] in any combination (your opponent chooses)."
         },
         {
-            "title": "ELIMINATION VOLLEY",
-            "general": "Gain 1 (B).",
-            "unit": "Skitarii/Kataphron/Onager: Rout 1 of your opponent's units. This unit's command level cannot exceed the command level of your unrouted unit with the highest command level."
+            "title": "    THOROUGH PREPARATIONS",
+            "general": "You may convert 1 of your dice to [S]. *newpara* Resolve one of the following: *newline* If this world contains a structure, gain materiel equal to the world's materiel value. *newline* Take your set-aside dominate order token and place it on top of this system's order stack.",
+            "unit": ""
         },
         {
-            "title": "MACHINE SPIRIT'S REVENGE",
-            "general": "Gain either 1 [S] or 1 (S). *newline* Convert up to 2 of your [B] into [S].",
-            "unit": "Titan/Ark Mechanicus: If your units or bastions suffer no damage during this execution round, rout 1 of your opponent's units. *newpara* Spend 2 of your dice to destroy either 1 command level 0 unit or 1 structure in the contested area."
+            "title": "    HAMMER OF OLYMPIA",
+            "general": "You may spend up to 4 [shield die] or [morale die]. For every die spent, gain 2 [temp bolter] and your opponent gains 2 [temp bolter]. *newline* If this world contains a friendly structure your opponent looses 2 [temp bolter].",
+            "unit": "Donjon/Grand Cruiser: Your opponent looses 2 [temp bolter]."
         },
         {
-            "title": "RAGE OF THE MACHINE",
-            "general": "Gain 3 (B).",
-            "unit": "Titan/Ark Mechanicus: Do not discard your (B) at the end of this execution round."
+            "title": "    DEADLY EFFICIENCY",
+            "general": "",
+            "unit": "Donjon/Grand Cruiser: Immediately reveal the topmost card of the tactic stack and play it."
         }
     ]
 }
