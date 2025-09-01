@@ -71,7 +71,7 @@
         },
         {
             "title": "    BRUTAL ATTRITION",
-            "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain up to 3 (B). Your opponents gains that many (B).",
+            "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain up to 2 (B). Your opponents gains that many (B).",
             "unit": "Slave soldier/Cruiser: You may convert 1 of your [D] to [B]."
         },
         {
@@ -86,28 +86,28 @@
         },
         {
             "title": "    TIDE OF IRON",
-            "general": "Spend up to 2 [S] to gain 2 (B) for every [S] spent.",
-            "unit": "Slave soldier/Cruiser: : Gain 1 [D]. "
+            "general": "Spend 1 [S] to gain 2 (B).",
+            "unit": "Slave soldier/Cruiser: Gain 1 [D]. "
         },
         {
-            "title": "TRANSCENDENT COGITATION",
-            "general": "",
-            "unit": "Skitarii/Light Cruiser: Force your opponent to lose 1 [B], 1 [S], or 1 [M]. Then gain 1 [B], 1 [S], or 1 [M], whichever your opponent lost."
+            "title": "    IRON WITHIN",
+            "general": "If this world contains a structure, gain 1 [die]. *newpara* Convert 1 [die] to [morale die].",
+            "unit": "Siege Marine/Cruiser: After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
         },
         {
-            "title": "ENHANCED BIONICS",
-            "general": "Gain either 1 [B] or 1 (B).",
-            "unit": "Kataphron/Light Cruiser: Gain 2 (S) unless your opponent spends 1 [S]."
+            "title": "    DIG IN",
+            "general": "Gain either 1 [M].",
+            "unit": "Siege Marine/Cruiser: If this world contains no structures, spend 1 [morale die] and destroy a friendly level 0 unit to immediatly place a free friendly bastion on it."
         },
         {
-            "title": "AGGRESSION OVERRIDE",
-            "general": "Gain either 1 [S] or 1 (S).",
-            "unit": "Kataphron/Light Cruiser: Gain 2 (B) unless your opponent spends 1 [B]."
+            "title": "    OBLITERATORS",
+            "general": "Loose 1 [S]. At the beginning of the next execution round gain 1 [B] and 3 (B).",
+            "unit": "Siege Marine/Cruiser: Gain 1 (S). You may destroy your unrouted Siege Marine to destroy a structure on this world."
         },
         {
-            "title": "SIPHONED VIGOUR",
-            "general": "Convert 1 of your dice into [M]. *newpara* Either gain 1 [D] or resolve the unit abilities of your faceup combat card played in the previous execution round.",
-            "unit": ""
+            "title": "    SIEGECRAFT",
+            "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain 2 (B) or (S) in any combination. Your opponent gains the same combination of (B) and (S).",
+            "unit": "Slave soldier/Cruiser/Bastion: Convert 1 of your [D] to [S] or [B]."
         },
         {
             "title": "MACHINE SUPERIORITY",
