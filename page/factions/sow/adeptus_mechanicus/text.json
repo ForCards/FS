@@ -82,7 +82,7 @@
         {
             "title": "    WARSMITH",
             "general": "You may reroll 1 [D].",
-            "unit": "Siege Marine: if this world contains no structures, rout 1 friendly level 0 unit to buy and immediately place a friendly factory on this world."
+            "unit": "Siege Marine: if this world contains no structures, rout 1 friendly Slave Soldier to buy and immediately place a friendly factory on this world."
         },
         {
             "title": "    CANNON FODDER",
@@ -97,7 +97,7 @@
         {
             "title": "    DIG IN!",
             "general": "Gain 1 [M].",
-            "unit": "Siege Marine: If this world contains no structures, spend 1 [M] and destroy a friendly level 0 unit to immediatly place a free friendly bastion on it."
+            "unit": "Siege Marine: If this world contains no structures, spend 1 [M] and destroy a friendly Slave Soldier to immediatly place a free friendly bastion on it."
         },
         {
             "title": "    OBLITERATORS",
