@@ -44,7 +44,7 @@
         },
         {
             "title": "REPURPOSING",
-            "general": "*newpara* Remove a friendly structure to gain materiel equal to its materiel cost plus 1, after that you must immediately purchase a new structure and place it on the same world.",
+            "general": "*newpara* Remove a friendly structure to gain materiel equal to its materiel cost plus 1, after that you must immediately purchase a different structure and place it on the same world.",
             "type": "TACTIC"
         },
         {
