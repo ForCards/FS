@@ -38,7 +38,7 @@
             "type": "SCHEME"
         },
         {
-            "title": "COLD CALCULATIONS",
+            "title": "COLD CALCULATION",
             "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat to shuffle your tactic stack back into your deck and immediately form a new tactic stack.",
             "type": "SCHEME"
         },
@@ -130,7 +130,7 @@
             "unit": "Donjon/Grand Cruiser: Your opponent looses 2 (B)."
         },
         {
-            "title": "    DEADLY EFFICIENCY",
+            "title": "    ETERNAL RESENTMENT",
             "general": "",
             "unit": "Donjon/Grand Cruiser: Immediately reveal the topmost card of the tactic stack and play it."
         }
