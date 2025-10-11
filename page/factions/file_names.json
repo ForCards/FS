@@ -1,12 +1,12 @@
 {
   "expansion": {
-    "folder" : ["sow", "empty"],
-    "name" : ["Symphony of War", "Example"]
+    "folder" : ["sow", "dd", "empty"],
+    "name" : ["New Expansion", "DD_redesign", "Example"]
   } ,
     "faction": {
       "sow": {
         "folder": ["adepta_sororitas", "adeptus_mechanicus", "dark_eldar", "inquisition"],
-        "name": ["Sisters of Battle", "Adeptus Mechanicus", "Dark Eldar", "Inquisition"]
+        "name": ["Emperor's Children", "Iron Warriors", "Alpha Legion", "Harlequins"]
       },
       "empty": {
         "folder": ["empty"],
