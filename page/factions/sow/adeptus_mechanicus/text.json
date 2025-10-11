@@ -67,7 +67,7 @@
         {
             "title": "    SHIELD FORMATION",
             "general": "Convert 1 of your [D] to [S]. Gain 1 (S).",
-            "unit": "Slave soldier/Cruiser/Bastion: You must convert 1 of your [D] to [S]."
+            "unit": "Slave soldier/Cruiser/Bastion: Convert 1 of your [D] to [S]."
         },
         {
             "title": "    BRUTAL ATTRITION",
@@ -91,7 +91,7 @@
         },
         {
             "title": "    IRON WITHIN",
-            "general": "If this world contains a structure, gain 1 [D]. *newpara* You must convert 1 [D] to [M].",
+            "general": "If this world contains a structure, gain 1 [D]. *newpara* Convert 1 [D] to [M].",
             "unit": "Siege Marine/Cruiser: After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
         },
         {
