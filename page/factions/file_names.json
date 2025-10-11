@@ -8,6 +8,11 @@
         "folder": ["adepta_sororitas", "adeptus_mechanicus", "dark_eldar", "inquisition"],
         "name": ["Emperor's Children", "Iron Warriors", "Alpha Legion", "Harlequins"]
       },
+      "dd": {
+        "folder": ["ec", "we", "dg", "ts"],
+        "name": ["Emperor's Children", "World Eaters", "Death Guard", "Thousand Sons"]
+
+      },
       "empty": {
         "folder": ["empty"],
         "name": ["Example"]
