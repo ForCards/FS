@@ -112,12 +112,12 @@
         {
             "title": "    JUDGEMENT OF IRON",
             "general": "Spend up to 2 [S]. Gain 2 (B) for every die spent. *newpara* If this world contains a friendly structure, gain 1 [S].",
-            "unit": "Leviathan/Grand Cruiser: Gain 1 [B]. If this world contains your opponent's structure, destroy it."
+            "unit": "Hellforged Leviathan/Heavy Cruiser: Gain 1 [B]. If this world contains your opponent's structure, destroy it."
         },
         {
             "title": "    SIEGECRAFT",
             "general": "Gain 1 (B) or 1 (S). Convert 1 of your [D] to [M].",
-            "unit": "Leviathan/Grand Cruiser: Spend 1 [M] to force your opponent to either discard 2 reinforcement tokens or loose 2 [M] in any combination (your opponent chooses)."
+            "unit": "Hellforged Leviathan/Heavy Cruiser: Spend 1 [M] to force your opponent to either discard 2 reinforcement tokens or loose 2 [M] in any combination (your opponent chooses)."
         },
         {
             "title": "    THOROUGH PREPARATIONS",
@@ -125,14 +125,14 @@
             "unit": ""
         },
         {
-            "title": "    HAMMER OF OLYMPIA",
+            "title": "    ETERNAL RESENTMENT",
             "general": "Spend up to 4 [S] or [M]. For every die spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a friendly structure your opponent looses 2 (B).",
-            "unit": "Donjon/Grand Cruiser: Your opponent looses 2 (B)."
+            "unit": "Donjon/Heavy Cruiser: Your opponent looses 2 (B)."
         },
         {
-            "title": "    ETERNAL RESENTMENT",
+            "title": "    HAMMER OF OLYMPIA",
             "general": "",
-            "unit": "Donjon/Grand Cruiser: Immediately reveal the topmost card of the tactic stack and play it."
+            "unit": "Donjon/Heavy Cruiser: Immediately reveal the topmost card of the tactic stack and play it."
         }
     ]
 }
