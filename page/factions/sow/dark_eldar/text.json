@@ -97,7 +97,7 @@
         {
             "title": "KNOW THEIR EVERY MOVE",
             "general": "Convert any 1 of your opponent's [D] to [S] or [B].",
-            "Alpha Marine/Cruiser: gain 1 [B] or 1 [S]."
+            "unit": "Alpha Marine/Cruiser: gain 1 [B] or 1 [S]."
         },
         {
             "title": "ALWAYS PREPARED",
