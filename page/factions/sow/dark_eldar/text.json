@@ -126,13 +126,13 @@
         },
         {
             "title": "WE ARE ALPHARIUS",
-            "general": "Until the end of the combat your reinforcement units are considered to be your CL2 units. Destroy all your reinforcement units at the start of the resolution phase.",
+            "general": "Until the end of the combat your reinforcement units are considered to be your CL2 units. Eliminate all your reinforcement units at the start of the resolution phase.",
             "unit": "Feral/Grand Cruiser: ???"
         },
         {
             "title": "HYDRA DOMINATUS",
             "general": "Choose a card from your hand and place it facedown next to this card. Choose any 3 of your opponent's dice. Your opponent may spend the chosen dice to discard your facedown card. Otherwise, reveal the card and play it.",
-            "unit": "Feral/Grand Cruiser: gain 1 (S) or 1 (B) for every [shield] icon on your opponent's played combat cards. "
+            "unit": "Feral/Grand Cruiser: gain 1 (S) or 1 (B) for every shield icon on your opponent's played combat cards. "
         }
     ]
 }
