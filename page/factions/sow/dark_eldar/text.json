@@ -85,7 +85,7 @@
             "unit": "Infiltrator/Alpha Marine/Cruiser: Choose one: *newline* Your opponent discards all unrevealed cards unless he spends 2 dice of your choice. *newpara* Or *newpara* Your opponent discards one of the revealed cards of your choice."
         },
         {
-            "title": "KNOW THEIR EVERY MOVE",
+            "title": "SUBTERFUGE",
             "general": "If you are attacking you may force your opponent to discard his facedown card and pick a new one. If you do gain 1 [M] for every [M] icon on the discarded card. *newpara* If you are defending your opponent looses 2 [temp bolter].",
             "unit": "Infiltrator/Alpha Marine/Cruiser: You may discard down to 2 cards in hand to force your opponent to discard down to 2 cards in hand."
         },
@@ -95,9 +95,9 @@
             "unit": "Alpha Marine/Cruiser: Gain 2 (B) or 2 (S)."
         },
         {
-            "title": "SUBTERFUGE",
+            "title": "KNOW THEIR EVERY MOVE",
             "general": "Convert any 1 of your opponent's [D] to [S] or [B].",
-            "Alpha Marine/Cruiser": "gain 1 [B] or 1 [S]"
+            "Alpha Marine/Cruiser: gain 1 [B] or 1 [S]."
         },
         {
             "title": "ALWAYS PREPARED",
@@ -126,7 +126,7 @@
         },
         {
             "title": "WE ARE ALPHARIUS",
-            "general": "Until the end of the combat your reinforcement units are considered to be your CL2 units. After the last round of combat (before the Determine the Winner phase) destroy all your reinforcement units.",
+            "general": "Until the end of the combat your reinforcement units are considered to be your CL2 units. Destroy all your reinforcement units at the start of the resolution phase.",
             "unit": "Feral/Grand Cruiser: ???"
         },
         {
