@@ -23,43 +23,43 @@
     ],
     "eventsText": [
         {
-            "title": "UNDIVIDED FAITH",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card at the start of an execution round of combat. If you do, your routed units contribute half of their morale value, rounded up, to your total morale during the resolution step of this combat.",
+            "title": "A FEAST TO REMEMBER",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme when collecting materiel in the Refresh phase. Choose a system and collect materiel from all friendly worlds in that system again.",
             "type": "SCHEME"
         },
         {
-            "title": "HEROINE IN THE MAKING",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Instead of revealing an order during the Operations Phase, you may discard this card to move 1 Sister Repentia or 1 Battle Sister to an enemy world and start combat. While resolving this combat, resolve 1 execution round only and treat the chosen unit as a Living Saint. Destroy it after you resolve the combat.",
+            "title": "BEGUILEMENT",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of an opponent's turn. That opponent must choose one of their order tokens on the game board and move it to the bottom of its respective stack. Then he skips his turn.",
             "type": "SCHEME"
         },
         {
-            "title": "INDOMITABLE BELIEF",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card at the start of an execution round of combat. If you do, your units cannot become routed during this execution round.",
+            "title": "SHE IS NEVER SATED",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme after resolving your next advance order. You must immediately resolve this advance order again.",
             "type": "SCHEME"
         },
         {
-            "title": "FAIT ACCOMPLI",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Before revealing an order during the Operations Phase, you may discard this card to take either 1 Sister Repentia or 1 Battle Sister from any world and place it on any friendly world.",
+            "title": "THE DARK PRINCE BECKONS",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme at the start of a combat on a world with friendly units or structures. Replace 1 of your opponent's CL0 units with a Pleasure Seeker from your reserve.",
             "type": "SCHEME"
         },
         {
-            "title": "INVASION CATHEDRUM DEPLOYMENT",
-            "general": "Either place 1 free city on a friendly world not containing a structure or spend 3 materiel to place 1 free city on a friendly world not containing a city.",
+            "title": "DANCE OF THE DEMONETTES",
+            "general": "*newpara* Return any number of Pleasure Seekers from your faction board and place them on any friendly worlds.",
             "type": "TACTIC"
         },
         {
-            "title": "CRUSADE INTO DARKNESS",
-            "general": "Purchase 1 combat upgrade, reducing its materiel cost by 1 for each system containing both friendly and enemy areas. The reduction cannot exceed 3 materiel.",
+            "title": "SHE GROWS BORED OF THE GAME",
+            "general": "*newpara* Each opponent may decide, in secret, to claim any one of their unclaimed objectives. If any opponent claims an objective, you may claim one of your unclaimed objectives.",
             "type": "TACTIC"
         },
         {
-            "title": "INSPIRING ORATOR",
-            "general": "Either gain 1 reinforcement token or gain 1 reinforcement token for each friendly world containing a city.",
+            "title": "PRIDE BEFORE THE FALL",
+            "general": "*newpara* Choose a player. That player must retun one of their claimed objectives to any enemy world.",
             "type": "TACTIC"
         },
         {
-            "title": "ULTIMATE DEVOTION",
-            "general": "Either place 1 free Battle Sister on a friendly world containing a unit or place 1 free Sister Repentia on any friendly world.",
+            "title": "YOUNGEST AMONG THE GODS",
+            "general": "*newpara* Immediately place 1 order token in any legal system following the usual order token placement rules.",
             "type": "TACTIC"
         }
     ],
