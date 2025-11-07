@@ -67,12 +67,12 @@
         {
             "title": "    SHIELD FORMATION",
             "general": "Convert 1 of your [D] to [S]. Gain 1 (S).",
-            "unit": "Slave soldier/Cruiser/Bastion: Convert 1 of your [D] to [S]."
+            "unit": "Slave soldier/Devastation/Bastion: Convert 1 of your [D] to [S]."
         },
         {
             "title": "    CANNON FODDER",
             "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain up to 2 (B). Your opponents gains that many (B).",
-            "unit": "Slave soldier/Cruiser: Convert 1 of your [D] to [B]."
+            "unit": "Slave soldier/Devastation: Convert 1 of your [D] to [B]."
         },
         {
             "title": "    PURGE THE WEAK",
@@ -87,12 +87,12 @@
         {
             "title": "    BRUTAL ATTRITION",
             "general": "Spend 1 [S] to gain 2 (B).",
-            "unit": "Slave soldier/Cruiser: Gain 1 [D]. "
+            "unit": "Slave soldier/Devastation: Gain 1 [D]. "
         },
         {
             "title": "    IRON WITHIN",
             "general": "If this world contains a structure, gain 1 [D]. *newpara* Convert 1 [D] to [M].",
-            "unit": "Siege Marine/Cruiser: After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
+            "unit": "Siege Marine/Devastation: After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
         },
         {
             "title": "    DIG IN!",
@@ -102,22 +102,22 @@
         {
             "title": "    OBLITERATORS",
             "general": "Loose 1 [S]. At the beginning of the next execution round gain 1 [B] and 3 (B).",
-            "unit": "Siege Marine/Cruiser: Gain 1 (S). Destroy your unrouted Siege Marine to destroy a structure on this world."
+            "unit": "Siege Marine/Devastation: Gain 1 (S). Destroy your unrouted Siege Marine to destroy a structure on this world."
         },
         {
             "title": "    IRON WITHOUT",
             "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain 2 (B) or 2 (S) in any combination. Your opponent gains the same combination of (B) and (S).",
-            "unit": "Slave soldier/Cruiser/Bastion: Convert 1 of your [D] to [S] or [B]."
+            "unit": "Slave soldier/Devastation/Bastion: Convert 1 of your [D] to [S] or [B]."
         },
         {
             "title": "    JUDGEMENT OF IRON",
             "general": "Spend up to 2 [S]. Gain 2 (B) for every die spent. *newpara* If this world contains a friendly structure, gain 1 [S].",
-            "unit": "Hellforged Leviathan/Heavy Cruiser: Gain 1 [B]. If this world contains your opponent's structure, destroy it."
+            "unit": "Hellforged Leviathan/Devastation: Gain 1 [B]. If this world contains an enemy structure, destroy it."
         },
         {
             "title": "    SIEGECRAFT",
             "general": "Gain 1 (B) or 1 (S). Convert 1 of your [D] to [M].",
-            "unit": "Hellforged Leviathan/Heavy Cruiser: Spend 1 [M] to force your opponent to either discard 2 reinforcement tokens or loose 2 [M] in any combination (your opponent chooses)."
+            "unit": "Hellforged Leviathan/Hecate: Spend 1 [M] to force your opponent to either discard 2 reinforcement tokens or loose 2 [M] in any combination (your opponent chooses)."
         },
         {
             "title": "    THOROUGH PREPARATIONS",
@@ -126,13 +126,13 @@
         },
         {
             "title": "    ETERNAL RESENTMENT",
-            "general": "Spend up to 4 [S] or [M]. For every die spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a friendly structure your opponent looses 2 (B).",
-            "unit": "Donjon/Heavy Cruiser: Your opponent looses 2 (B)."
+            "general": "Spend up to 4 [S] or [M]. For every die spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a structure, your opponent looses 2 (B).",
+            "unit": "Donjon/Hecate: Your opponent looses 2 (B)."
         },
         {
             "title": "    HAMMER OF OLYMPIA",
             "general": "",
-            "unit": "Donjon/Heavy Cruiser: Immediately reveal the topmost card of the tactic stack and play it."
+            "unit": "Donjon/Hecate: Immediately reveal the topmost card of the tactic stack and play it."
         }
     ]
 }
