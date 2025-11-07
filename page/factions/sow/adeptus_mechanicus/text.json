@@ -132,7 +132,7 @@
         {
             "title": "    HAMMER OF OLYMPIA",
             "general": "",
-            "unit": "Donjon/Hecate: Immediately reveal the topmost card of the tactic stack and play it."
+            "unit": "Donjon/Hecate: Immediately reveal the topmost card of the Tactical stack and play it."
         }
     ]
 }
