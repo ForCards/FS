@@ -1,0 +1,139 @@
+{
+    "ordersText": [
+        {
+            "title": "A SINGLE THRUST",
+            "general": "If this advance order results in a combat, you may play an additional combat card during the first round. *newline* However, after each round of combat your combat cards are discarded and do not carry over to future rounds. *newline* LIMIT ONCE PER ROUND."
+        },
+        {
+            "title": "PURE GENESEED",
+            "general": "While resolving this order you may spend forge tokens as if they were cache tokens. *newline* LIMIT ONCE PER ROUND."
+        },
+        {
+            "title": "SHEER PERFECTION",
+            "general": "Your combat deck may consist of 8 cards. If there are 10 cards in your combat deck when you purchase combat upgrades, you may discard an additional pair of combat cards from your deck. *newline* LIMIT ONCE PER ROUND."
+        },
+        {
+            "title": "SONIC AMPLIFIERS",
+            "general": "Enemy bastions do not prevent this orbital strike. *newline*  During this orbital strike you may spend 2 [B] to destroy a structure on the targeted world. *newline* LIMIT ONCE PER ROUND."
+        },
+        {
+            "title": "UNBRIDLED HEDONISM",
+            "general": "While resolving this order there is no limit on the number of upgrades you may purchase of each type. *newline* LIMIT ONCE PER ROUND."
+        }
+    ],
+    "eventsText": [
+        {
+            "title": "A FEAST TO REMEMBER",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme when collecting materiel in the Refresh phase. Choose a system and collect materiel from all friendly worlds in that system again.",
+            "type": "SCHEME"
+        },
+        {
+            "title": "BEGUILEMENT",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of an opponent's turn. That opponent must choose one of their order tokens on the game board and move it to the bottom of its respective stack. Then he skips his turn.",
+            "type": "SCHEME"
+        },
+        {
+            "title": "SHE IS NEVER SATED",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme after resolving your next advance order. You must immediately resolve this advance order again.",
+            "type": "SCHEME"
+        },
+        {
+            "title": "THE DARK PRINCE BECKONS",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme at the start of a combat on a world with friendly units or structures. Replace 1 of your opponent's CL0 units with a Pleasure Seeker from your reserve.",
+            "type": "SCHEME"
+        },
+        {
+            "title": "DANCE OF THE DEMONETTES",
+            "general": "*newpara* Return any number of Pleasure Seekers from your faction board and place them on any friendly worlds.",
+            "type": "TACTIC"
+        },
+        {
+            "title": "SHE GROWS BORED OF THE GAME",
+            "general": "*newpara* Each opponent may decide, in secret, to claim any one of their unclaimed objectives. If any opponent claims an objective, you may claim one of your unclaimed objectives.",
+            "type": "TACTIC"
+        },
+        {
+            "title": "PRIDE BEFORE THE FALL",
+            "general": "*newpara* Choose a player. That player must retun one of their claimed objectives to any enemy world.",
+            "type": "TACTIC"
+        },
+        {
+            "title": "YOUNGEST AMONG THE GODS",
+            "general": "*newpara* Immediately place 1 order token in any legal system following the usual order token placement rules.",
+            "type": "TACTIC"
+        }
+    ],
+    "combatText": [
+        {
+            "title": "       SENSUAL ALLURE",
+            "general": "Your opponent must choose and rout 1 of his units.",
+            "unit": "Seeker/Cruiser: Gain [M] equal to the highest command level among unrouted enemy units."
+        },
+        {
+
+            "title": "       CORRUPTING INFLUENCE",
+            "general": "Your opponent must give you one of his [D].",
+            "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand."
+        },
+        {
+            "title": "       TRAITOROUS SOUL",
+            "general": "Gain 1 (B) for each enemy command level 0 unit.",
+            "unit": "Seeker: Replace 1 enemy command level 0 unit with a friendly command level 0 unit."
+        },
+        {
+            "title": "       SONG OF SLAANESH",
+            "general": "Gain 1 [M].",
+            "unit": "Seeker/Cruiser: Gain 1 (B) for each [M] you have."
+        },
+        {
+            "title": "       UNEXPECTED ALACRITY",
+            "general": "Either steal 1 (B) or 1 (S) or gain 1 (B) or 1 (S).",
+            "unit": "Seeker/Cruiser: Discard a combat card from your hand and resolve its unit abilities."
+        },
+        {
+            "title": "       ACOUSTIC BARRAGE",
+            "general": "Spend 1 [M] to gain 2 (B).",
+            "unit": "Noise Marine/Cruiser: Your opponent must rout 1 of his units or destroy all of his routed units."
+        },
+        {
+            "title": "       BLISSFUL AGONY",
+            "general": "Gain 1 (S) for each friendly routed unit.",
+            "unit": "Noise Marine/Cruiser: Friendly units cannot become routed during the next assess damage step."
+        },
+        {
+            "title": "       LURID VISIONS",
+            "general": "Steal 1 [B].",
+            "unit": "Noise Marine/Cruiser: Your opponent chooses and reveals a combat card from his hand. He must play that card in the next combat round."
+        },
+        {
+            "title": "       SHRIEKING HAVOCS",
+            "general": "Your opponent chooses for you to gain either 2 (B) or 2 (S).",
+            "unit": "Noise Marine/Cruiser: Your opponent cannot rally units during this round of combat."
+        },
+        {
+            "title": "       UNSPEAKABLE PERVERSION",
+            "general": "Steal 1 [M].",
+            "unit": "Seeker: Your opponent looses all reinforcement tokens. Place that many free reinforcement tokens in this area."
+        },
+        {
+            "title": "       MUTUAL DESTRUCTION",
+            "general": "Destroy a friendly unrouted unit to choose and destroy an enemy unit of the same or lower command level.",
+            "unit": "Soul Grinder/Cruiser/Grand Cruiser: Gain (B) equal to the highest command level among unrouted friendly units."
+        },
+        {
+            "title": "       REVEL IN MISERY",
+            "general": "Rally all friendly and enemy units.",
+            "unit": "Soul Grinder/Grand Cruiser: Gain 1 (B) or 1 (S) for each unit that was rallied as a result of the general ability of this card."
+        },
+        {
+            "title": "       FULGRIM'S AVARICE",
+            "general": "Gain 1 [M] for each unclaimed objective in the active system.",
+            "unit": "Keeper of Secrets/Grand Cruiser: Gain 3 (B) if you have claimed more objectives than your opponent. Gain 3 (S) if you have claimed fewer objectives than your opponent."
+        },
+        {
+            "title": "       IRRESISTIBLE TEMPTATION",
+            "general": "Steal 1 [B] and 1 [M].",
+            "unit": "Keeper of Secrets/Grand Cruiser: gain 2 (B) for each [D] you could not steal."
+        }
+    ]
+}
