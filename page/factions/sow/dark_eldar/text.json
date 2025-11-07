@@ -82,7 +82,7 @@
         {
             "title": "ONE STEP AHEAD",
             "general": "Either gain 1 [M] or force your opponent to choose and reveal any number of cards from his hand.",
-            "unit": "Infiltrator/Alpha Marine/Cruiser: Choose one: *newline* Your opponent discards all unrevealed cards. *newpara* Or *newpara* Your opponent discards one of the revealed cards of your choice."
+            "unit": "Infiltrator/Alpha Marine/Cruiser: Choose one: *newline* Your opponent discards all unrevealed cards unless he spends 2 [D] of your choice. Your opponent discards one of the revealed cards of your choice."
         },
         {
             "title": "ASSASINATION",
