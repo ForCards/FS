@@ -65,75 +65,74 @@
     ],
     "combatText": [
         {
-            "title": "       SENSUAL ALLURE",
-            "general": "Your opponent must choose and rout 1 of his units.",
-            "unit": "Seeker/Cruiser: Gain [M] equal to the highest command level among unrouted enemy units."
+            "title": "RECKLESS ASSAULT",
+            "general": "You must destroy 1 friendly unit.",
+            "unit": "Berzerker: Gain 2 (B). If you destroyed a plastic unit, gain 2 (B)."
         },
         {
-
-            "title": "       CORRUPTING INFLUENCE",
-            "general": "Your opponent must give you one of his [D].",
-            "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand."
+            "title": "GRUESOME TROPHY",
+            "general": "Force your opponent to loose 1 [D] of your choice.",
+            "unit": "Blood cultist/Berzerker/Carnage: If you have more [D] then your opponent, he must rout 1 unit."
         },
         {
-            "title": "       TRAITOROUS SOUL",
-            "general": "Gain 1 (B) for each enemy command level 0 unit.",
-            "unit": "Seeker: Replace 1 enemy command level 0 unit with a friendly command level 0 unit."
+            "title": "LET THE GALAXY BURN",
+            "general": "Gain 2 (B) for each enemy structure in the active system.",
+            "unit": "Blood cultist/Berzerker/Carnage: If there are enemy structures in the active system, gain 1 [M]."
         },
         {
-            "title": "       SONG OF SLAANESH",
-            "general": "Gain 1 [M].",
-            "unit": "Seeker/Cruiser: Gain 1 (B) for each [M] you have."
+            "title": "RITUALS OF BLOOD",
+            "general": "Gain 2 (S).",
+            "unit": "Blood cultist: Loose 1 [D] and discard this card to place a free Blood cultist in this area."
         },
         {
-            "title": "       UNEXPECTED ALACRITY",
-            "general": "Either steal 1 (B) or 1 (S) or gain 1 (B) or 1 (S).",
-            "unit": "Seeker/Cruiser: Discard a combat card from your hand and resolve its unit abilities."
+            "title": "SLAUGHTER THEM ALL",
+            "general": "Gain 1 [B] and 1 (B).",
+            "unit": "Blood cultist/Berzerker/Carnage: Your opponent must eliminate 1 of his units, unless he spends 1 [D]."
         },
         {
-            "title": "       ACOUSTIC BARRAGE",
-            "general": "Spend 1 [M] to gain 2 (B).",
-            "unit": "Noise Marine/Cruiser: Your opponent must rout 1 of his units or destroy all of his routed units."
+            "title": "BLINDED BY RAGE",
+            "general": "Discard 1 [D] to force your opponent to discard 2 matching [D].",
+            "unit": "Berzerker/Hellbrute/Carnage: Rally a friendly unit."
         },
         {
-            "title": "       BLISSFUL AGONY",
-            "general": "Gain 1 (S) for each friendly routed unit.",
-            "unit": "Noise Marine/Cruiser: Friendly units cannot become routed during the next assess damage step."
+            "title": "BLOOD FRENZY",
+            "general": "If it is the first round of combat, gain 2 (B) and 2 (S).",
+            "unit": "Berzerker: Gain 1 (B) and 1 (S)."
         },
         {
-            "title": "       LURID VISIONS",
-            "general": "Steal 1 [B].",
-            "unit": "Noise Marine/Cruiser: Your opponent chooses and reveals a combat card from his hand. He must play that card in the next combat round."
+            "title": "CUT THEM DOWN",
+            "general": "If there are no routed friendly units in this area, gain 2 (B).",
+            "unit": "Blood cultist/Berzerker/Carnage: Gain 1 (B) for each routed unit in this area."
         },
         {
-            "title": "       SHRIEKING HAVOCS",
-            "general": "Your opponent chooses for you to gain either 2 (B) or 2 (S).",
-            "unit": "Noise Marine/Cruiser: Your opponent cannot rally units during this round of combat."
+            "title": "DARK OFFERING",
+            "general": "",
+            "unit": "Blood cultist/Berzerker/Hellbrute: Your opponent may eliminate 1 of their units. If they do, you do not deal damage in the next Damage Assesment step."
         },
         {
-            "title": "       UNSPEAKABLE PERVERSION",
-            "general": "Steal 1 [M].",
-            "unit": "Seeker: Your opponent looses all reinforcement tokens. Place that many free reinforcement tokens in this area."
+            "title": "RED HAZE",
+            "general": "Gain 1 (S) for each unplayed card in your opponent's hand.",
+            "unit": "Berzerker/Hellbrute/Gloriana: Convert any number of [S] to [B]."
         },
         {
-            "title": "       MUTUAL DESTRUCTION",
-            "general": "Destroy a friendly unrouted unit to choose and destroy an enemy unit of the same or lower command level.",
-            "unit": "Soul Grinder/Cruiser/Grand Cruiser: Gain (B) equal to the highest command level among unrouted friendly units."
+            "title": "INSATIABLE BLOODLUST",
+            "general": "Your opponent must eliminate 1 of his unrouted units.",
+            "unit": "Hellbrute/Carnage/Gloriana: Gain 2 (B)."
         },
         {
-            "title": "       REVEL IN MISERY",
-            "general": "Rally all friendly and enemy units.",
-            "unit": "Soul Grinder/Grand Cruiser: Gain 1 (B) or 1 (S) for each unit that was rallied as a result of the general ability of this card."
+            "title": "HELLISH FURY",
+            "general": "Force your opponent to loose all [M].",
+            "unit": "Hellbrute: Your opponent must rout all of his CL0 units."
         },
         {
-            "title": "       FULGRIM'S AVARICE",
-            "general": "Gain 1 [M] for each unclaimed objective in the active system.",
-            "unit": "Keeper of Secrets/Grand Cruiser: Gain 3 (B) if you have claimed more objectives than your opponent. Gain 3 (S) if you have claimed fewer objectives than your opponent."
+            "title": "ANGRON'S DISDAIN",
+            "general": "This card must be revealed and played first, even if you are the defender. After it is played, your opponent may alter his choice of a combat card for ths round. *newpara* Cancel all abilities of combat cards played by your opponent this round.",
+            "unit": ""
         },
         {
-            "title": "       IRRESISTIBLE TEMPTATION",
-            "general": "Steal 1 [B] and 1 [M].",
-            "unit": "Keeper of Secrets/Grand Cruiser: gain 2 (B) for each [D] you could not steal."
+            "title": "BOUNDLESS ANGER",
+            "general": "Gain 1 [M] for each unit destroyed in the next Damage Assessment step.",
+            "unit": "Banelord/Gloriana: Gain 1 (B) for each unrouted friendly plastic unit."
         }
     ]
 }
