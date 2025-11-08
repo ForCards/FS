@@ -82,41 +82,41 @@
         {
             "title": "ONE STEP AHEAD",
             "general": "Either gain 1 [M] or force your opponent to choose and reveal any number of cards from his hand.",
-            "unit": "Infiltrator/Alpha Marine/Cruiser: Choose one: *newline* Your opponent discards all unrevealed cards unless he spends 2 [D] of your choice. Your opponent discards one of the revealed cards of your choice."
+            "unit": "Infiltrator/Alpha Marine/Cruiser: Choose one: *newpara* Your opponent discards all unrevealed cards unless he spends 2 [D] of your choice. *newpara* Or your opponent discards 1 of the revealed cards of your choice."
         },
         {
             "title": "ASSASINATION",
-            "general": "If you are attacking you may force your opponent to discard his facedown card and pick a new one. If you do gain 1 [M] for every [M] icon on the discarded card. *newpara* If you are defending your opponent looses 2 (B).",
-            "unit": "Alpha Marine/Cruiser: You may discard down to 2 cards in hand to force your opponent to discard down to 2 cards in hand."
+            "general": "If you are attacking you may force your opponent to discard his facedown card and pick a new one. If you do, gain 1 [M] for every morale icon on the discarded card. *newpara* If you are defending your opponent looses 2 (B).",
+            "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S). If this world has your order token, gain 1 [bolter die] or 1 [shield die]."
         },
         {
             "title": "WEAKEST LINK",
-            "general": "Choose a card from your hand and place it facedown next to this card. Your opponent may force you to discard this card. If he does, rally a friendly unit. Otherwise, reveal the card and gain its combat icons but do not resolve its abilities.",
-            "unit": "Alpha Marine/Cruiser: Gain 2 (B) or 2 (S)."
+            "general": "Rout a friendly unit to rally a unit. *newpara* If this world has your order token, gain 2 [bolter die]. If it is an advance order, gain 2 [temp bolter].",
+            "unit": "Alpha Marine/Cruiser: Gain 1 (B) and 1 (S)."
         },
         {
             "title": "SERPENT'S FANGS",
-            "general": "Convert any 1 of your opponent's [D] to [S] or [B].",
+            "general": "Convert any 1 of your opponent's [D] to [S] or [B]. *newpara* If this world has your order token, place 1 free Infiltrator on this world. If you are also the defender, place 1 free Alpha Marine instead.",
             "unit": "Alpha Marine/Cruiser: gain 1 [B] or 1 [S]."
         },
         {
             "title": "STRIKE FROM BEHIND",
-            "general": "You may spend 1 [M]. If you do, your opponent cannot resolve the unit abilities of his next revealed combat card.",
-            "unit": "Infiltrator/Cruiser: If the last combat card played by your opponent has a morale icon, place a free reinforcement token in this area."
+            "general": "Return one of your cards in play back to your hand to force your opponent to return one of his cards in play to his hand.",
+            "unit": "Infiltrator/Cruiser: Place a number of free reinforcement tokens in this area equal to the number of morale icons on the opponent's topmost card in play."
         },
         {
             "title": "HEADS OF A HYDRA",
             "general": " Until the end of the current combat round, whenever a friendly unit is destroyed, place a free reinforcement token in this area.",
-            "unit": "Alpha Marine/Cruiser: Gain 1 [M], 1 [S] or 1 [B], whichever your opponent has more of (in case of a tie you choose)."
+            "unit": "Alpha Marine/Cruiser: Gain 2 (B) or 1 (S)."
         },
         {
             "title": "SABOTAGE",
-            "general": "You may spend [M] to force your opponent to rout 1 reinforcement unit for every morale icon on his revealed cards. *newpara* Convert any 2 of your opponent's [D] to [S] or [B].",
+            "general": "Convert any 2 of your opponent's [D] to [S] or [B]. *newpara* You may spend [M] to force your opponent to rout 1 reinforcement unit for every morale icon on his revealed cards.",
             "unit": "Hydrafiend/Grand Cruiser: You may spend [M] to force your opponent to rout 1 unit."
         },
         {
             "title": "DEVILISH SCHEME",
-            "general": "Gain either 2 (B) or 2 (S).",
+            "general": "Gain 2 (B) or 2 (S). *newpara* If you are the defender and this world has your order token, place 1 free Hydrafiend in this world.",
             "unit": "Hydrafiend/Grand Cruiser: Look at the top 2 cards of your opponent's combat deck and set 1 of them aside. The next time your opponent plays a combat card, he must play the chosen card."
         },
         {
@@ -126,13 +126,13 @@
         },
         {
             "title": "WE ARE ALPHARIUS",
-            "general": "Until the end of the combat your reinforcement units are considered to be your CL2 units. Eliminate all your reinforcement units at the start of the resolution phase.",
-            "unit": "Feral/Grand Cruiser: ???"
+            "general": "Choose any world with your facedown token on it. Your opponent must guess the token. If he guesses right, discard the token or do nothing. Otherways, reveal it, move it to this world, and replace any unit on it with a friendly unit from your reserve according to your faction ability.",
+            "unit": "Feral: Take 1 of your order tokens from any order stack on the game board and place it on any world. You may then return this card to your hand."
         },
         {
             "title": "HYDRA DOMINATUS",
             "general": "Choose a card from your hand and place it facedown next to this card. Choose any 3 of your opponent's dice. Your opponent may spend the chosen dice to discard your facedown card. Otherwise, reveal the card and play it.",
-            "unit": "Feral/Grand Cruiser: gain 1 (S) or 1 (B) for every shield icon on your opponent's played combat cards. "
+            "unit": "Feral/Grand Cruiser: gain 1 (S) for every shield icon on your opponent's played combat cards or gain 1 (B) for every bolter icon on your opponent's played combat cards."
         }
     ]
 }
