@@ -1,24 +1,24 @@
 {
     "ordersText": [
         {
-            "title": "A SINGLE THRUST",
-            "general": "If this advance order results in a combat, you may play an additional combat card during the first round. *newline* However, after each round of combat your combat cards are discarded and do not carry over to future rounds. *newline* LIMIT ONCE PER ROUND."
+            "title": "BLOOD FOR THE BLOOD GOD",
+            "general": "While resolving this order you may draw 2 additional cards at the start of a combat. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "PURE GENESEED",
-            "general": "While resolving this order you may spend forge tokens as if they were cache tokens. *newline* LIMIT ONCE PER ROUND."
+            "title": "BUTCHER'S NAILS",
+            "general": "While resolving this order you may choose to reroll of your [S] and [M] to gain 1 [B] at the the start of a Combat. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "SHEER PERFECTION",
-            "general": "Your combat deck may consist of 8 cards. If there are 10 cards in your combat deck when you purchase combat upgrades, you may discard an additional pair of combat cards from your deck. *newline* LIMIT ONCE PER ROUND."
+            "title": "EATERS OF WORLDS",
+            "general": "After taking control of an enemy city as a result of this Advance order you may destroy that city to purchase either 1 Combat upgrade or 1 Order upgrade ignoring Command level restrictions. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "SONIC AMPLIFIERS",
-            "general": "Enemy bastions do not prevent this orbital strike. *newline*  During this orbital strike you may spend 2 [B] to destroy a structure on the targeted world. *newline* LIMIT ONCE PER ROUND."
+            "title": "MARK OF KHORNE",
+            "general": "If this Advance order results in a combat, place the order token on top of your event deck after resolving the order. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "UNBRIDLED HEDONISM",
-            "general": "While resolving this order there is no limit on the number of upgrades you may purchase of each type. *newline* LIMIT ONCE PER ROUND."
+            "title": "RAIN HELLFIRE",
+            "general": "Enemy bastions do not prevent this orbital strike. *newpara* During this orbital strike you may roll 2 fewer [D] in order to spend all [M] and gain 2 [B] for every [M] spent. *newline* LIMIT ONCE PER ROUND."
         }
     ],
     "eventsText": [
@@ -120,7 +120,7 @@
             "unit": "Hellbrute/Carnage/Gloriana: Gain 2 (B)."
         },
         {
-            "title": "HELLISH FURY",
+            "title": "LIMITLESS CARNAGE",
             "general": "Force your opponent to loose all [M].",
             "unit": "Hellbrute: Your opponent must rout all of his CL0 units."
         },
@@ -130,7 +130,7 @@
             "unit": ""
         },
         {
-            "title": "BOUNDLESS ANGER",
+            "title": "FURY INCARNATE",
             "general": "Gain 1 [M] for each unit destroyed in the next Damage Assessment step.",
             "unit": "Banelord/Gloriana: Gain 1 (B) for each unrouted friendly plastic unit."
         }
