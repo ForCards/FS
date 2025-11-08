@@ -87,11 +87,11 @@
         {
             "title": "ASSASINATION",
             "general": "If you are attacking you may force your opponent to discard his facedown card and pick a new one. If you do, gain 1 [M] for every morale icon on the discarded card. *newpara* If you are defending your opponent looses 2 (B).",
-            "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S). If this world has your order token, gain 1 [bolter die] or 1 [shield die]."
+            "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S). If this world has your order token, gain 1 [B] or 1 [S]."
         },
         {
             "title": "WEAKEST LINK",
-            "general": "Rout a friendly unit to rally a unit. *newpara* If this world has your order token, gain 2 [bolter die]. If it is an advance order, gain 2 [temp bolter].",
+            "general": "Rout a friendly unit to rally a unit. *newpara* If this world has your order token, gain 2 [B]. If it is an advance order, gain 2 (B).",
             "unit": "Alpha Marine/Cruiser: Gain 1 (B) and 1 (S)."
         },
         {
