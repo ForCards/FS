@@ -48,11 +48,6 @@
             "type": "TACTIC"
         },
         {
-            "title": "SHE GROWS BORED OF THE GAME",
-            "general": "*newpara* Each opponent may decide, in secret, to claim any one of their unclaimed objectives. If any opponent claims an objective, you may claim one of your unclaimed objectives.",
-            "type": "TACTIC"
-        },
-        {
             "title": "SACRAMENTS OF FLESH",
             "general": "Gain 3 materiel.",
             "type": "TACTIC"
@@ -61,7 +56,12 @@
             "title": "THE FAITHFUL ASCEND",
             "general": "Remove all Blood Cultists from a friendly world to place a free unit on that world of a command level equal to the number of Blood Cultists removed.",
             "type": "TACTIC"
-        }
+        },
+        {
+            "title": "WE DROWN IN BLOOD",
+            "general": "Every player must choose and destroy 1 friendly unit on any world. For each CL0 unit destroyed, gain a resource token of your choice.",
+            "type": "TACTIC"
+        },
     ],
     "combatText": [
         {
