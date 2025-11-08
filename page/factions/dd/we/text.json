@@ -23,28 +23,28 @@
     ],
     "eventsText": [
         {
-            "title": "A FEAST TO REMEMBER",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme when collecting materiel in the Refresh phase. Choose a system and collect materiel from all friendly worlds in that system again.",
+            "title": "A TITHE OF BLOOD",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* While this scheme is in play all friendly worlds have a minimum materiel value of 1.",
             "type": "SCHEME"
         },
         {
-            "title": "BEGUILEMENT",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of an opponent's turn. That opponent must choose one of their order tokens on the game board and move it to the bottom of its respective stack. Then he skips his turn.",
+            "title": "FRESH SUPPLICANTS",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara*  Discard this card at the start of the Reinforce step of a combat on an enemy world to place 2 free reinforcement tokens on this world.",
             "type": "SCHEME"
         },
         {
-            "title": "SHE IS NEVER SATED",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme after resolving your next advance order. You must immediately resolve this advance order again.",
+            "title": "HONOR THE FALLEN",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* While this scheme is in play all destroyed friendly units continue to provide their morale at the end of a combat.",
             "type": "SCHEME"
         },
         {
-            "title": "THE DARK PRINCE BECKONS",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme at the start of a combat on a world with friendly units or structures. Replace 1 of your opponent's CL0 units with a Pleasure Seeker from your reserve.",
+            "title": "ONLY WAR",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* While this scheme is in play the cost of all your combat upgrades and order upgrades is reduced by 1, to a minimum of 1.",
             "type": "SCHEME"
         },
         {
-            "title": "DANCE OF THE DEMONETTES",
-            "general": "*newpara* Return any number of Pleasure Seekers from your faction board and place them on any friendly worlds.",
+            "title": "FIRST AMONG THE GODS",
+            "general": "Choose a player: that player becomes the first player at the beginning of the next round.",
             "type": "TACTIC"
         },
         {
@@ -53,13 +53,13 @@
             "type": "TACTIC"
         },
         {
-            "title": "PRIDE BEFORE THE FALL",
-            "general": "*newpara* Choose a player. That player must retun one of their claimed objectives to any enemy world.",
+            "title": "SACRAMENTS OF FLESH",
+            "general": "Gain 3 materiel.",
             "type": "TACTIC"
         },
         {
-            "title": "YOUNGEST AMONG THE GODS",
-            "general": "*newpara* Immediately place 1 order token in any legal system following the usual order token placement rules.",
+            "title": "THE FAITHFUL ASCEND",
+            "general": "Remove all Blood Cultists from a friendly world to place a free unit on that world of a command level equal to the number of Blood Cultists removed.",
             "type": "TACTIC"
         }
     ],
@@ -72,22 +72,22 @@
         {
             "title": "GRUESOME TROPHY",
             "general": "Force your opponent to loose 1 [D] of your choice.",
-            "unit": "Blood cultist/Berzerker/Carnage: If you have more [D] then your opponent, he must rout 1 unit."
+            "unit": "Blood Cultist/Berzerker/Carnage: If you have more [D] then your opponent, he must rout 1 unit."
         },
         {
             "title": "LET THE GALAXY BURN",
             "general": "Gain 2 (B) for each enemy structure in the active system.",
-            "unit": "Blood cultist/Berzerker/Carnage: If there are enemy structures in the active system, gain 1 [M]."
+            "unit": "Blood Cultist/Berzerker/Carnage: If there are enemy structures in the active system, gain 1 [M]."
         },
         {
             "title": "RITUALS OF BLOOD",
             "general": "Gain 2 (S).",
-            "unit": "Blood cultist: Loose 1 [D] and discard this card to place a free Blood cultist in this area."
+            "unit": "Blood Cultist: Loose 1 [D] and discard this card to place a free Blood cultist in this area."
         },
         {
             "title": "SLAUGHTER THEM ALL",
             "general": "Gain 1 [B] and 1 (B).",
-            "unit": "Blood cultist/Berzerker/Carnage: Your opponent must eliminate 1 of his units, unless he spends 1 [D]."
+            "unit": "Blood Cultist/Berzerker/Carnage: Your opponent must eliminate 1 of his units, unless he spends 1 [D]."
         },
         {
             "title": "BLINDED BY RAGE",
@@ -102,12 +102,12 @@
         {
             "title": "CUT THEM DOWN",
             "general": "If there are no routed friendly units in this area, gain 2 (B).",
-            "unit": "Blood cultist/Berzerker/Carnage: Gain 1 (B) for each routed unit in this area."
+            "unit": "Blood Cultist/Berzerker/Carnage: Gain 1 (B) for each routed unit in this area."
         },
         {
             "title": "DARK OFFERING",
             "general": "",
-            "unit": "Blood cultist/Berzerker/Hellbrute: Your opponent may eliminate 1 of their units. If they do, you do not deal damage in the next Damage Assesment step."
+            "unit": "Blood Cultist/Berzerker/Hellbrute: Your opponent may eliminate 1 of their units. If they do, you do not deal damage in the next Damage Assesment step."
         },
         {
             "title": "RED HAZE",
