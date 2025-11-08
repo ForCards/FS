@@ -86,17 +86,17 @@
         },
         {
             "title": "ASSASINATION",
-            "general": "If you are attacking you may force your opponent to discard his facedown card and pick a new one. If you do, gain 1 [M] for every morale icon on the discarded card. *newpara* If you are defending your opponent looses 2 (B).",
+            "general": "If you are attacking, you may force your opponent to discard his facedown card and pick a new one. If you do, gain 1 [M] for every morale icon on the discarded card. *newpara* If you are defending, your opponent looses 2 (B).",
             "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S). If this world has your order token, gain 1 [B] or 1 [S]."
         },
         {
             "title": "WEAKEST LINK",
-            "general": "Rout a friendly unit to rally a unit. *newpara* If this world has your order token, gain 2 [B]. If it is an advance order, gain 2 (B).",
+            "general": "Rout a friendly unit to rally a unit. *newpara* If this world has your order token, gain 1 [B]. If it is an advance order, gain 2 (B).",
             "unit": "Alpha Marine/Cruiser: Gain 1 (B) and 1 (S)."
         },
         {
             "title": "SERPENT'S FANGS",
-            "general": "Convert any 1 of your opponent's [D] to [S] or [B]. *newpara* If this world has your order token, place 1 free Infiltrator on this world. If you are also the defender, place 1 free Alpha Marine instead.",
+            "general": "If this world has your order token, place 1 free Infiltrator on this world, and if you are the defender, place 1 free Alpha Marine instead. Otherways, convert any 2 of your opponent's [D] to [B] or [S].",
             "unit": "Alpha Marine/Cruiser: gain 1 [B] or 1 [S]."
         },
         {
@@ -106,12 +106,12 @@
         },
         {
             "title": "HEADS OF A HYDRA",
-            "general": " Until the end of the current combat round, whenever a friendly unit is destroyed, place a free reinforcement token in this area.",
+            "general": " Until the end of the current combat round, whenever a friendly unit is destroyed, place a free reinforcement token in this area and gain 1 (B).",
             "unit": "Alpha Marine/Cruiser: Gain 2 (B) or 1 (S)."
         },
         {
             "title": "SABOTAGE",
-            "general": "Convert any 2 of your opponent's [D] to [S] or [B]. *newpara* You may spend [M] to force your opponent to rout 1 reinforcement unit for every morale icon on his revealed cards.",
+            "general": "Convert any 2 of your opponent's [D] to [S] or [B]. *newpara* You may spend [M] to force your opponent to rout 1 reinforcement unit for every morale icon on his played cards.",
             "unit": "Hydrafiend/Grand Cruiser: You may spend [M] to force your opponent to rout 1 unit."
         },
         {
@@ -132,7 +132,7 @@
         {
             "title": "HYDRA DOMINATUS",
             "general": "Choose a card from your hand and place it facedown next to this card. Choose any 3 of your opponent's dice. Your opponent may spend the chosen dice to discard your facedown card. Otherwise, reveal the card and play it.",
-            "unit": "Feral/Grand Cruiser: gain 1 (S) for every shield icon on your opponent's played combat cards or gain 1 (B) for every bolter icon on your opponent's played combat cards."
+            "unit": "Feral/Grand Cruiser: gain 1 (S) for every shield icon on your opponent's played combat cards."
         }
     ]
 }
