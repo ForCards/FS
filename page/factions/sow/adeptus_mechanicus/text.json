@@ -67,7 +67,7 @@
         {
             "title": "    SHIELD FORMATION",
             "general": "Convert 1 of your [D] to [S]. Gain 1 (S).",
-            "unit": "Slave soldier/Devastation/Bastion: Convert 1 of your [D] to [S]."
+            "unit": "Slave soldier/Devastation/Bastion: Gain 1 [S]."
         },
         {
             "title": "    CANNON FODDER",
@@ -81,7 +81,7 @@
         },
         {
             "title": "    WARSMITH",
-            "general": "Reroll 1 [D].",
+            "general": "Gain 1 [D].",
             "unit": "Siege Marine: if this world contains no structures, rout 1 friendly Slave Soldier to buy and immediately place a friendly factory on this world."
         },
         {
@@ -117,7 +117,7 @@
         {
             "title": "    SIEGECRAFT",
             "general": "Gain 1 (B) or 1 (S). Convert 1 of your [D] to [M].",
-            "unit": "Hellforged Leviathan/Hecate: Spend 1 [M] to force your opponent to either discard 2 reinforcement tokens or loose 2 [M] in any combination (your opponent chooses)."
+            "unit": "Hellforged Leviathan/Hecate: Force your opponent to either discard 2 reinforcement tokens or loose 2 [M] in any combination (your opponent chooses)."
         },
         {
             "title": "    THOROUGH PREPARATIONS",
