@@ -67,17 +67,17 @@
         {
             "title": "WHERE LEAST EXPECTED",
             "general": "",
-            "unit": "Infiltrator/Alpha Marine/Scout cruiser: Choose a card from your hand and place it facedown next to this card. Choose any 1 of your opponent's [D]. Your opponent may spend the chosen [D] to discard your facedown card. Otherwise, reveal the card and gain its combat icons but do not resolve its abilities."
+            "unit": "Infiltrator/Alpha Marine/Cruiser: Choose a card from your hand and place it facedown next to this card. Choose any 1 of your opponent's [D]. Your opponent may spend the chosen [D] to discard your facedown card. Otherwise, reveal the card and gain its combat icons but do not resolve its abilities."
         },
         {
             "title": "COUNTERATTACK",
             "general": "If you are attacking, reveal your opponent's facedown combat card. *newpara* Gain 1 [B] for every bolter icon on your opponent's combat cards played this round.",
-            "unit": "Infiltrator/Scout cruiser: Gain 1 (S)."
+            "unit": "Infiltrator/Cruiser: Gain 1 (S)."
         },
         {
             "title": "DIVERSION",
             "general": "If you are attacking, reveal your opponent's facedown combat card. *newpara* Gain 1 [S] for every shield icon on your opponent's combat cards played this round.",
-            "unit": "Infiltrator/Scout cruiser: Reroll 1 [S] or [M]."
+            "unit": "Infiltrator/Cruiser: Reroll 1 [S] or [M]."
         },
         {
             "title": "ONE STEP AHEAD",
@@ -92,12 +92,12 @@
         {
             "title": "STRIKE FROM BEHIND",
             "general": "Rout a friendly unit to rally a unit or place a free reinforcement token in this area.",
-            "unit": "Alpha Marine/Scout cruiser: Gain 1 (B) or 1 (S) for every urouted friendly reinforcement unit in this area."
+            "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S) for every urouted friendly reinforcement unit in this area."
         },
         {
             "title": "SERPENT'S FANGS",
             "general": "Convert any 2 of your opponent's [D] to [B] or [S].",
-            "unit": "Alpha Marine/Scout cruiser: gain 1 [B] or 1 [S]. Search your combat deck for a card. Your opponent may spend 1 [D] of your choice to discard it."
+            "unit": "Alpha Marine/Cruiser: gain 1 [B] or 1 [S]. Search your combat deck for a card. Your opponent may spend 1 [D] of your choice to discard it."
         },
         {
             "title": "WEAKEST LINK",
@@ -127,7 +127,7 @@
         {
             "title": "WE ARE ALPHARIUS",
             "general": "",
-            "unit": "Feral/Dominus: If you are attacking, pick a number. The opponent must reveal his facedown combat card, and if it's command level equals your chosen number, your opponent cannot resolve any of that card's abilities. *newpara*  If you are defending, gain 1 (S) or 1 (B) for every morale icon on your opponent's played combat cards."
+            "unit": "Feral/Dominus: If you are attacking, pick a number. Your opponent must reveal his facedown combat card, and if its command level equals the chosen number, your opponent cannot resolve any of that card's abilities. *newpara*  If you are defending, gain 1 (S) or 1 (B) for every morale icon on your opponent's played combat cards."
         },
         {
             "title": "HYDRA DOMINATUS",
