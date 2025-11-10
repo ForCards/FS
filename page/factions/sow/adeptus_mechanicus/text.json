@@ -1,7 +1,7 @@
 {
     "ordersText": [
         {
-            "title": "???",
+            "title": "RELIABLE TACTICS",
             "general": "Before resolving this order you must shuffle your tactic stack into your deck. After resolving the order if you purchased a combat upgrade, immediately form a new tactic stack with 3 different cards from your combat deck. *newline* LIMIT ONCE PER ROUND."
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "title": "DEVASTATING BARRAGE",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat round on a world and destroy a friendly structure on this world to gain 3 (B).",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat round on a world and destroy a friendly unit on this world to gain 3 (B).",
             "type": "SCHEME"
         },
         {
