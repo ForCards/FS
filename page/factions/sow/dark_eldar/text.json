@@ -67,57 +67,57 @@
         {
             "title": "WHERE LEAST EXPECTED",
             "general": "",
-            "unit": "Infiltrator/Alpha Marine/Cruiser: Choose a card from your hand and place it facedown next to this card. Choose any 1 of your opponent's [D]. Your opponent may spend the chosen [D] to discard your facedown card. Otherwise, reveal the card and gain its combat icons but do not resolve its abilities."
+            "unit": "Infiltrator/Alpha Marine/Scout cruiser: Choose a card from your hand and place it facedown next to this card. Choose any 1 of your opponent's [D]. Your opponent may spend the chosen [D] to discard your facedown card. Otherwise, reveal the card and gain its combat icons but do not resolve its abilities."
         },
         {
             "title": "COUNTERATTACK",
             "general": "If you are attacking, reveal your opponent's facedown combat card. *newpara* Gain 1 [B] for every bolter icon on your opponent's combat cards played this round.",
-            "unit": "Infiltrator/Cruiser: Gain 1 (S)."
+            "unit": "Infiltrator/Scout cruiser: Gain 1 (S)."
         },
         {
             "title": "DIVERSION",
             "general": "If you are attacking, reveal your opponent's facedown combat card. *newpara* Gain 1 [S] for every shield icon on your opponent's combat cards played this round.",
-            "unit": "Infiltrator/Cruiser: Reroll 1 [S] or [M]."
+            "unit": "Infiltrator/Scout cruiser: Reroll 1 [S] or [M]."
         },
         {
             "title": "ONE STEP AHEAD",
             "general": "Either gain 1 [M] or force your opponent to choose and reveal any number of cards from his hand.",
-            "unit": "Infiltrator/Alpha Marine/Cruiser: Choose one: *newpara* Your opponent discards all unrevealed cards unless he spends 2 [D] of your choice. *newpara* Or your opponent discards 1 of the revealed cards of your choice."
+            "unit": "Infiltrator/Alpha Marine: Choose one: *newpara* Your opponent discards all unrevealed cards unless he spends 2 [D] of your choice. *newpara* Or your opponent discards 1 of the revealed cards of your choice."
         },
         {
             "title": "ASSASINATION",
             "general": "If you are attacking, you may force your opponent to discard his facedown card and pick a new one. If you do, gain 1 [M] for every morale icon on the discarded card. *newpara* If you are defending, your opponent looses 2 (B).",
-            "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S). If this world has your order token, gain 1 [B] or 1 [S]."
-        },
-        {
-            "title": "WEAKEST LINK",
-            "general": "Rout a friendly unit to rally a unit. *newpara* If this world has your order token, gain 1 [B]. If it is an advance order, gain 2 (B).",
-            "unit": "Alpha Marine/Cruiser: Gain 1 (B) and 1 (S)."
-        },
-        {
-            "title": "SERPENT'S FANGS",
-            "general": "If this world has your order token, place 1 free Infiltrator on this world, and if you are the defender, place 1 free Alpha Marine instead. Otherways, convert any 2 of your opponent's [D] to [B] or [S].",
-            "unit": "Alpha Marine/Cruiser: gain 1 [B] or 1 [S]."
+            "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S)."
         },
         {
             "title": "STRIKE FROM BEHIND",
-            "general": "Return one of your cards in play back to your hand to force your opponent to return one of his cards in play to his hand.",
-            "unit": "Infiltrator/Cruiser: Place a number of free reinforcement tokens in this area equal to the number of morale icons on the opponent's topmost card in play."
+            "general": "Rout a friendly unit to rally a unit or place a free reinforcement token in this area.",
+            "unit": "Alpha Marine/Scout cruiser: Gain 1 (B) or 1 (S) for every urouted friendly reinforcement unit in this area."
+        },
+        {
+            "title": "SERPENT'S FANGS",
+            "general": "Convert any 2 of your opponent's [D] to [B] or [S].",
+            "unit": "Alpha Marine/Scout cruiser: gain 1 [B] or 1 [S]. Search your combat deck for a card. Your opponent may spend 1 [D] of your choice to discard it."
+        },
+        {
+            "title": "WEAKEST LINK",
+            "general": "Discard one of your played cards to force your opponent to discard one of his played cards of your choice.",
+            "unit": "Infiltrator: Place a number of free reinforcement tokens in this area equal to the number of morale icons on the opponent's topmost card in play."
         },
         {
             "title": "HEADS OF A HYDRA",
             "general": "Until the end of the current combat round, whenever a friendly unit is destroyed, place a free reinforcement token in this area. At the beginning of the next combat round, gain 1 (B) for every friendly reinforcement unit.",
-            "unit": "Alpha Marine/Cruiser: Gain 2 (B) or 1 (S)."
+            "unit": "Alpha Marine/Cruiser: Gain 1 [B] or 1 [S]."
         },
         {
             "title": "SABOTAGE",
-            "general": "Convert any 2 of your opponent's [D] to [S] or [B]. *newpara* You may spend [M] to force your opponent to rout 1 reinforcement unit for every morale icon on his played cards.",
-            "unit": "Hydrafiend/Grand Cruiser: You may spend [M] to force your opponent to rout 1 unit."
+            "general": "Convert any 2 of your opponent's [D] to [S] or [B]. *newpara* Spend any number of [M] to force your opponent to rout 1 reinforcement unit for every [M] spent.",
+            "unit": "Hydrafiend/Dominus: Force your opponent to rout 1 unit of a command level equal to or less than the number of morale icons on his cards in play."
         },
         {
             "title": "DEVILISH SCHEME",
-            "general": "Gain 2 (B) or 2 (S). *newpara* If you are the defender and this world has your order token, place 1 free Hydrafiend on this world.",
-            "unit": "Hydrafiend/Grand Cruiser: Look at the top 2 cards of your opponent's combat deck and set 1 of them aside. The next time your opponent plays a combat card, he must play the chosen card."
+            "general": "Gain 2 (B) or 2 (S).",
+            "unit": "Hydrafiend/Dominus: Look at the top 2 cards of your opponent's combat deck and set 1 of them aside. The next time your opponent plays a combat card, he must play the chosen card."
         },
         {
             "title": "MIND GAMES",
@@ -126,13 +126,13 @@
         },
         {
             "title": "WE ARE ALPHARIUS",
-            "general": "Choose any world with your facedown token on it. Your opponent must guess the token. If he guesses right, discard the token or do nothing. Otherways, reveal it, move it to this world, and replace a unit on it with a unit from your reserve according to your faction ability.",
-            "unit": "Feral: Take 1 of your order tokens from any order stack on the game board and place it on any world. You may then return this card to your hand."
+            "general": "",
+            "unit": "Feral/Dominus: If you are attacking, pick a number. The opponent must reveal his facedown combat card, and if it's command level equals your chosen number, your opponent cannot resolve any of that card's abilities. *newpara*  If you are defending, gain 1 (S) or 1 (B) for every morale icon on your opponent's played combat cards."
         },
         {
             "title": "HYDRA DOMINATUS",
             "general": "Choose a card from your hand and place it facedown next to this card. Choose any 3 of your opponent's dice. Your opponent may spend the chosen dice to discard your facedown card. Otherwise, reveal the card and play it.",
-            "unit": "Feral/Grand Cruiser: gain 1 (S) for every shield icon on your opponent's played combat cards."
+            "unit": "Feral/Dominus: gain 1 (S) for every shield icon on your opponent's played combat cards."
         }
     ]
 }
