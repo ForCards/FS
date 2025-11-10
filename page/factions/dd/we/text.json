@@ -61,7 +61,7 @@
             "title": "WE DROWN IN BLOOD",
             "general": "Every player must choose and destroy 1 friendly unit on any world. For each CL0 unit destroyed, gain a resource token of your choice.",
             "type": "TACTIC"
-        },
+        }
     ],
     "combatText": [
         {
