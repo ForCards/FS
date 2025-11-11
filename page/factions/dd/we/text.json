@@ -76,18 +76,18 @@
         },
         {
             "title": "LET THE GALAXY BURN",
-            "general": "Gain 2 (B) for each enemy structure in the active system.",
+            "general": "Gain 2 (B) for each enemy structure in the active system, to a maximum of 4 (B).",
             "unit": "Blood Cultist/Berzerker/Carnage: If there are enemy structures in the active system, gain 1 [M]."
         },
         {
             "title": "RITUALS OF BLOOD",
             "general": "Gain 2 (S).",
-            "unit": "Blood Cultist: Loose 1 [D] and discard this card to place a free Blood cultist in this area."
+            "unit": "Blood Cultist: Spend 2 [D] and discard this card to place a free Blood cultist in this area."
         },
         {
             "title": "SLAUGHTER THEM ALL",
             "general": "Gain 1 [B] and 1 (B).",
-            "unit": "Blood Cultist/Berzerker/Carnage: Your opponent must eliminate 1 of his units, unless he spends 1 [D]."
+            "unit": "Blood Cultist/Berzerker/Carnage: Your opponent must destroy 1 of his units, unless he spends 1 [D]."
         },
         {
             "title": "BLINDED BY RAGE",
@@ -96,18 +96,18 @@
         },
         {
             "title": "BLOOD FRENZY",
-            "general": "If it is the first round of combat, gain 2 (B) and 2 (S).",
+            "general": "If it is the first round of combat, gain 2 (B) or 2 (S).",
             "unit": "Berzerker: Gain 1 (B) and 1 (S)."
         },
         {
             "title": "CUT THEM DOWN",
             "general": "If there are no routed friendly units in this area, gain 2 (B).",
-            "unit": "Blood Cultist/Berzerker/Carnage: Gain 1 (B) for each routed unit in this area."
+            "unit": "Blood Cultist/Berzerker/Carnage: Gain 1 (B) for each routed unit in this area, to a maximum of 3 (B)."
         },
         {
             "title": "DARK OFFERING",
             "general": "",
-            "unit": "Blood Cultist/Berzerker/Hellbrute: Your opponent may eliminate 1 of their units. If they do, you do not deal damage in the next Damage Assesment step."
+            "unit": "Blood Cultist/Berzerker/Hellbrute: Your opponent may destroy 1 of their units. If they do, you do not deal damage in the next Assess Damage step."
         },
         {
             "title": "RED HAZE",
@@ -116,12 +116,12 @@
         },
         {
             "title": "INSATIABLE BLOODLUST",
-            "general": "Your opponent must eliminate 1 of his unrouted units.",
+            "general": "Your opponent must destroy 1 of his unrouted units.",
             "unit": "Hellbrute/Carnage/Gloriana: Gain 2 (B)."
         },
         {
             "title": "LIMITLESS CARNAGE",
-            "general": "Force your opponent to loose all [M].",
+            "general": "",
             "unit": "Hellbrute: Your opponent must rout all of his CL0 units."
         },
         {
@@ -131,8 +131,8 @@
         },
         {
             "title": "FURY INCARNATE",
-            "general": "Gain 1 [M] for each unit destroyed in the next Damage Assessment step.",
-            "unit": "Banelord/Gloriana: Gain 1 (B) for each unrouted friendly plastic unit."
+            "general": "Gain 1 [M] for each unit destroyed in the next Assess Damage step.",
+            "unit": "Banelord/Gloriana: Gain 1 (B) for each unrouted friendly plastic unit, to a maximum of 3 (B)."
         }
     ]
 }
