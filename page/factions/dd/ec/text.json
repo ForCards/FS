@@ -66,7 +66,7 @@
     "combatText": [
         {
             "title": "       SENSUAL ALLURE",
-            "general": "Your opponent must choose and rout 1 of his units.",
+            "general": "Spend [M] to force your opponent to choose and rout 1 of his units.",
             "unit": "Seeker/Cruiser: Gain [M] equal to the highest command level among unrouted enemy units."
         },
         {
@@ -78,7 +78,7 @@
         {
             "title": "       TRAITOROUS SOUL",
             "general": "Gain 1 (B) for each enemy command level 0 unit.",
-            "unit": "Seeker: Replace 1 enemy command level 0 unit with a friendly command level 0 unit."
+            "unit": "Seeker: Replace 1 routed enemy CL0 unit with a routed Pleasure Seeker."
         },
         {
             "title": "       SONG OF SLAANESH",
@@ -93,7 +93,7 @@
         {
             "title": "       ACOUSTIC BARRAGE",
             "general": "Spend 1 [M] to gain 2 (B).",
-            "unit": "Noise Marine/Cruiser: Your opponent must rout 1 of his units or destroy all of his routed units."
+            "unit": "Noise Marine/Cruiser: Your opponent must either rout 1 of his units or destroy all of his routed units (your opponent chooses)."
         },
         {
             "title": "       BLISSFUL AGONY",
@@ -102,7 +102,7 @@
         },
         {
             "title": "       LURID VISIONS",
-            "general": "Steal 1 [B].",
+            "general": "Steal 1 [B] and gain 1 (B).",
             "unit": "Noise Marine/Cruiser: Your opponent chooses and reveals a combat card from his hand. He must play that card in the next combat round."
         },
         {
