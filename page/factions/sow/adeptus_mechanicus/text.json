@@ -24,7 +24,7 @@
     "eventsText": [
         {
             "title": "RELENTLESS ONSLAUGHT",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card after fully resolving an advance order to resolve an advance order once again. During the second order resolution you can only move to a single area that you already moved into this turn.",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card after fully resolving an advance order to rally 1 unit and resolve an advance order once again. During the second order resolution you can only move to a single area that you already moved into this turn.",
             "type": "SCHEME"
         },
         {
