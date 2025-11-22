@@ -126,8 +126,8 @@
         },
         {
             "title": "    ETERNAL RESENTMENT",
-            "general": "Spend up to 4 [S] or [M]. For every die spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a structure, your opponent looses 2 (B).",
-            "unit": "Donjon/Hecate: Your opponent looses 2 (B)."
+            "general": "Spend up to 4 [D]. For every [D] spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a structure, your opponent looses 2 (B).",
+            "unit": "Donjon/Hecate: Your opponent looses 3 (B)."
         },
         {
             "title": "    HAMMER OF OLYMPIA",
