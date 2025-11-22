@@ -23,43 +23,43 @@
     ],
     "eventsText": [
         {
-            "title": "REALSPACE RAID",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Instead of revealing an order during the Operations Phase, you may discard this card to choose an uncontrolled world. Gain assets from this world and gain materiel equal to its materiel value.",
+            "title": "COMPROMISED CHAIN OF COMMAND",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat before the Draw phase to look at the top 3 cards of your opponent's Combat deck. Move any of them to the bottom of his deck.",
             "type": "SCHEME"
         },
         {
-            "title": "SHADOWFIELD PROJECTION",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* While resolving an Advance Order, you may discard this card to perform its steps in any order.",
+            "title": "ANTICIPATE THEIR EVERY MOVE",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card when another player revals a dominate order token. That player cannot resolve his faction domination ability this turn (passive abilities are not affected).",
             "type": "SCHEME"
         },
         {
-            "title": "REVEL IN BLOODSHED",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* At the end of an execution round of combat, you may discard this card and destroy 1 of your command level 1 or command level 2 units to move any number of your units to an adjacent area. This can start a new combat after resolving this combat. ",
+            "title": "SLEEPER AGENT",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Secretly choose and place 1 of your order tokens facedown onto any world. Dscard this card at the start of a combat on that world to reveal the token, discard it and do the following: *newline* If it is a Strategize order, replace a CL0 unit in this area with a CL0 unit from your reserve. *newline* If it is a Deploy order, replace a CL1 unit in this area with a CL1 unit from your reserve. *newline* If it is a Dominate order, replace a CL2 unit in this area with a CL2 unit from your reserve. *newline* If it is an Advance order, replace a CL3 unit in this area with a CL3 unit from your reserve.",
             "type": "SCHEME"
         },
         {
-            "title": "VISIONS OF COMMORRAGH",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Instead of placing an order during the Planning Phase, you may discard this card.",
+            "title": "STOLEN BLUEPRINTS",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card when when you resolve an order. Your command level during this order resolution is equal to the highest command level among opponents who share at least 1 system with you.",
             "type": "SCHEME"
         },
         {
-            "title": "SLAVE TRADE",
-            "general": "Either spend up to 2 materiel to gain 1 asset of your choice for each materiel you spend or spend up to 2 assets to gain 2 materiel for each asset you spend.",
+            "title": "REDIRECT SUPPLIES",
+            "general": "Choose an opponent who you share at least 1 system with and an asset token type. Gain asset tokens of that type equal to the number of tokens of that type that he has.",
             "type": "TACTIC"
         },
         {
-            "title": "GRISLY TROPHIES",
-            "general": "Destroy 1 of your units on any world. Gain materiel equal to its materiel cost and gain reinforcement tokens equal to its morale value.",
+            "title": "DISRUPT COMMUNICATIONS",
+            "general": "Choose a player and 2 different order tokens. He must place those 2 tokens on top of his event deck. The tokens remain on top of his event deck till the next event phase.",
             "type": "TACTIC"
         },
         {
-            "title": "SPECTACLE OF MURDER",
-            "general": "Purchase 1 combat upgrade. You may spend reinforcement tokens to reduce its materiel cost by 2 for each token you spend.",
+            "title": "STEALTH OPERATION",
+            "general": "Choose an opponent. That opponent must choose and replace 1 of his CL0 units on any world with an Infiltrator from your reserve. This may start a combat, and if it does, you are considered the attacker.",
             "type": "TACTIC"
         },
         {
-            "title": "BLACK HEART SPONSORING",
-            "general": "Either place 1 free Frigate on a friendly void or spend 2 materiel and 1 forge token to replace 1 Frigate with 1 free Dying Sun Battleship.",
+            "title": "INDOCTRINATED POPULATION",
+            "general": "Choose an opponent and a system. Resolve an advance order within that system, controlling that opponent's forces as if they were yours. This advance order may not result in a combat or an orbital strike.",
             "type": "TACTIC"
         }
     ],
