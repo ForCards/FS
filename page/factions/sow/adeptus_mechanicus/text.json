@@ -49,12 +49,12 @@
         },
         {
             "title": "GRIM RESOLVE",
-            "general": "*newpara* Turn all cards in your tactic stack faceup (they become public information until played) and gain 1 materiel for every non-basic combat card in your tactic stack.",
+            "general": "*newpara* Turn all cards in your Tactical stack faceup (they become public information until played) and gain 1 asset token for every non-basic combat card in your Tactical stack.",
             "type": "TACTIC"
         },
         {
             "title": "MILLENIA-OLD BITTERNESS",
-            "general": "*newpara* Gain 1 reinforcement token for every system with a friendly structure and an opponent's structure in it.",
+            "general": "*newpara* Gain 1 reinforcement token for every system with a friendly structure and an enemy structure in it.",
             "type": "TACTIC"
         },
         {
