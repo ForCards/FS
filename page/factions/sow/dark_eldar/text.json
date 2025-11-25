@@ -71,12 +71,12 @@
         },
         {
             "title": "COUNTERATTACK",
-            "general": "If you are attacking, reveal your opponent's facedown combat card. *newpara* Gain 1 [B] for every bolter icon on your opponent's combat cards played this round.",
+            "general": "At the start of the Assess Damage step, gain 1 [B] for every bolter icon on your opponent's combat cards played this round.",
             "unit": "Infiltrator/Cruiser: Gain 1 (S)."
         },
         {
             "title": "DIVERSION",
-            "general": "If you are attacking, reveal your opponent's facedown combat card. *newpara* Gain 1 [S] for every shield icon on your opponent's combat cards played this round.",
+            "general": "At the start of the Assess Damage step, gain 1 [S] for every shield icon on your opponent's combat cards played this round.",
             "unit": "Infiltrator/Cruiser: Reroll 1 [S] or [M]."
         },
         {
