@@ -1,24 +1,24 @@
 {
     "ordersText": [
         {
-            "title": "SLAVE RAID",
-            "general": "If you rolled at least 2 [B] during this orbital strike, gain 1 reinforcement token. *newline* LIMIT ONCE PER ROUND."
+            "title": "DECOY",
+            "general": "Instead of resolving this order, you may replace it with any of your set-aside order tokens (that have not been placed on the game board this round) and resolve its corresponding order instead. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "MALEVOLENCE MADE FLESH",
-            "general": "After you resolve this order, you may either spend 1 reinforcement token to place 1 free Kabalite Warrior on any friendly world or replace 1 Kabalite Warrior in the active system with 1 free Wych. *newline* LIMIT ONCE PER ROUND."
+            "title": "SUBTERFUGE",
+            "general": "When resolving this order, you may force the owner of the next topmost order token in the active system's or an adjacent system's stack to put it on top of his event deck it and replace it with any of his set-aside order tokens (that have not been placed on the game board this round). He secretly chooses the new token. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "WEB OF TORMENT",
-            "general": "While resolving this order, you may move your units from any number of systems adjacent to the active system. *newline* LIMIT ONCE PER ROUND."
+            "title": "HIJACKED FACILITIES",
+            "general": "When resolving this order you may treat any cities and factories in the active system as friendly for the purpose of purchasing a single unit (but not for unit placement). *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "POWER FROM PAIN",
-            "general": "While resolving this order, increase your command level by 1. *newline* LIMIT ONCE PER ROUND."
+            "title": "???",
+            "general": "During this orbital strike you may spend any number of [S]. Your opponent must rout a unit on the target world for every 2 [S] spent. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "ECLIPSING DESCENT",
-            "general": "Enemy bastions do not prevent this orbital strike. During this orbital strike, you may spend 1 [B] to move 1 of your ships in the active system to another void in the active system. This can start a new combat after resolving this orbital strike. *newline* LIMIT ONCE PER ROUND."
+            "title": "FAKE ORDERS",
+            "general": "Enemy bastions do not prevent this orbital strike. During this orbital strike gain 1 [D] and you may spend any number of [M] to move a single opponent's unit from the target world to a world he controls by a legal movement path. The unit's CL cannot exceed the number of [M] spent, and the world's unit capacity cannot be exceeded as a result of this movement. *newline* LIMIT ONCE PER ROUND."
         }
     ],
     "eventsText": [
