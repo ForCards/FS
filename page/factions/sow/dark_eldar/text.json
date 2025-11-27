@@ -59,7 +59,7 @@
         },
         {
             "title": "INDOCTRINATED POPULATION",
-            "general": "Choose an opponent and a system. Resolve an advance order within that system, controlling that opponent's forces as if they were yours. This advance order may not result in a combat or an orbital strike.",
+            "general": "Choose an opponent and a system. Resolve an advance order within that system, controlling that opponent's forces as if they were yours. This advance order may not result in a combat or an orbital strike and areas' unit capacity may not be exceeded as the result of this order.",
             "type": "TACTIC"
         }
     ],
