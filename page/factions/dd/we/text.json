@@ -18,7 +18,7 @@
         },
         {
             "title": "RAIN HELLFIRE",
-            "general": "*newline* LIMIT ONCE PER ROUND."
+            "general": "Enemy bastions do not prevent this orbital strike. *newpara* During this orbital strike you roll 2 fewer [D] in order to spend all [M] and gain 2 [B] for every [M] spent. *newline* LIMIT ONCE PER ROUND."
         }
     ],
     "eventsText": [
