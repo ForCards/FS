@@ -86,7 +86,7 @@
         },
         {
             "title": "    BRUTAL ATTRITION",
-            "general": "Spend 1 [S] to gain 2 (B).",
+            "general": "Spend 1 [S] to gain 3 (B).",
             "unit": "Slave soldier/Devastation: Gain 1 [D]. "
         },
         {
@@ -97,7 +97,7 @@
         {
             "title": "    DIG IN!",
             "general": "Gain 1 [M].",
-            "unit": "Siege Marine: If this world contains no structures, spend 1 [M] and destroy an unrouted Slave Soldier to immediatly place a free friendly bastion on it."
+            "unit": "Siege Marine: If this world contains no structures, spend 1 [M] and destroy a friendly Slave Soldier to immediatly place a free friendly bastion on it."
         },
         {
             "title": "    OBLITERATORS",
