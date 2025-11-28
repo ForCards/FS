@@ -132,7 +132,7 @@
         {
             "title": "    HAMMER OF OLYMPIA",
             "general": "",
-            "unit": "Donjon/Hecate: Immediately reveal the topmost card of the Tactical stack and play it."
+            "unit": "Donjon/Hecate: Until the end of the combat an unrouted Donjon Siege Engine is considered to be a friendly structure. Immediately reveal the topmost card of the Tactical stack and play it."
         }
     ]
 }
