@@ -86,7 +86,7 @@
         },
         {
             "title": "    BRUTAL ATTRITION",
-            "general": "Spend 1 [S] to gain 2 (B).",
+            "general": "Spend 1 [S] to gain 2 (B) and force your opponent to lose 2 (B).",
             "unit": "Slave soldier/Devastation: Gain 1 [D]. "
         },
         {
@@ -101,7 +101,7 @@
         },
         {
             "title": "    OBLITERATORS",
-            "general": "Loose 1 [S]. At the beginning of the next execution round gain 2 [B] and 3 (B).",
+            "general": "Lose 1 [S]. At the beginning of the next execution round gain 2 [B] and 3 (B).",
             "unit": "Siege Marine/Devastation: Gain 1 (S). Destroy your unrouted Siege Marine to destroy a structure on this world."
         },
         {
