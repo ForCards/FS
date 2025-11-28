@@ -76,7 +76,7 @@
         },
         {
             "title": "    PURGE THE WEAK",
-            "general": "If this world contains a structure, gain 1 [S]. *newpara* Destroy any number of friendly routed units to gain 1 [M] and 1 materiel for each one.",
+            "general": "If this world contains a structure, gain 1 [S]. *newpara* Gain 1 (S). Destroy any number of friendly routed units to gain 1 [M] and 1 materiel for each one.",
             "unit": ""
         },
         {
