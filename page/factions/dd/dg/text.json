@@ -65,73 +65,73 @@
     ],
     "combatText": [
         {
-            "title": "CONTAGIOUS ROUNDS",
+            "title": "  CONTAGIOUS ROUNDS",
             "general": "You must assign 1 damage to any unit. That damage can rout the chosen unit.",
             "unit": "Plague Marine/Pestilaan: Gain 1 [B] if the chosen unit was not destroyed by the damage. Gain 2 (B) if the chosen unit was friendly."
         },
         {
 
-            "title": "DESEASED BLADES",
+            "title": "  DESEASED BLADES",
             "general": "Gain 1 (B) for each of your combat cards in play.",
             "unit": "Poxwalker/Plague Marine/Pestilaan: Gain 1 (B) if you have any [M]."
         },
         {
-            "title": "MIASMA AND ROT",
+            "title": "  MIASMA AND ROT",
             "general": "Gain 1 (S) for each of your combat cards in play.",
             "unit": "Poxwalker/Plague Marine/Pestilaan: Gain 1 (S) if you have any [M]."
         },
         {
-            "title": "PLAGUE PACT",
+            "title": "  PLAGUE PACT",
             "general": "If any unit would be destroyed during this combat round, it is routed instead.",
             "unit": "Poxwalker/Plague Marine/Pestilaan: After the Assess Damage step, gain 1 [M] for each unit that was routed during this combat round."
         },
         {
-            "title": "PUTRESCENT VITALITY",
+            "title": "  PUTRESCENT VITALITY",
             "general": "Gain 1 (S).",
             "unit": "Poxwalker/Plague Marine/Pestilaan: Convert any [D] to [S] until you have more [S] than [D] of any other type."
         },
         {
-            "title": "DEATH TOLL",
+            "title": "  DEATH TOLL",
             "general": "Immediately check this area's unit capacity, and each player must destroy units in excess of the capacity.",
             "unit": "Blight-hauler/Pestilaan: Gain 1 (B) for each unit destroyed as a result of this card's general ability."
         },
         {
-            "title": "PLAGUECRAFT",
+            "title": "  PLAGUECRAFT",
             "general": "",
             "unit": "Poxwalker/Executor: All units' health value is reduced by 1 to a minimum of 1 until the end of this combat."
         },
         {
-            "title": "REVOLTING RESILIENCE",
+            "title": "  REVOLTING RESILIENCE",
             "general": "Gain 1 (S) for every shield icon on your cards in play, to a maximum of 3 (S).",
             "unit": "Plague Marine/Blight-hauler/Pestilaan: If you have 3 (S), convert up to 2 [S] to [M]."
         },
         {
-            "title": "BLIGHT LAUNCHERS",
+            "title": "  BLIGHT LAUNCHERS",
             "general": "Your opponent must immediately suffer 1 damage for each of your [M].",
             "unit": "Plague Marine/Blight-hauler/Pestilaan: If no units were destroyed as a result of this card's general ability, gain 1 [M]."
         },
         {
-            "title": "THE DEAD WALK",
+            "title": "  THE DEAD WALK",
             "general": "",
             "unit": "Poxwalker/Blight-hauler: Place a free reinforcement token in this area for each routed enemy unit."
         },
         {
-            "title": "IN DEATH'S SHADOW",
+            "title": "  IN DEATH'S SHADOW",
             "general": "If you have more units in this area than your opponent, he must rout 1 unit.",
             "unit": "Pestilaan/Executor: Gain (B) equal to the highest morale value among routed enemy units."
         },
         {
-            "title": "SPREAD CONTAGION",
+            "title": "  SPREAD CONTAGION",
             "general": "You and your opponent must immediately suffer damage equal to the difference between your [M].",
             "unit": "Poxwalker/Plague Marine/Blight-hauler/Crawler: *newline* Gain 1 [M] if an enemy unit was destroyed by this card's general ability. *newline* Gain 1 [M] if a friendly unit was destroyed by this card's general ability."
         },
         {
-            "title": "MORTARION'S REGRET",
+            "title": "  MORTARION'S REGRET",
             "general": "Each of your combat cards in play provides an additional morale icon.",
             "unit": ""
         },
         {
-            "title": "THE SEVENTH PLAGUE",
+            "title": "  THE SEVENTH PLAGUE",
             "general": "Gain 7 (B).",
             "unit": "Crawler/Executor: For each of your (S) that did not block damage this round of combat, gain 1 (B) at the beginning of the next round."
         }
