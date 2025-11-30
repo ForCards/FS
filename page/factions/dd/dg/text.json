@@ -67,7 +67,7 @@
         {
             "title": "CONTAGIOUS ROUNDS",
             "general": "You must assign 1 damage to any unit. That damage can rout the chosen unit.",
-            "unit": "Plague Marine/Pestilaan: Gain 1 (B) if the chosen unit was not destroyed by the damage. Gain 1 (B) if the chosen unit was friendly."
+            "unit": "Plague Marine/Pestilaan: Gain 1 [B] if the chosen unit was not destroyed by the damage. Gain 2 (B) if the chosen unit was friendly."
         },
         {
 
@@ -96,9 +96,9 @@
             "unit": "Blight-hauler/Pestilaan: Gain 1 (B) for each unit destroyed as a result of this card's general ability."
         },
         {
-            "title": "THE DEAD WALK",
+            "title": "PLAGUECRAFT",
             "general": "",
-            "unit": "Poxwalker: Place a free reinforcement token in this area for each of your opponent's routed unit."
+            "unit": "Poxwalker/Executor: All units' health value is reduced by 1 to a minimum of 1 until the end of this combat."
         },
         {
             "title": "REVOLTING RESILIENCE",
@@ -106,14 +106,14 @@
             "unit": "Plague Marine/Blight-hauler/Pestilaan: If you have 3 (S), convert up to 2 [S] to [M]."
         },
         {
-            "title": "SPREAD CONTAGION",
+            "title": "BLIGHT LAUNCHERS",
             "general": "Your opponent must immediately suffer 1 damage for each of your [M].",
             "unit": "Plague Marine/Blight-hauler/Pestilaan: If no units were destroyed as a result of this card's general ability, gain 1 [M]."
         },
         {
-            "title": "BLIGHT LAUNCHERS",
-            "general": "If your opponent has 2 of fewer [S], they must discard all of their [S].",
-            "unit": "Plague Marine/Blight-hauler/Pestilaan: If your opponent has any unrouted CL2 or CL3 units, gain 3 (B)."
+            "title": "THE DEAD WALK",
+            "general": "",
+            "unit": "Poxwalker/Blight-hauler: Place a free reinforcement token in this area for each routed enemy unit."
         },
         {
             "title": "IN DEATH'S SHADOW",
@@ -121,7 +121,7 @@
             "unit": "Pestilaan/Executor: Gain (B) equal to the highest morale value among routed enemy units."
         },
         {
-            "title": "SHROUD OF DESEASE",
+            "title": "SPREAD CONTAGION",
             "general": "You and your opponent must immediately suffer damage equal to the difference between your [M].",
             "unit": "Poxwalker/Plague Marine/Blight-hauler/Crawler: *newline* Gain 1 [M] if an enemy unit was destroyed by this card's general ability. *newline* Gain 1 [M] if a friendly unit was destroyed by this card's general ability."
         },
