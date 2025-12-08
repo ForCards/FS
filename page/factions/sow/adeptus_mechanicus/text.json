@@ -66,7 +66,7 @@
     "combatText": [
         {
             "title": "    SHIELD FORMATION",
-            "general": "Convert 1 of your [D] to [S]. Gain 1 (S).",
+            "general": "You may convert 1 [D] to [S]. Either gain 1 (S), or gain 1 (B) for every [S] you have.",
             "unit": "Slave soldier/Devastation/Bastion: Gain 1 [S]."
         },
         {
@@ -76,48 +76,48 @@
         },
         {
             "title": "    PURGE THE WEAK",
-            "general": "If this world contains a structure, gain 1 [S]. *newpara* Gain 1 (S). Destroy any number of friendly units to gain 1 [M] and 1 materiel for each one.",
+            "general": "Rout 1 friendly Slave Soldier to rally up to 1 unit. *newpara* Gain 1 (S). Destroy any number of friendly routed units to gain 1 materiel and 1 [M] for each one.",
             "unit": ""
         },
         {
             "title": "    WARSMITH",
-            "general": "Gain 1 [D].",
+            "general": "Either gain 1 [D] or gain 1 [D] for every [M] you have.",
             "unit": "Siege Marine: if this world contains no structures, rout or destroy 1 friendly Slave Soldier to purchase and immediately place a friendly factory on this world."
         },
         {
             "title": "    BRUTAL ATTRITION",
-            "general": "Spend 1 [S] to gain 2 (B) and force your opponent to lose 2 (B).",
-            "unit": "Slave soldier/Devastation: Gain 1 [D]. "
+            "general": "Spend 1 [S] to either gain 1 [B] or to gain 1 (B) for every [B] you have. *newpara* Spend 1 [S] to gain 1 (B) for every [M] you have.",
+            "unit": "Slave soldier/Devastation: Gain 1 (S) for every [S] you have."
         },
         {
             "title": "    IRON WITHIN",
-            "general": "If this world contains a structure, gain 1 [D]. *newpara* Convert 1 [D] to [M].",
-            "unit": "Siege Marine/Devastation: After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
+            "general": "You must convert 1 [D] to [M].",
+            "unit": "Siege Marine/Devastation: Gain 1 [D] for each unrouted friendly Siege Marine. After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
         },
         {
             "title": "    DIG IN!",
             "general": "Gain 1 [M].",
-            "unit": "Siege Marine: If this world contains no structures, spend 1 [M] and destroy a friendly Slave Soldier to immediatly place a free friendly bastion on it."
+            "unit": "Siege Marine: If this world contains a friendly structure, gain 1 (S) for each unrouted Slave Soldier. *newline* If this world contains an enemy structure, gain 1 (B) for each unrouted Slave Soldier. *newpara* If this world contains no structures, spend 1 [M] and destroy an unrouted Slave Soldier to immediatly place a free friendly bastion on it."
         },
         {
             "title": "    OBLITERATORS",
             "general": "Lose 1 [S]. At the beginning of the next execution round gain 2 [B] and 3 (B).",
-            "unit": "Siege Marine/Devastation: Gain 1 (S). Destroy your unrouted Siege Marine to destroy a structure on this world."
+            "unit": "Siege Marine/Devastation: Gain 1 (S). You may destroy your unrouted Siege Marine to destroy a structure on this world."
         },
         {
             "title": "    IRON WITHOUT",
-            "general": "If this world contains a structure, gain 1 [D]. *newpara* Gain 2 (B) or 2 (S) in any combination. Your opponent gains the same combination of (B) and (S).",
-            "unit": "Slave soldier/Devastation/Bastion: Convert 1 of your [D] to [S] or [B]."
+            "general": "If this world contains a structure, gain 1 [D]. *newpara* Either gain 1 (B) for every [S] you have, or gain 1 (S) for every [B] you have.",
+            "unit": "Slave soldier/Devastation/Bastion: Convert 1 [D] to [S] or [B]."
         },
         {
             "title": "    JUDGEMENT OF IRON",
-            "general": "Spend up to 2 [S]. Gain 2 (B) for every die spent. *newpara* If this world contains a friendly structure, gain 1 [S].",
-            "unit": "Hellforged Leviathan/Devastation: Gain 1 [B]. If this world contains an enemy structure, destroy it."
+            "general": "Gain 1 [B]. Spend 1 [S] to gain 1 (B) for every [B] you have. *newpara* Spend 1 [S] to gain 1 (B) for every [B] you have. *newpara* If this world contains a friendly structure, gain 1 [S].",
+            "unit": "Hellforged Leviathan/Devastation: If this world contains an enemy structure, destroy it."
         },
         {
             "title": "    SIEGECRAFT",
-            "general": "Gain 1 (B) or 1 (S). Convert 1 of your [D] to [M].",
-            "unit": "Hellforged Leviathan/Hecate: Force your opponent to either discard 2 reinforcement tokens or loose 2 [M] in any combination (your opponent chooses)."
+            "general": "Gain either 1 (S) or 1 (B). Convert 1 [D] to [M].",
+            "unit": "Hellforged Leviathan/Hecate: Your opponent must lose 2 reinforcement tokens in this area. He may spend up to 2 [M] to keep 1 token for every [M] spent."
         },
         {
             "title": "    THOROUGH PREPARATIONS",
@@ -132,7 +132,7 @@
         {
             "title": "    HAMMER OF OLYMPIA",
             "general": "",
-            "unit": "Donjon/Hecate: Until the end of the combat an unrouted Donjon Siege Engine is considered to be a friendly structure. Immediately reveal the topmost card of the Tactical stack and play it."
+            "unit": "Donjon/Hecate: Until the end of the combat, an unrouted Donjon Siege Engine is considered to be a friendly structure. *newpara* Until the end of the current combat round, Donjon Siege Engine cannot become routed. *newpara* Immediately reveal the topmost card of the Tactical stack and play it."
         }
     ]
 }
