@@ -23,43 +23,43 @@
     ],
     "eventsText": [
         {
-            "title": "A FEAST TO REMEMBER",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme when collecting materiel in the Refresh phase. Choose a system and collect materiel from all friendly worlds in that system again.",
+            "title": "INEVITABLE DEMISE",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the end of any combat (not necessarily involving your forces). Both players involved in the combat must destroy on of their units that have participated in it.",
             "type": "SCHEME"
         },
         {
-            "title": "BEGUILEMENT",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of an opponent's turn. That opponent must choose one of their order tokens on the game board and move it to the bottom of its respective stack. Then he skips his turn.",
+            "title": "CHIME OF THE BELLS",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat to gain 1 (B) at the start of each combat round.",
             "type": "SCHEME"
         },
         {
-            "title": "SHE IS NEVER SATED",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme after resolving your next advance order. You must immediately resolve this advance order again.",
+            "title": "SILENT DECOMPOSITION",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat to force your opponent to discard 2 Combat cards from their hand.",
             "type": "SCHEME"
         },
         {
-            "title": "THE DARK PRINCE BECKONS",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme at the start of a combat on a world with friendly units or structures. Replace 1 of your opponent's CL0 units with a Pleasure Seeker from your reserve.",
+            "title": "FEEL NO PAIN",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card when a friendly non-CL0 unit would be destroyed. That unit is routed instead.",
             "type": "SCHEME"
         },
         {
-            "title": "DANCE OF THE DEMONETTES",
-            "general": "*newpara* Return any number of Pleasure Seekers from your faction board and place them on any friendly worlds.",
+            "title": "AND DOOM SHALL STALK",
+            "general": "Place a free Plague Marine on any uncontrolled world.",
             "type": "TACTIC"
         },
         {
-            "title": "SHE GROWS BORED OF THE GAME",
-            "general": "*newpara* Each opponent may decide, in secret, to claim any one of their unclaimed objectives. If any opponent claims an objective, you may claim one of your unclaimed objectives.",
+            "title": "INEVITABLE DECAY",
+            "general": "Destroy a friendly structure to gain 4 materiel.",
             "type": "TACTIC"
         },
         {
-            "title": "PRIDE BEFORE THE FALL",
-            "general": "*newpara* Choose a player. That player must retun one of their claimed objectives to any enemy world.",
+            "title": "PLAGUE WAVE",
+            "general": "Place a free Poxwalker on every friendly world containing a city.",
             "type": "TACTIC"
         },
         {
-            "title": "YOUNGEST AMONG THE GODS",
-            "general": "*newpara* Immediately place 1 order token in any legal system following the usual order token placement rules.",
+            "title": "VIRULENT OUTBREAK",
+            "general": "Rout all units on a world containing one of your objectives.",
             "type": "TACTIC"
         }
     ],
