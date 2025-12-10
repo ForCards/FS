@@ -23,13 +23,13 @@
     ],
     "eventsText": [
         {
-            "title": "INEVITABLE DEMISE",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the end of any combat (not necessarily involving your forces). Both players involved in the combat must destroy on of their units that have participated in it.",
+            "title": "CHIME OF THE BELLS",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat to gain 1 (B) at the start of each combat round.",
             "type": "SCHEME"
         },
         {
-            "title": "CHIME OF THE BELLS",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat to gain 1 (B) at the start of each combat round.",
+            "title": "INEVITABLE DEMISE",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the end of any combat (not necessarily involving your forces). Both players involved in the combat must destroy on of their units that have participated in it.",
             "type": "SCHEME"
         },
         {
