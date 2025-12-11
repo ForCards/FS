@@ -2,7 +2,7 @@
     "ordersText": [
         {
             "title": "BLIGHT BOMBARDMENT",
-            "general": "Enemy bastions do not prevent this orbital strike, and no damage may be assigned to enemy bastions. *newpara* During this orbital strike, gain 1 [D] for every friendly ship participating in it. *newline* LIMIT ONCE PER ROUND."
+            "general": "Enemy bastions do not prevent this orbital strike, and no damage may be assigned to enemy bastions. *newline* During this orbital strike, gain 1 [D] for every friendly ship participating in it. *newline* LIMIT ONCE PER ROUND."
         },
         {
             "title": "CLOUD OF FLIES",
