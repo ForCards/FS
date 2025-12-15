@@ -54,7 +54,7 @@
         },
         {
             "title": "PRIDE BEFORE THE FALL",
-            "general": "*newpara* Choose a player. That player must retun one of their claimed objectives to any enemy world.",
+            "general": "*newpara* Choose a player. That player must retun one of their claimed objectives to any enemy or uncontrolled world.",
             "type": "TACTIC"
         },
         {
@@ -66,7 +66,7 @@
     "combatText": [
         {
             "title": "       SENSUAL ALLURE",
-            "general": "Spend [M] to force your opponent to choose and rout 1 of his units.",
+            "general": "Your opponent must choose and rout 1 of his units.",
             "unit": "Seeker/Cruiser: Gain [M] equal to the highest command level among unrouted enemy units."
         },
         {
