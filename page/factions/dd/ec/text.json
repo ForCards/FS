@@ -78,7 +78,7 @@
         {
             "title": "       TRAITOROUS SOUL",
             "general": "Gain 1 (B) for each enemy command level 0 unit.",
-            "unit": "Seeker: Replace 1 routed enemy CL0 unit with a routed Pleasure Seeker."
+            "unit": "Seeker: Replace 1 routed enemy CL0 unit with an unrouted Pleasure Seeker."
         },
         {
             "title": "       SONG OF SLAANESH",
