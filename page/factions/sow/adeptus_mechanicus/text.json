@@ -66,7 +66,7 @@
     "combatText": [
         {
             "title": "    SHIELD FORMATION",
-            "general": "You may convert 1 [D] to [S]. Either gain 1 (S), or gain 1 (B) for every [S] you have.",
+            "general": "Convert 1 of your [D] to [S]. *newpara* If the total morale value provided by your units is greater than that of your opponent, gain 1 [S]. Otherways, gain 1 (S).",
             "unit": "Slave soldier/Devastation/Bastion: Gain 1 [S]."
         },
         {
@@ -76,28 +76,28 @@
         },
         {
             "title": "    PURGE THE WEAK",
-            "general": "Rout 1 friendly Slave Soldier to rally up to 1 unit. *newpara* Gain 1 (S). Destroy any number of friendly routed units to gain 1 materiel and 1 [M] for each one.",
+            "general": "If this card was played from Tactical stack, rout 1 Slave Soldier to place 1 free reinforcement token in this area. *newpara* Rout 1 friendly Slave Soldier to rally up to 1 unit. *newpara* Gain 1 (S). Destroy any number of friendly routed units to gain 1 materiel and 1 [M] for each one.",
             "unit": ""
         },
         {
             "title": "    WARSMITH",
-            "general": "Either gain 1 [D] or gain 1 [D] for every [M] you have.",
-            "unit": "Siege Marine: if this world contains no structures, rout or destroy 1 friendly Slave Soldier to purchase and immediately place a friendly factory on this world."
+            "general": "Gain 1 [S]. If this world's capacity is 2 or less, gain 1 (S) or 1 (B) for each unrouted friendly Slave Soldier.",
+            "unit": "Siege Marine: if this world contains no structures, rout or destroy 1 friendly Slave Soldier and spend 1 materiel to place a free friendly factory on this world."
         },
         {
             "title": "    BRUTAL ATTRITION",
-            "general": "Spend 1 [S] to either gain 1 [B] or to gain 1 (B) for every [B] you have. *newpara* Spend 1 [S] to gain 1 (B) for every [M] you have.",
-            "unit": "Slave soldier/Devastation: Gain 1 (S) for every [S] you have."
+            "general": "Spend 1 [S] to gain 1 (B) for every [B] you have, to a maximum of 3.",
+            "unit": "Slave soldier/Devastation: If this card was played from Tactical stack, convert up to 2 of your [D] to [S]."
         },
         {
             "title": "    IRON WITHIN",
             "general": "You must convert 1 [D] to [M].",
-            "unit": "Siege Marine/Devastation: Gain 1 [D] for each unrouted friendly Siege Marine. *newpara* After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
+            "unit": "Siege Marine/Devastation: If this card was played from Tactical stack, gain 1 [D] for every unrouted Siege Marine or Devastation Cruiser, to a maximum of 2. *newpara* After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
         },
         {
             "title": "    DIG IN!",
-            "general": "Gain 1 [M].",
-            "unit": "Siege Marine: If this world contains a friendly structure, gain 1 (S) for each unrouted Slave Soldier. *newline* If this world contains an enemy structure, gain 1 (B) for each unrouted Slave Soldier. *newpara* If this world contains no structures, spend 1 [M] and destroy an unrouted Slave Soldier to immediatly place a free friendly bastion on it."
+            "general": "Gain 1 [M]. *newpara* If this world contains a structure and you are attacking, gain 1 (B) for each unrouted Slave Soldier. If this world contains a structure and you are defending, gain 1 (S) for each unrouted Slave Soldier.",
+            "unit": "Siege Marine: If this world contains no structures, spend 1 [M] and destroy an unrouted Slave Soldier to immediatly place a free friendly bastion on it."
         },
         {
             "title": "    OBLITERATORS",
@@ -106,8 +106,8 @@
         },
         {
             "title": "    IRON WITHOUT",
-            "general": "If this world contains a structure, gain 1 [D]. *newpara* Either gain 1 (B) for every [S] you have, or gain 1 (S) for every [B] you have.",
-            "unit": "Slave soldier/Devastation/Bastion: Convert 1 [D] to [S] or [B]."
+            "general": "Choose a friendly unrouted unit in an adjacent area. Gain [D] equal to its combat value. If this card was played from Tactical stack, gain [D] equal to its morale value instead.",
+            "unit": "Siege Marine/Devastation/Bastion: Convert any of your [M] to [S] or [B]."
         },
         {
             "title": "    JUDGEMENT OF IRON",
