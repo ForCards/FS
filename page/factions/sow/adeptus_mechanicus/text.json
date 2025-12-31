@@ -2,7 +2,7 @@
     "ordersText": [
         {
             "title": "RELIABLE TACTICS",
-            "general": "Before resolving this order you must shuffle your Tactical stack into your deck. After resolving the order if you purchased a combat upgrade, immediately form a new tactic stack with 3 different cards from your combat deck. *newline* LIMIT ONCE PER ROUND."
+            "general": "Before resolving this order, shuffle your Tactical stack into your deck. After resolving the order if you purchased a combat upgrade, immediately form a new tactic stack with 3 different cards from your combat deck. *newline* LIMIT ONCE PER ROUND."
         },
         {
             "title": "DAEMONCULABA ",
@@ -106,18 +106,18 @@
         },
         {
             "title": "    IRON WITHOUT",
-            "general": "Choose a friendly unrouted unit in an adjacent area. Gain [D] equal to its combat value. If this card was played from Tactical stack, gain [D] equal to its morale value instead.",
+            "general": "Choose a friendly unrouted unit in an adjacent area. Gain (B) or (S) equal to its combat value. If this card was played from Tactical stack, gain (B) or (S) equal to its morale value instead.",
             "unit": "Siege Marine/Devastation/Bastion: Convert any of your [M] to [S] or [B]."
         },
         {
             "title": "    JUDGEMENT OF IRON",
-            "general": "Gain 1 [B]. Spend 1 [S] to gain 1 (B) for every [B] you have. *newpara* Spend 1 [S] to gain 1 (B) for every [B] you have. *newpara* If this world contains a friendly structure, gain 1 [S].",
-            "unit": "Hellforged Leviathan/Devastation: If this world contains an enemy structure, destroy it."
+            "general": "Spend up to 2 [S] to gain 2 (B) for every [S] spent. *newpara* If this world contains a friendly structure, gain 1 [S].",
+            "unit": "Hellforged Leviathan/Devastation: Gain 1 [B]. If this world contains an enemy structure, you may destroy it."
         },
         {
             "title": "    SIEGECRAFT",
             "general": "Gain either 1 (S) or 1 (B). Convert 1 [D] to [M].",
-            "unit": "Hellforged Leviathan/Hecate: Your opponent must lose 2 reinforcement tokens in this area. He may spend up to 2 [M] to keep 1 token for every [M] spent."
+            "unit": "Hellforged Leviathan/Hecate: If this card was played from Tactical stack, your opponent must lose 2 reinforcement tokens in this area. He may spend up to 2 [M] to keep 1 token for every [M] spent."
         },
         {
             "title": "    THOROUGH PREPARATIONS",
