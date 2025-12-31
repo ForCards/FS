@@ -81,7 +81,7 @@
         },
         {
             "title": "    WARSMITH",
-            "general": "Gain 1 [S]. If this world's capacity is 2 or less, gain 1 (S) or 1 (B) for each unrouted friendly Slave Soldier.",
+            "general": "Gain 1 [D]. If this world's capacity is 2 or less, gain 1 (S) or 1 (B) for each unrouted friendly Slave Soldier.",
             "unit": "Siege Marine: if this world contains no structures, rout or destroy 1 friendly Slave Soldier and spend 1 materiel to place a free friendly factory on this world."
         },
         {
