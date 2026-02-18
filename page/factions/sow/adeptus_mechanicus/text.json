@@ -66,7 +66,7 @@
     "combatText": [
         {
             "title": "    SHIELD FORMATION",
-            "general": "Convert 1 of your [D] to [S]. *newpara* If the total morale value provided by your units is greater than that of your opponent, gain 1 [S]. Otherways, gain 1 (S).",
+            "general": "Convert 1 of your [D] to [S]. *newline* If the total morale value provided by your units is greater than that of your opponent, gain 1 [S]. Otherways, gain 1 (S).",
             "unit": "Slave soldier/Devastation/Bastion: Gain 1 [S]."
         },
         {
@@ -91,8 +91,8 @@
         },
         {
             "title": "    IRON WITHIN",
-            "general": "You must convert 1 [D] to [M].",
-            "unit": "Siege Marine/Devastation: If this card was played from Tactical stack, gain 1 [D] for every unrouted Siege Marine or Devastation Cruiser, to a maximum of 2. *newpara* After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
+            "general": "You must convert 1 [D] to [M]. *newline* If this world contains a structure, gain 1 [D].",
+            "unit": "Siege Marine/Devastation: Take a friendly unrouted unit from any area and place it in an adjacent friendly area. *newline* After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
         },
         {
             "title": "    DIG IN!",
@@ -111,7 +111,7 @@
         },
         {
             "title": "    JUDGEMENT OF IRON",
-            "general": "Spend up to 2 [S] to gain 2 (B) for every [S] spent. *newpara* If this world contains a friendly structure, gain 1 [S].",
+            "general": "Spend up to 2 [S] to gain 2 (B) for every [S] spent. *newline* If this world contains a friendly structure, gain 1 [S].",
             "unit": "Hellforged Leviathan/Devastation: Gain 1 [B]. If this world contains an enemy structure, you may destroy it."
         },
         {
