@@ -6,7 +6,7 @@
     "faction": {
       "sow": {
         "folder": ["adeptus_mechanicus", "dark_eldar", "inquisition", "adepta_sororitas"],
-        "name": ["Iron Warriors", "Alpha Legion", "Harlequins", "Dark Mechanicum"]
+        "name": ["Iron Warriors", "Alpha Legion", "Harlequins", "Leagues of Votann"]
       },
       "dd": {
         "folder": ["ec", "we", "dg", "ts"],
