@@ -65,74 +65,74 @@
     ],
     "combatText": [
         {
-            "title": "    SHIELD FORMATION",
-            "general": "Convert 1 of your [D] to [S]. *newline* If the total morale value provided by your units is greater than that of your opponent, gain 1 [S]. Otherways, gain 1 (S).",
-            "unit": "Slave soldier/Devastation/Bastion: Gain 1 [S]."
+            "title": "   HUN-TR MODULE",
+            "general": "Find a copy of this card in your hand or in your combat deck and play it.",
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Reroll 1 [D]."
         },
         {
-            "title": "    CANNON FODDER",
-            "general": "If this world contains a structure, gain 1 [S]. *newpara* Gain up to 2 [B]. Your opponents gains that many (B).",
-            "unit": "Slave soldier/Devastation: Convert 1 [D] to [B]."
+            "title": "   IRONSKEIN",
+            "general": "Find a copy of this card in your hand or in your combat deck and play it.",
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Gain 1 (S)."
         },
         {
-            "title": "    PURGE THE WEAK",
-            "general": "If this card was played from Tactical stack, rout 1 Slave Soldier to place 1 free reinforcement token in this area. *newpara* Rout 1 friendly Slave Soldier to rally up to 1 unit. *newpara* Gain 1 (S). Destroy any number of friendly routed units to gain 1 materiel and 1 [M] for each one.",
+            "title": "   GRIMNYR'S GUIDANCE",
+            "general": "Draw a card. Gain 1 (B) or 1 (S). *newpara* Either rally a friendly unit or rout a friendly unit to gain 1 materiel and immediately play another card.",
             "unit": ""
         },
         {
-            "title": "    WARSMITH",
-            "general": "Gain 1 [D]. If this world's capacity is 2 or less, gain 1 (S) or 1 (B) for each unrouted friendly Slave Soldier.",
-            "unit": "Siege Marine: if this world contains no structures, rout or destroy 1 friendly Slave Soldier and spend 1 materiel to place a free friendly factory on this world."
+            "title": "   ANCESTRAL SENTENCE",
+            "general": "Spend up to 2 materiel to gain 2 (B) for each materiel spent.",
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [B]."
         },
         {
-            "title": "    BRUTAL ATTRITION",
-            "general": "Spend 1 [S] to gain 1 (B) for every [B] you have, to a maximum of 3.",
-            "unit": "Slave soldier/Devastation: If this card was played from Tactical stack, convert up to 2 of your [D] to [S]."
+            "title": "   VOID ARMOUR",
+            "general": "Spend up to 2 materiel to gain 2 (S) for each materiel spent.",
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [S]."
         },
         {
-            "title": "    IRON WITHIN",
-            "general": "You must convert 1 [D] to [M]. *newline* If this world contains a structure, gain 1 [D].",
-            "unit": "Siege Marine/Devastation: Take a friendly unrouted unit from any area and place it in an adjacent friendly area. *newline* After the next assess damage step if no friendly units have been destroyed, rally 1 unit."
-        },
-        {
-            "title": "    DIG IN!",
-            "general": "Gain 1 [M]. *newpara* If this world contains a structure and you are attacking, gain 1 (B) for each unrouted Slave Soldier. If this world contains a structure and you are defending, gain 1 (S) for each unrouted Slave Soldier.",
-            "unit": "Siege Marine: If this world contains no structures, spend 1 [M] and destroy an unrouted Slave Soldier to immediatly place a free friendly bastion on it."
-        },
-        {
-            "title": "    OBLITERATORS",
-            "general": "Lose 1 [S]. At the beginning of the next execution round gain 2 [B] and 3 (B).",
-            "unit": "Siege Marine/Devastation: Gain 1 (S). You may destroy your unrouted Siege Marine to destroy a structure on this world."
-        },
-        {
-            "title": "    IRON WITHOUT",
-            "general": "Choose a friendly unrouted unit in an adjacent area. Gain (B) or (S) equal to its combat value. If this card was played from Tactical stack, gain (B) or (S) equal to its morale value instead.",
-            "unit": "Siege Marine/Devastation/Bastion: Convert any of your [M] to [S] or [B]."
-        },
-        {
-            "title": "    JUDGEMENT OF IRON",
-            "general": "Spend up to 2 [S] to gain 2 (B) for every [S] spent. *newline* If this world contains a friendly structure, gain 1 [S].",
-            "unit": "Hellforged Leviathan/Devastation: Gain 1 [B]. If this world contains an enemy structure, you may destroy it."
-        },
-        {
-            "title": "    SIEGECRAFT",
-            "general": "Gain either 1 (S) or 1 (B). Convert 1 [D] to [M].",
-            "unit": "Hellforged Leviathan/Hecate: If this card was played from Tactical stack, your opponent must lose 2 reinforcement tokens in this area. He may spend up to 2 [M] to keep 1 token for every [M] spent."
-        },
-        {
-            "title": "    THOROUGH PREPARATIONS",
-            "general": "Convert 1 of your [D] to [S]. *newpara* Resolve one of the following: *newline* If this world contains a structure, gain materiel equal to the world's materiel value. *newpara* Take your set-aside dominate order token and place it on top of this system's order stack.",
+            "title": "   TECHNOLOGIES OF THE DARK AGE",
+            "general": "Choose any 1 card from your Combat Upgrades deck, regardless of its Command Level, and pay its upgrade cost to immediately play it. After the end of the combat, you must return the chosen card to the upgrade deck.",
             "unit": ""
         },
         {
-            "title": "    ETERNAL RESENTMENT",
-            "general": "Spend up to 4 [D]. For every [D] spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a structure, your opponent looses 2 (B).",
-            "unit": "Donjon/Hecate: Your opponent looses 3 (B)."
+            "title": "   MECHANIZED BACKUP",
+            "general": "Gain 1 (B) or 1 (S).",
+            "unit": "Einhyr Hearthguard: Spend 4 materiel to place a free Sagitaur on this world. After the Determine the Winner phase, destroy a friendly unit with the highest CL among unrouted friendly units on this world.."
         },
         {
-            "title": "    HAMMER OF OLYMPIA",
+            "title": "   THE HEARTH BURNS",
+            "general": "Gain 2 (S).",
+            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Discard any number of cards in play (including this card). You may return any of those cards to your hand instead of discarding them by spending 1 materiel per each one. Gain 1 [B] for every discarded card, and additionally gain 1 (B) for every discarded card with a shield icon.."
+        },
+        {
+            "title": "   WISDOM OF THE VOTANN",
+            "general": "Spend 1 [S] to draw a card. *newline* Rally a unit. *newline* Either gain 1 (S) for every [S] you have, or gain 1 [S].",
+            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Spend 1 materiel to play another card."
+        },
+        {
+            "title": "   ??",
+            "general": "Gain 1 (S).",
+            "unit": "Sagitaur/Stronghold Commerce Vessel: Reroll any of your [D] once by spending 1 materiel per each [D]. For each [S] rolled, force your opponent to lose 1 [S], for each [B] rolled, force your opponent to lose 1 [B]."
+        },
+        {
+            "title": "   KAHL",
+            "general": "Draw a card. *newpara* Choose a card in your hand and spend materiel equal to its upgrade cost. If you did, play it and resolve its effects twice.",
+            "unit": ""
+        },
+        {
+            "title": "   SUPERIOR CRAFTSMANSHIP",
+            "general": "Until the end of this combat, whenever a card ability requires you to spend materiel, spend 1 less materiel.",
+            "unit": "Sagitaur/Stronghold Commerce Vessel: Lose up to 3 of your dice. Then spend up to 3 materiel to gain 1 [B] for each materiel spent."
+        },
+        {
+            "title": "   MIGHT OF THE FORGE",
             "general": "",
-            "unit": "Donjon/Hecate: Until the end of the combat, an unrouted Donjon Siege Engine is considered to be a friendly structure. *newpara* Until the end of the current combat round, Donjon Siege Engine cannot become routed. *newpara* Immediately reveal the topmost card of the Tactical stack and play it."
+            "unit": "Colossus/Stronghold Commerce Vessel: Choose an enemy unit and spend materiel equal to its cost. Destroy that unit after the next assess damage step."
+        },
+        {
+            "title": "   INCREDIBLE WEALTH",
+            "general": "Draw 5 cards.",
+            "unit": "Colossus/Stronghold Commerce Vessel: Gain 1 materiel for each unrouted enemy unit."
         }
     ]
 }
