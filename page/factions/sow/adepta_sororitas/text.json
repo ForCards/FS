@@ -107,7 +107,7 @@
         {
             "title": "   WISDOM OF THE VOTANN",
             "general": "Spend 1 [S] to draw a card. *newline* Rally a unit. *newline* Either gain 1 (S) for every [S] you have, or gain 1 [S].",
-            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Spend 1 materiel to play another card."
+            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Spend 1 materiel to play another card without resolving its abilities but gaining its combat icons until the end of the combat. If you are attacking, you may spend 1 materiel to resolve its unit abilities."
         },
         {
             "title": "   ??",
@@ -116,7 +116,7 @@
         },
         {
             "title": "   KAHL",
-            "general": "Gain 1 [B] or 1 [S]. *newpara* Choose a card in your hand and spend materiel equal to its upgrade cost. If you did, play it and resolve its effects twice.",
+            "general": "Draw a card. *newpara* You may choose a card in your hand and spend materiel equal to the number of combat icons it has. If you did, find a copy of that card in your hand or in your deck and play both cards, without resolving their abilities but gaining their combat icons until the end of the combat.",
             "unit": ""
         },
         {
