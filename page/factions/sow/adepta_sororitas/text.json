@@ -91,7 +91,7 @@
         },
         {
             "title": "   TECHNOLOGIES OF THE DARK AGE",
-            "general": "Choose any 1 card from your Combat Upgrades deck, regardless of its Command Level, and pay its upgrade cost to immediately play it. After the end of the combat, you must return the chosen card to the upgrade deck.",
+            "general": "Retreat 1 of your units. *newpara* Choose any 1 card from your Combat Upgrades deck, regardless of its Command Level, and pay its upgrade cost to immediately play it. After the end of the combat, you must return the chosen card to the upgrade deck.",
             "unit": ""
         },
         {
@@ -116,7 +116,7 @@
         },
         {
             "title": "   KAHL",
-            "general": "Draw a card. *newpara* Choose a card in your hand and spend materiel equal to its upgrade cost. If you did, play it and resolve its effects twice.",
+            "general": "Gain 1 [B] or 1 [S]. *newpara* Choose a card in your hand and spend materiel equal to its upgrade cost. If you did, play it and resolve its effects twice.",
             "unit": ""
         },
         {
