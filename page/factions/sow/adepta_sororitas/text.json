@@ -76,7 +76,7 @@
         },
         {
             "title": "   GRIMNYR'S GUIDANCE",
-            "general": "Draw a card. *newpara* Retreat 1 of your units. *newpara* Either rally a friendly unit and gain 1 (B) or 1 (S) or rout a friendly unit to gain 1 materiel and immediately play another card.",
+            "general": "Draw a card. *newpara* If you are defending, gain 1 [B] or 1 [S] and you may retreat 1 of your units. *newpara* If you are attacking, either rally a friendly unit or rout a friendly unit to gain 1 materiel and immediately play another card.",
             "unit": ""
         },
         {
