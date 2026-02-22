@@ -5,8 +5,8 @@
   } ,
     "faction": {
       "sow": {
-        "folder": ["adeptus_mechanicus", "dark_eldar", "inquisition", "adepta_sororitas"],
-        "name": ["Iron Warriors", "Alpha Legion", "Harlequins", "Leagues of Votann"]
+        "folder": ["adeptus_mechanicus", "dark_eldar", "adepta_sororitas", inquisition"],
+        "name": ["Iron Warriors", "Alpha Legion", "Leagues of Votann", "Harlequins"]
       },
       "dd": {
         "folder": ["ec", "we", "dg", "ts"],
