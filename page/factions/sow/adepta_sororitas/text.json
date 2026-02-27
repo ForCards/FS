@@ -67,12 +67,12 @@
         {
             "title": "   HUN-TR MODULE",
             "general": "Find a copy of this card in your hand or in your combat deck and play it.",
-            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Reroll 1 [D]."
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Gain 1 (S)."
         },
         {
             "title": "   IRONSKEIN",
             "general": "Find a copy of this card in your hand or in your combat deck and play it.",
-            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Gain 1 (S)."
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Reroll 1 [D]."
         },
         {
             "title": "   GRIMNYR'S GUIDANCE",
@@ -82,12 +82,12 @@
         {
             "title": "   ANCESTRAL SENTENCE",
             "general": "Spend up to 2 materiel to gain 2 (B) for each materiel spent.",
-            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [B]."
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [S] or 1 [M]."
         },
         {
             "title": "   VOID ARMOUR",
             "general": "Spend up to 2 materiel to gain 2 (S) for each materiel spent.",
-            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [S]."
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [B] or 1 [M]."
         },
         {
             "title": "   TECHNOLOGIES OF THE DARK AGE",
