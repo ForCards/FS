@@ -1,24 +1,24 @@
 {
     "ordersText": [
         {
-            "title": "RELIABLE TACTICS",
-            "general": "Before resolving this order, shuffle your Tactical stack into your deck. After resolving the order if you purchased a combat upgrade, immediately form a new tactic stack with 3 different cards from your combat deck. *newline* LIMIT ONCE PER ROUND."
+            "title": "THE GRUDGE",
+            "general": "At the start of a combat initiated as a result of this order, if you have less materiel than your opponent, gain 1 materiel. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "DAEMONCULABA ",
-            "general": "When resolving this order friendly cities and bastions act as factories. Each one can produce up to 1 Slave Soldier or Siege Marine and that unit must be placed on the world with the city or the bastion that was used to produce it. *newline* LIMIT ONCE PER ROUND."
+            "title": "TIRELESS WORKERS ",
+            "general": "When you resolve this order you may spend 1 reinforcement token or destroy a friendly unit to gain 2 materiel. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "FIELD FORTIFICATIONS",
-            "general": "When resolving this order you may move up to 1 friendly bastion as if it were a ground unit. A bastion may never end its movement in a world with another structure. *newline* LIMIT ONCE PER ROUND."
+            "title": "FLEXIBLE ECONOMY",
+            "general": "After you resolve this order you may spend any amount of materiel to gain 1 cache token for every 2 materiel spent. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "",
-            "general": "During this orbital strike, *newline* gain 2 [D]. *newline* LIMIT ONCE PER ROUND."
+            "title": "DEVASTATING BOMBARDMENT",
+            "general": "During this orbital strike, gain 1 [D] and you may spend 1 [M] to place a forge token on the target world. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "ACCEPTABLE LOSSES",
-            "general": "Enemy bastions do not prevent this orbital strike. You can resolve an orbital strike after your units enter an enemy world during the execution of this order. You may only choose the contested world as a target. During this orbital strike, both your and your opponent's forces must suffer damage caused by it. After the damage has been delt, resolve the combat as usual. *newline* LIMIT ONCE PER ROUND."
+            "title": "TARGETIG ARRAY",
+            "general": "Enemy bastions do not prevent this orbital strike. Before rolling the dice during this orbital strike, you may gain up to 3 [B] by spending 1 materiel per each [B]. *newline* LIMIT ONCE PER ROUND."
         }
     ],
     "eventsText": [
