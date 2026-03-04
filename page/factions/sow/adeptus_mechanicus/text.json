@@ -66,8 +66,8 @@
     "combatText": [
         {
             "title": "    SHIELD FORMATION",
-            "general": "Convert 1 of your [D] to [S]. *newline* If the total morale value provided by your units is greater than that of your opponent, gain 1 [S]. Otherways, gain 1 (S).",
-            "unit": "Slave soldier/Devastation/Bastion: Gain 1 [S]."
+            "general": "Gain 1 [S]. *newline* If the total morale value provided by your units is greater than that of your opponent, gain 1 (S).",
+            "unit": "Slave soldier/Devastation/Bastion: Convert 1 of your [D] to [S]."
         },
         {
             "title": "    CANNON FODDER",
