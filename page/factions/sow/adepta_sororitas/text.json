@@ -13,7 +13,7 @@
             "general": "After you resolve this order you may spend any amount of materiel to gain 1 cache token for every 2 materiel spent. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "   DEVASTATING BOMBARDMENT",
+            "title": "    DEVASTATING BOMBARDMENT",
             "general": "During this orbital strike, gain 1 [D] and you may spend 1 [M] to place a forge token on the target world. *newline* LIMIT ONCE PER ROUND."
         },
         {
@@ -90,7 +90,7 @@
             "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [B] or 1 [M]."
         },
         {
-            "title": "   TECHNOLOGIES OF THE DARK AGE",
+            "title": "     TECHNOLOGIES OF THE DARK AGE",
             "general": "Retreat 1 of your units. *newpara* Choose any 1 card from your Combat Upgrades deck, regardless of its Command Level, and pay its upgrade cost to immediately play it. After the end of the combat, you must return the chosen card to the upgrade deck.",
             "unit": ""
         },
