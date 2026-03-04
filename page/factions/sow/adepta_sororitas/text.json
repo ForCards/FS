@@ -13,7 +13,7 @@
             "general": "After you resolve this order you may spend any amount of materiel to gain 1 cache token for every 2 materiel spent. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "DEVASTATING BOMBARDMENT",
+            "title": "   DEVASTATING BOMBARDMENT",
             "general": "During this orbital strike, gain 1 [D] and you may spend 1 [M] to place a forge token on the target world. *newline* LIMIT ONCE PER ROUND."
         },
         {
@@ -23,43 +23,43 @@
     ],
     "eventsText": [
         {
-            "title": "RELENTLESS ONSLAUGHT",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card after fully resolving an advance order to rally 1 unit and resolve an advance order once again. During the second order resolution you can only move to a single area that you already moved into this turn.",
+            "title": "EMERGENCY FUNDS",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme at the start of a combat to gain 4 materiel. After the combat ends, you must set your materiel counter to 0.",
             "type": "SCHEME"
         },
         {
-            "title": "STAND YOUR GROUND!",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat on a world. Gain 1 [S], and during this combat and you are considered to have a friendly structure on this world.",
+            "title": "ACCELERATED MINING",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card after you win a combat on a world. Gain assets from this world and gain materiel equal to its materiel value plus 1.",
             "type": "SCHEME"
         },
         {
-            "title": "DEVASTATING BARRAGE",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat round on a world and destroy a friendly unit on this world to gain 3 (B).",
+            "title": "PLANNED WITHDRAWAL",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the beginning of a combat round when you are defending to rally all friendly units, take them and place them on a friendly world in the active or an adjacent system. Then, if the combat area is a world, destroy all buildings there and place a forge token on it.",
             "type": "SCHEME"
         },
         {
-            "title": "COLD CALCULATION",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat to shuffle your Tactical stack back into your deck and immediately form a new Tactical stack.",
+            "title": "OUTWARD EXPEDITIONS",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* While this card is in your play area, whenever you reveal an order token, you may spend 1 materiel to place it on your Event deck. Resolve the order as usual.",
             "type": "SCHEME"
         },
         {
-            "title": "REPURPOSING",
-            "general": "*newpara* Remove a friendly structure to gain materiel equal to its materiel cost plus 1, after that you must immediately purchase a different structure and place it on the same world.",
+            "title": "OPEN TO TRADE",
+            "general": "*newpara* Exchange any of your assets for assets of any other types. If you have none, gain any one asset.",
             "type": "TACTIC"
         },
         {
-            "title": "GRIM RESOLVE",
-            "general": "*newpara* Show all cards in your Tactical stack to your opponents and gain any 1 asset token for every non-basic combat card in your Tactical stack.",
+            "title": "TRADE WAR",
+            "general": "*newpara* Choose another player and spend any amount of materiel. The chosen player loses the same amount of materiel.",
             "type": "TACTIC"
         },
         {
-            "title": "MILLENIA-OLD BITTERNESS",
-            "general": "*newpara* Gain 1 reinforcement token for every system with a friendly area and an enemy structure in it.",
+            "title": "SETTLED WORLDS",
+            "general": "*newpara* Purchase a combat upgrade, reducing its cost by 1 for every system that has a world with a forge token on it.",
             "type": "TACTIC"
         },
         {
-            "title": "AID OF THE DARK MECHANICUM",
-            "general": "*newpara* Purchase a combat upgrade. You can spend any number of forge tokens to reduce its cost by 2 for every token spent.",
+            "title": "EXPLOSIVES",
+            "general": "*newpara* Destroy 1 unit or building on a world with a forge token.",
             "type": "TACTIC"
         }
     ],
