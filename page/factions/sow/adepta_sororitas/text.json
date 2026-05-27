@@ -44,7 +44,7 @@
         },
         {
             "title": "OPEN TO TRADE",
-            "general": "*newpara* Exchange any of your assets for assets of any other types. If you have none, gain any one asset.",
+            "general": "*newpara* Gain one asset. Exchange any of your assets for assets of any other types.",
             "type": "TACTIC"
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "title": "EXPLOSIVES",
-            "general": "*newpara* Destroy 1 unit or building on a world with a forge token.",
+            "general": "*newpara* Destroy 1 unit or structure on a world with a forge token.",
             "type": "TACTIC"
         }
     ],
