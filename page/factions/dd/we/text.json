@@ -67,7 +67,7 @@
         {
             "title": "RECKLESS ASSAULT",
             "general": "You must destroy 1 friendly unit.",
-            "unit": "Berzerker: Gain 2 (B). If you destroyed a plastic unit, gain 2 (B)."
+            "unit": "Berzerker: Gain 2 (B). If the destroyed unit was not a reinforcement token, gain 2 (B)."
         },
         {
             "title": "GRUESOME TROPHY",
@@ -107,7 +107,7 @@
         {
             "title": "DARK OFFERING",
             "general": "",
-            "unit": "Blood Cultist/Berzerker/Hellbrute: Your opponent may destroy 1 of their units. If they do, you do not deal damage in the next Assess Damage step."
+            "unit": "Blood Cultist/Berzerker/Hellbrute: You must activate this ability. Your opponent may destroy 1 of their units. If they do, you do not deal damage in the next Assess Damage step."
         },
         {
             "title": "RED HAZE",
@@ -132,7 +132,7 @@
         {
             "title": "FURY INCARNATE",
             "general": "Gain 1 [M] for each unit destroyed in the next Assess Damage step.",
-            "unit": "Banelord/Gloriana: Gain 1 (B) for each unrouted friendly plastic unit, to a maximum of 3 (B)."
+            "unit": "Banelord/Gloriana: Gain 1 (B) for each unrouted friendly CL1, CL2 or CL3 unit, to a maximum of 3 (B)."
         }
     ]
 }
