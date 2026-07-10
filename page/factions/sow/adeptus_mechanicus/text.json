@@ -131,8 +131,8 @@
         },
         {
             "title": "    HAMMER OF OLYMPIA",
-            "general": "",
-            "unit": "Donjon/Hecate: Until the end of the combat, an unrouted Donjon Siege Engine is considered to be a friendly structure. *newpara* Until the end of the current combat round, Donjon Siege Engine cannot become routed. *newpara* Immediately reveal the topmost card of the Tactical stack and play it."
+            "general": "Until the end of the combat, an unrouted Donjon Siege Engine is considered to be a friendly structure. *newpara* Until the end of the current combat round, Donjon Siege Engine cannot become routed. *newpara* Immediately reveal the topmost card of the Tactical stack and play it.",
+            "unit": ""
         }
     ]
 }
