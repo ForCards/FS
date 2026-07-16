@@ -66,12 +66,12 @@
     "combatText": [
         {
             "title": "   HUN-TR MODULE",
-            "general": "Find a copy of this card in your hand or in your combat deck and play it.",
+            "general": "Spend 1 materiel to find a copy of this card in your hand or in your combat deck and play it.",
             "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Gain 1 (S)."
         },
         {
             "title": "   IRONSKEIN",
-            "general": "Find a copy of this card in your hand or in your combat deck and play it.",
+            "general": "Spend 1 materiel to find a copy of this card in your hand or in your combat deck and play it.",
             "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Reroll 1 [D]."
         },
         {
@@ -81,28 +81,28 @@
         },
         {
             "title": "   ANCESTRAL SENTENCE",
-            "general": "Spend up to 2 materiel to gain 2 (B) for each materiel spent.",
+            "general": "Gain 1 [B]. Spend 1 materiel to gain 2 (B).",
             "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [S] or 1 [M]."
         },
         {
             "title": "   VOID ARMOUR",
-            "general": "Spend up to 2 materiel to gain 2 (S) for each materiel spent.",
+            "general": "Gain 1 [S]. Spend 1 materiel to gain 2 (S).",
             "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [B] or 1 [M]."
         },
         {
             "title": " TECHNOLOGIES OF THE DARK AGE",
-            "general": "Retreat 1 of your units. *newpara* Choose any 1 card from your Combat Upgrades deck, regardless of its Command Level, and pay its upgrade cost to immediately play it. After the end of the combat, you must return the chosen card to the upgrade deck.",
+            "general": "Retreat 1 of your units. *newpara* Openly choose any 1 card from your Combat Upgrades deck, regardless of its Command Level, and pay its upgrade cost to add it to your hand. After the end of the combat, you must return the chosen card to the upgrade deck.",
             "unit": ""
         },
         {
             "title": "   MECHANIZED BACKUP",
             "general": "Gain 1 (B) or 1 (S).",
-            "unit": "Einhyr Hearthguard: Spend 3 materiel to place a free Sagitaur on this world. After the Determine the Winner phase, destroy a friendly unit with the highest CL among unrouted friendly units on this world.."
+            "unit": "Einhyr Hearthguard: Spend 3 materiel to place a free Sagitaur on this world. After the Determine the Winner phase, destroy a friendly unit with the highest CL among unrouted friendly units on this world."
         },
         {
             "title": "   THE HEARTH BURNS",
-            "general": "Gain 2 (S).",
-            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Discard any number of cards in play (including this card). You may return any of those cards to your hand instead of discarding them by spending 1 materiel per each one. Gain 1 [B] for every discarded card, and additionally gain 1 (B) for every discarded card with a shield icon.."
+            "general": "Gain 1 (S).",
+            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Discard any number of cards in play (including this card). You may return any of those cards to your hand instead of discarding them by spending 1 materiel per each one. Gain 1 [B] for every discarded card, and additionally gain 1 (B) for every discarded card with a shield icon."
         },
         {
             "title": "   WISDOM OF THE VOTANN",
@@ -112,7 +112,7 @@
         {
             "title": "   SAGITAUR",
             "general": "Gain 1 (S).",
-            "unit": "Sagitaur/Stronghold Commerce Vessel: Reroll any of your [D] once by spending 1 materiel per each [D]. For each [S] rolled, force your opponent to lose 1 [S], for each [B] rolled, force your opponent to lose 1 [B]. For each [M] rolled, gain 1 [D]."
+            "unit": "Sagitaur/Stronghold Commerce Vessel: Reroll any of your [D] once by spending 1 materiel per each [D]. If at least 1 [S] was rolled, force your opponent to lose 1 [S], if at least 1 [B] was rolled, force your opponent to lose 1 [B]. For each [M] rolled, gain 1 [D]."
         },
         {
             "title": "   KAHL",
