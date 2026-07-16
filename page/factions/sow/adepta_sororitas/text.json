@@ -107,7 +107,7 @@
         {
             "title": "   WISDOM OF THE VOTANN",
             "general": "Spend 1 [S] to draw a card. *newline* Rally a unit. *newline* Gain 1 (S) for every [S] you have.",
-            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Choose a card in your hand and spend materiel equal to the number of combat icons it has to play it, without resolving its abilities but gaining its combat icons for this combat. If you are attacking, you may spend 1 materiel to resolve its unit abilities."
+            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Choose 1 of your cards in play and spend materiel equal to the number of combat icons it has to find a copy of that card in your deck or in your hand and play it, without resolving its abilities but gaining its combat icons for this combat. You may spend 1 materiel to resolve its unit abilities."
         },
         {
             "title": "   SAGITAUR",
@@ -126,7 +126,7 @@
         },
         {
             "title": "   MIGHT OF THE FORGE",
-            "general": "",
+            "general": "Gain 1 (B) for each of your other cards in play.",
             "unit": "Colossus/Stronghold Commerce Vessel: Choose an enemy unit and spend materiel equal to its cost. Destroy that unit after the next assess damage step."
         },
         {
