@@ -34,7 +34,7 @@
         },
         {
             "title": "PLANNED WITHDRAWAL",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the beginning of a combat round when you are defending to rally all friendly units, take them and place them on a friendly world in the active or an adjacent system. Then, if the combat area is a world, destroy all buildings there and place a forge token on it.",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the beginning of a combat round when you are defending to rally all friendly units and move them to a friendy area in the active or an adjacent system. Then, if the combat area is a world, destroy all structures there and place a forge token on it.",
             "type": "SCHEME"
         },
         {
