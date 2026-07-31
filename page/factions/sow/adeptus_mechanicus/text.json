@@ -116,8 +116,8 @@
         },
         {
             "title": "    SIEGECRAFT",
-            "general": "Gain either 1 (S) or 1 (B). Convert 1 [D] to [M].",
-            "unit": "Hellforged Leviathan/Hecate: If this card was played from Tactical stack, your opponent must lose 2 reinforcement tokens in this area. He may spend up to 2 [M] to keep 1 token for every [M] spent."
+            "general": "Until the end of this combat, an unrouted Helforged Leviathan Dreadnought or Donjon Siege Engine is considered to be a friendly structure as well as a unit. *newpara* Immediately reveal the topmost card of the Tactical stack and play it.",
+            "unit": ""
         },
         {
             "title": "    THOROUGH PREPARATIONS",
@@ -131,8 +131,8 @@
         },
         {
             "title": "    HAMMER OF OLYMPIA",
-            "general": "Until the end of the combat, an unrouted Donjon Siege Engine is considered to be a friendly structure. *newpara* Until the end of the current combat round, Donjon Siege Engine cannot become routed. *newpara* Immediately reveal the topmost card of the Tactical stack and play it.",
-            "unit": ""
+            "general": "Convert 1 of your [D] to [M].",
+            "unit": "Donjon/Hecate: Rally a unit. *newpara* If this card was played from Tactical stack, your opponent must either rout 3 CL0 or CL1 units or lose 3 [M] in any combination (your opponent chooses)."
         }
     ]
 }
