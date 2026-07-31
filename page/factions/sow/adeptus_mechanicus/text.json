@@ -24,7 +24,7 @@
     "eventsText": [
         {
             "title": "RELENTLESS ONSLAUGHT",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card after fully resolving an advance order to rally 1 unit and resolve an advance order once again. During the second order resolution you can only move to a single area that you already moved into this turn.",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card after fully resolving an advance order to rally 1 unit and resolve an advance order once again. During the second order resolution you can only move into areas that you already moved into this turn.",
             "type": "SCHEME"
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "title": "DEVASTATING BARRAGE",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat round on a world and destroy a friendly unit on this world to gain 3 (B).",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat round and rout a friendly unit to gain 3 (B).",
             "type": "SCHEME"
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "title": "GRIM RESOLVE",
-            "general": "*newpara* Show all cards in your Tactical stack to your opponents and gain any 1 asset token for every non-basic combat card in your Tactical stack.",
+            "general": "*newpara* Show up to 2 cards from your Tactical stack to your opponents to gain any 1 asset token for every card shown.",
             "type": "TACTIC"
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "title": "AID OF THE DARK MECHANICUM",
-            "general": "*newpara* Purchase a combat upgrade. You can spend any number of forge tokens to reduce its cost by 2 for every token spent.",
+            "general": "*newpara* Purchase a combat upgrade, reducing its cost by 1 for every system with a friendly structure.",
             "type": "TACTIC"
         }
     ],
