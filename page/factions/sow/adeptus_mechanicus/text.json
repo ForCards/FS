@@ -121,13 +121,13 @@
         },
         {
             "title": "    THOROUGH PREPARATIONS",
-            "general": "Convert 1 of your [D] to [S]. *newpara* Resolve one of the following: *newline* If this world contains a structure, gain materiel equal to the world's materiel value. *newpara* Take your set-aside dominate order token and place it on top of this system's order stack.",
-            "unit": ""
+            "general": "Resolve one of the following: *newpara* If this world contains a structure, gain materiel equal to the world's materiel value. *newpara* Take your set-aside dominate order token and place it on top of this system's order stack.",
+            "unit": "Hellforged Leviathan/Hecate: Convert 2 of your [D] to [B] or [S]."
         },
         {
             "title": "    ETERNAL RESENTMENT",
-            "general": "Spend up to 4 [D]. For every [D] spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a structure, your opponent looses 2 (B).",
-            "unit": "Donjon/Hecate: Your opponent looses 3 (B)."
+            "general": "Spend up to 4 [D]. For every [D] spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a structure, your opponent loses 2 (B).",
+            "unit": "Donjon/Hecate: Your opponent loses 3 (B)."
         },
         {
             "title": "    HAMMER OF OLYMPIA",
