@@ -106,7 +106,7 @@
         },
         {
             "title": "    IRON WITHOUT",
-            "general": "Choose a friendly unrouted unit in an adjacent area. Gain (B) or (S) equal to its combat value. If this card was played from Tactical stack, gain (B) or (S) equal to its morale value instead.",
+            "general": "Choose a friendly unrouted unit in an adjacent area. Gain (B) equal to its combat value. If this card was played from Tactical stack, gain (B) equal to its morale value instead.",
             "unit": "Siege Marine/Devastation/Bastion: Convert any of your [M] to [S] or [B]."
         },
         {
