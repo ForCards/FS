@@ -107,7 +107,7 @@
         {
             "title": "    IRON WITHOUT",
             "general": "Choose a friendly unrouted unit in an adjacent area. Gain (B) equal to its combat value. If this card was played from Tactical stack, gain (B) equal to its morale value instead.",
-            "unit": "Siege Marine/Devastation/Bastion: Convert any of your [M] to [S] or [B]."
+            "unit": "Siege Marine/Devastation/Bastion: Convert any of your [M] to [B]."
         },
         {
             "title": "    JUDGEMENT OF IRON",
@@ -126,7 +126,7 @@
         },
         {
             "title": "    ETERNAL RESENTMENT",
-            "general": "Spend up to 4 [D]. For every [D] spent, gain 2 (B) and your opponent gains 2 (B). *newline* If this world contains a structure, your opponent loses 2 (B).",
+            "general": "Gain up to 6 (B), and your opponent gains the same number of (B). *newline* If this world contains a structure, your opponent loses 2 (B).",
             "unit": "Donjon/Hecate: Your opponent loses 3 (B)."
         },
         {
