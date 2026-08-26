@@ -66,7 +66,7 @@
     "combatText": [
         {
             "title": "  CONTAGIOUS ROUNDS",
-            "general": "You must assign 1 damage to any unit. That damage can rout the chosen unit.",
+            "general": "You must assign 1 damage to any CL0, CL1 or CL2 unit. That damage can rout the chosen unit.",
             "unit": "Plague Marine/Pestilaan: Gain 1 [B] if the chosen unit was not destroyed by the damage. Gain 2 (B) if the chosen unit was friendly."
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "title": "  DEATH TOLL",
-            "general": "Immediately check this area's unit capacity, and each player must destroy units in excess of the capacity.",
+            "general": "Immediately check this area's unit capacity, and each player must destroy units in excess of the capacity (attacker first).",
             "unit": "Blight-hauler/Pestilaan: Gain 1 (B) for each unit destroyed as a result of this card's general ability."
         },
         {
