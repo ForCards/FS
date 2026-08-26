@@ -96,9 +96,9 @@
             "unit": "Blight-hauler/Pestilaan: Gain 1 (B) for each unit destroyed as a result of this card's general ability."
         },
         {
-            "title": "  PLAGUECRAFT",
+            "title": "  THE DEAD WALK",
             "general": "",
-            "unit": "Poxwalker/Executor: All units' health value is reduced by 1 to a minimum of 1 until the end of this combat."
+            "unit": "Poxwalker/Blight-hauler: Place a free reinforcement token in this area for each routed enemy unit."
         },
         {
             "title": "  REVOLTING RESILIENCE",
@@ -111,9 +111,9 @@
             "unit": "Plague Marine/Blight-hauler/Pestilaan: If no units were destroyed as a result of this card's general ability, gain 1 [M]."
         },
         {
-            "title": "  THE DEAD WALK",
-            "general": "",
-            "unit": "Poxwalker/Blight-hauler: Place a free reinforcement token in this area for each routed enemy unit."
+            "title": "  PLAGUECRAFT",
+            "general": "If yout opponent has 2 or fewer [D], he must discard all his [D].",
+            "unit": "Plague Marine/Blight-hauler/Pestilaan: If your opponent has an unrouted CL2 or CL3 unit, gain 3 (B)."
         },
         {
             "title": "  IN DEATH'S SHADOW",
