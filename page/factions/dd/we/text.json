@@ -44,7 +44,7 @@
         },
         {
             "title": "FIRST AMONG THE GODS",
-            "general": "Choose a player: that player becomes the first player at the beginning of the next round.",
+            "general": "Choose to be either the first or the last player for the next game round. The player order among other players is not affected. After the end of the next game round, return to the regular player order.",
             "type": "TACTIC"
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "title": "WE DROWN IN BLOOD",
-            "general": "Every player must choose and destroy 1 friendly unit on any world. For each CL0 unit destroyed, gain a resource token of your choice.",
+            "general": "Every player must choose and destroy 1 friendly unit on any world. For each CL0 unit destroyed, gain an asset token of your choice.",
             "type": "TACTIC"
         }
     ],
