@@ -103,7 +103,7 @@
         {
             "title": "   BLUE HORRORS",
             "general": "Resolve the general ability of a Combat card you have removed from your deck.",
-            "unit": "Rubric Marine/Cruiser: Force your opponent to lose 1 [M] to gain 1 (S)."
+            "unit": "Rubric Marine/Cruiser: Force your opponent to lose 1 [M]. If he did, gain 1 (S)."
         },
         {
             "title": "   MEDDLING OF TZEENTCH",
