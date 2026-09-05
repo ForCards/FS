@@ -65,75 +65,75 @@
     ],
     "combatText": [
         {
-            "title": "       SENSUAL ALLURE",
-            "general": "Your opponent must choose and rout 1 of his units.",
-            "unit": "Seeker/Cruiser: Gain [M] equal to the highest command level among unrouted enemy units."
+            "title": "   ELDRICH SMITE",
+            "general": "Gain 1 [D]. You may spend it to force your opponent to lose a matching [D].",
+            "unit": "Rubric Marine/Cruiser: If you did not spend a [D], force your opponent to lose a matching [D]."
         },
         {
 
-            "title": "       CORRUPTING INFLUENCE",
-            "general": "Your opponent must give you one of his [D].",
-            "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand."
+            "title": "   PROTECTION OF THE WARP",
+            "general": "If you have more [M] than your opponent, gain 1 [S] and 1 (S).",
+            "unit": "Rubric Marine/Cruiser: Either rally 1 unit or gain 1 [M]."
         },
         {
-            "title": "       TRAITOROUS SOUL",
-            "general": "Gain 1 (B) for each enemy command level 0 unit.",
-            "unit": "Seeker: Replace 1 routed enemy CL0 unit with an unrouted Pleasure Seeker."
+            "title": "   EMBRACE MADNESS",
+            "general": "Convert up to 3 of your opponent's [D] to [B], [S] or [M] in any combination.",
+            "unit": "Rubric Marine/Cruiser: Gain 1 (S) for each of your opponent's [M]."
         },
         {
-            "title": "       SONG OF SLAANESH",
-            "general": "Gain 1 [M].",
-            "unit": "Seeker/Cruiser: Gain 1 (B) for each [M] you have."
+            "title": "   WARD OF CHANGE",
+            "general": "You must simultaneously convert all of your [B] to [S], all of your [S] to [M] and all of your [M] to [B].",
+            "unit": "Rubric Marine/Cruiser: Gain either 1 [B] or 1 [S]."
         },
         {
-            "title": "       UNEXPECTED ALACRITY",
-            "general": "Either steal 1 (B) or 1 (S) or gain 1 (B) or 1 (S).",
-            "unit": "Seeker/Cruiser: Discard a combat card from your hand and resolve its unit abilities."
+            "title": "   FICKLE SORCERY",
+            "general": "Gain either 1 (B) or 1 (S) randomly 3 times.",
+            "unit": "Acolyte: You must reroll all your [M]. For each new [M] rolled, gain 1 [D]."
         },
         {
-            "title": "       ACOUSTIC BARRAGE",
-            "general": "Spend 1 [M] to gain 2 (B).",
-            "unit": "Noise Marine/Cruiser: Your opponent must either rout 1 of his units or destroy all of his routed units (your opponent chooses)."
+            "title": "   INFERNAL FLAMES",
+            "general": "",
+            "unit": "Rubric Marine/Heldrake/Lord of Change: Destroy an enemy CL0 for each [M] you have. Gain 1 (B) for every unit destroyed."
         },
         {
-            "title": "       BLISSFUL AGONY",
-            "general": "Gain 1 (S) for each friendly routed unit.",
-            "unit": "Noise Marine/Cruiser: Friendly units cannot become routed during the next assess damage step."
+            "title": "   PINK HORROR",
+            "general": "Your opponent gains 1 [B] and you gain 2 [B].",
+            "unit": "Rubric Marine/Cruiser: Gain 1 (B) for each [S] rolled while resolving the general ability of this card."
         },
         {
-            "title": "       LURID VISIONS",
-            "general": "Steal 1 [B] and gain 1 (B).",
-            "unit": "Noise Marine/Cruiser: Your opponent chooses and reveals a combat card from his hand. He must play that card in the next combat round."
+            "title": "   BLUE HORRORS",
+            "general": "Resolve a general ability of a Combat card you have removed from your deck.",
+            "unit": "Rubric Marine/Cruiser: Force your opponent to lose 1 [M] to gain 1 (S)."
         },
         {
-            "title": "       SHRIEKING HAVOCS",
-            "general": "Your opponent chooses for you to gain either 2 (B) or 2 (S).",
-            "unit": "Noise Marine/Cruiser: Your opponent cannot rally units during this round of combat."
+            "title": "   MEDDLING OF TZEENTCH",
+            "general": "During this combat, the last card played by your opponent provides no combat icons.",
+            "unit": "Acolyte: Your opponent chooses to either discard one of their Combat cards in play or destroy one of their units in any other area."
         },
         {
-            "title": "       UNSPEAKABLE PERVERSION",
-            "general": "Steal 1 [M].",
-            "unit": "Seeker: Your opponent looses all reinforcement tokens. Place that many free reinforcement tokens in this area."
+            "title": "   TERROR FROM ABOVE",
+            "general": "Gain 1 (B) for every [B] you have.",
+            "unit": "Heldrake/Cruiser/Relic Battlebarge: Your opponent must reroll a number of [D] (of your choice) equal to the current combat round."
         },
         {
-            "title": "       MUTUAL DESTRUCTION",
-            "general": "Destroy a friendly unrouted unit to choose and destroy an enemy unit of the same or lower command level.",
-            "unit": "Soul Grinder/Cruiser/Grand Cruiser: Gain (B) equal to the highest command level among unrouted friendly units."
+            "title": "   EMBRACE OF THE WARP",
+            "general": "Your opponent must choose and discard 1 [D]. *newline* Gain 1 [D].",
+            "unit": "Heldrake/Cruiser/Relic Battlebarge: If [M] was discarded or gained while resolving the general ability of this card, gain 1 [D]."
         },
         {
-            "title": "       REVEL IN MISERY",
-            "general": "Rally all friendly and enemy units.",
-            "unit": "Soul Grinder/Cruiser/Grand Cruiser: Gain 1 (B) or 1 (S) for each unit that was rallied as a result of the general ability of this card."
+            "title": "   ALTER THE PAST",
+            "general": "Play a combat card you have removed from your deck. Do not resolve its abilities but gain its icons during this combat.",
+            "unit": "Acolyte: Resolve the general ability of the played card."
         },
         {
-            "title": "       FULGRIM'S AVARICE",
-            "general": "Gain 1 [M] for each unclaimed objective in the active system.",
-            "unit": "Keeper of Secrets/Grand Cruiser: Gain 3 (B) if you have claimed more objectives than your opponent. Gain 3 (S) if you have claimed fewer objectives than your opponent."
+            "title": "   MAGNUS'S PENANCE",
+            "general": "Resolve the abilities of all your combat cards in play, starting from the earliest one. Then discard this card and play the top card from your deck. Do not resolve its abilities but gain its icons during this combat.",
+            "unit": ""
         },
         {
-            "title": "       IRRESISTIBLE TEMPTATION",
-            "general": "Steal 1 [B] and 1 [M].",
-            "unit": "Keeper of Secrets/Grand Cruiser: gain 2 (B) for each [D] you could not steal."
+            "title": "   THE GREAT PLAN",
+            "general": "Rally all friendly units.",
+            "unit": "Lord of Change/Relic Battlebarge: Replace any of your cards in play with cards from your hand. Do not resolve the abilities of the newly played cards."
         }
     ]
 }
