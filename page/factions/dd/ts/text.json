@@ -126,14 +126,14 @@
             "unit": "Acolyte: Resolve the general ability of the played card."
         },
         {
-            "title": "   MAGNUS'S PENANCE",
-            "general": "Resolve the abilities of all your combat cards in play, starting from the earliest one. Then discard this card and play the top card from your deck. Do not resolve its abilities but gain its icons during this combat.",
-            "unit": ""
-        },
-        {
             "title": "   THE GREAT PLAN",
             "general": "Rally all friendly units.",
             "unit": "Lord of Change/Relic Battlebarge: Replace any of your cards in play with cards from your hand. Do not resolve the abilities of the newly played cards."
         }
+        {
+            "title": "   MAGNUS'S PENANCE",
+            "general": "Resolve the abilities of all your combat cards in play, starting from the earliest one. Then discard this card and play the top card from your deck. Do not resolve its abilities but gain its icons during this combat.",
+            "unit": ""
+        },
     ]
 }
