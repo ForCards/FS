@@ -23,43 +23,43 @@
     ],
     "eventsText": [
         {
-            "title": "A FEAST TO REMEMBER",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme when collecting materiel in the Refresh phase. Choose a system and collect materiel from all friendly worlds in that system again.",
-            "type": "SCHEME"
-        },
-        {
-            "title": "BEGUILEMENT",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of an opponent's turn. That opponent must choose one of their order tokens on the game board and move it to the bottom of its respective stack. Then he skips his turn.",
-            "type": "SCHEME"
-        },
-        {
-            "title": "SHE IS NEVER SATED",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme after resolving your next advance order. You must immediately resolve this advance order again.",
-            "type": "SCHEME"
-        },
-        {
-            "title": "THE DARK PRINCE BECKONS",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme at the start of a combat on a world with friendly units or structures. Replace 1 of your opponent's CL0 units with a Pleasure Seeker from your reserve.",
-            "type": "SCHEME"
-        },
-        {
-            "title": "DANCE OF THE DEMONETTES",
-            "general": "*newpara* Return any number of Pleasure Seekers from your faction board and place them on any friendly worlds.",
+            "title": "",
+            "general": "Resolve an advance order in any system. You cannot move ground units or initiate combat during this advance, but you can initiate an orbital strike. If you do, gain 1 [D] during this orbital strike.",
             "type": "TACTIC"
         },
         {
-            "title": "SHE GROWS BORED OF THE GAME",
-            "general": "*newpara* Each opponent may decide, in secret, to claim any one of their unclaimed objectives. If any opponent claims an objective, you may claim one of your unclaimed objectives.",
+            "title": "PROSPERO, FOREVER",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* While resolving an order you may discard this card to increase your command level by 1 and gain 2 materiel.",
+            "type": "SCHEME"
+        },
+        {
+            "title": "WARP REALITY",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme any time your opponent plays a combat card during a combat. He cannot resolve any of the card's abilities.",
+            "type": "SCHEME"
+        },
+        {
+            "title": "THE GREAT PLAN",
+            "general": "Remove 1 of your order tokens from the game. If you do, all other players must place a matching token on top of their event decks after the end of the current Even phase. They will place 1 fewer order token during the next Planning phase.",
             "type": "TACTIC"
         },
         {
-            "title": "PRIDE BEFORE THE FALL",
-            "general": "*newpara* Choose a player. That player must retun one of their claimed objectives to any enemy or uncontrolled world.",
+            "title": "PRODIGAL SONS",
+            "general": "Choose a neutral void in a system containing no friendly areas. Either place up to 2 free Hellfire Cruisers in that void or spend 1 forge token to place 1 free Relic Battlebarge in that void.",
             "type": "TACTIC"
         },
         {
-            "title": "YOUNGEST AMONG THE GODS",
-            "general": "*newpara* Immediately place 1 order token in any legal system following the usual order token placement rules.",
+            "title": "KNWOLEDGE IS THE GREATEST TREASURE",
+            "general": "Gain 1 materiel for every friendly void. If you gained 2 or less materiel, draw and resolve an additional event card (but do not move warp storms again).",
+            "type": "TACTIC"
+        },
+        {
+            "title": "UNWIND TIME",
+            "general": "After all warp storms have been moved, players must immediately move warp storms again using the same movement they used previously, starting with you and going in a clockwise order.",
+            "type": "TACTIC"
+        },
+        {
+            "title": "MASTERY OF THE WARP",
+            "general": "Rotate 2 system tiles around a shared warp storm boundary. *newline* Maintain all units, structures, tokens, and any other assets as well as the orientation of those tiles relative to each other.",
             "type": "TACTIC"
         }
     ],
@@ -107,8 +107,8 @@
         },
         {
             "title": "   MEDDLING OF TZEENTCH",
-            "general": "During this combat, the last card played by your opponent provides no combat icons.",
-            "unit": "Acolyte: Your opponent chooses to either discard one of their Combat cards in play or destroy one of their units in any other area."
+            "general": "During this combat, the last card played by your opponent (at any particular moment) provides no combat icons.",
+            "unit": "Acolyte: Discard one of your opponent's combat cards in play."
         },
         {
             "title": "   TERROR FROM ABOVE",
