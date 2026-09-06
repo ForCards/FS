@@ -39,7 +39,7 @@
         },
         {
             "title": "THE GREAT PLAN",
-            "general": "Remove 1 of your order tokens from the game. If you do, all other players must place a matching token on top of their event decks after the end of the current Even phase. They will place 1 fewer order token during the next Planning phase.",
+            "general": "Remove 1 of your order tokens from the game. If you do, all other players must place a matching token on top of their event decks after the end of the current Event phase. They will place 1 fewer order token during the next Planning phase.",
             "type": "TACTIC"
         },
         {
