@@ -54,7 +54,7 @@
         },
         {
             "title": "UNWIND TIME",
-            "general": "After all warp storms have been moved, players must immediately move warp storms again using the same movement they used previously, starting with you and going in a clockwise order.",
+            "general": "After all warp storms have been moved, players must immediately move warp storms again, starting with you and going in a clockwise order. All other players must draw 1 event card and move a warp storm according to that card, but you keep this card instead.",
             "type": "TACTIC"
         },
         {
