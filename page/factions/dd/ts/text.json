@@ -59,7 +59,7 @@
         },
         {
             "title": "MASTERY OF THE WARP",
-            "general": "Rotate 2 system tiles around a shared warp storm boundary. *newline* Maintain all units, structures, tokens, and any other assets as well as the orientation of those tiles relative to each other.",
+            "general": "Rotate 2 system tiles around a shared warp storm boundary. *newline* Maintain all units, structures, tokens, and any other assets as well as the orientation of those tiles relative to each other. *newpara* *newpara* ",
             "type": "TACTIC"
         }
     ],
