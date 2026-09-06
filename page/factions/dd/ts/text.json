@@ -1,24 +1,24 @@
 {
     "ordersText": [
         {
-            "title": "A SINGLE THRUST",
-            "general": "If this advance order results in a combat, you may play an additional combat card during the first round. *newline* However, after each round of combat your combat cards are discarded and do not carry over to future rounds. *newline* LIMIT ONCE PER ROUND."
+            "title": "PSYKER LEGION",
+            "general": "While resolving this order, increase your command level by 1."
         },
         {
-            "title": "PURE GENESEED",
-            "general": "While resolving this order you may spend forge tokens as if they were cache tokens. *newline* LIMIT ONCE PER ROUND."
+            "title": "A PRESENCE IN THE WARP",
+            "general": "During a combat initiated by this order, you can resolve the unit ability of any combat card that requires a Cairic Acolyte as if you had a participating unrouted Cairic Acolyte. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "SHEER PERFECTION",
-            "general": "Your combat deck may consist of 8 cards. If there are 10 cards in your combat deck when you purchase combat upgrades, you may discard an additional pair of combat cards from your deck. *newline* LIMIT ONCE PER ROUND."
+            "title": "RUBRIC OF AHRIMAN",
+            "general": "After you resolve this order, you may place 1 free Rubric Marine on a friendly world containing a structure in the active system. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "SONIC AMPLIFIERS",
-            "general": "Enemy bastions do not prevent this orbital strike. *newline*  During this orbital strike you may spend 2 [B] to destroy a structure on the targeted world. *newline* LIMIT ONCE PER ROUND."
+            "title": "FIRES OF CHANGE",
+            "general": "Enemy bastions do not prevent this orbital strike. *newline*  During this orbital strike, before assigning damage, you may spend 1 [M] to force you opponent to choose a CL1, CL2 or CL3 unit on the target world and replace it with a CL0 unit. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "UNBRIDLED HEDONISM",
-            "general": "While resolving this order there is no limit on the number of upgrades you may purchase of each type. *newline* LIMIT ONCE PER ROUND."
+            "title": "PRECOGNITION",
+            "general": "When you resolve this order, look at the second-topmost card of your event deck. You may move it to the bottom of your deck."
         }
     ],
     "eventsText": [
