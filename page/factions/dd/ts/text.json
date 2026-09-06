@@ -5,12 +5,12 @@
             "general": "While resolving this order, increase your command level by 1."
         },
         {
-            "title": "A PRESENCE IN THE WARP",
-            "general": "During a combat initiated by this order, you can resolve the unit ability of any combat card that requires a Cairic Acolyte as if you had a participating unrouted Cairic Acolyte. *newline* LIMIT ONCE PER ROUND."
-        },
-        {
             "title": "RUBRIC OF AHRIMAN",
             "general": "After you resolve this order, you may place 1 free Rubric Marine on a friendly world containing a structure in the active system. *newline* LIMIT ONCE PER ROUND."
+        },
+        {
+            "title": "A PRESENCE IN THE WARP",
+            "general": "During a combat initiated by this order, you can resolve the unit ability of any combat card that requires a Cairic Acolyte as if you had a participating unrouted Cairic Acolyte. *newline* LIMIT ONCE PER ROUND."
         },
         {
             "title": "FIRES OF CHANGE",
