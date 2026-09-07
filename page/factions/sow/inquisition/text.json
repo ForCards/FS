@@ -71,7 +71,7 @@
         },
         {
             "title": "TROUPE OF TWILIGHT",
-            "general": "If you have more [B] than your opponent, he must lose 1 [D] of his choice. *newpara* If you have more [S] than your opponent, reroll up to 2 [D]. *newpara* If you have more [M] than your opponent, place 1 free reinforcement token in this area.",
+            "general": "If you have more [B] than your opponent, he must lose 1 [D] of his choice. *newline* If you have more [S] than your opponent, reroll up to 2 [D]. *newline* If you have more [M] than your opponent, place 1 free reinforcement token in this area.",
             "unit": "Trouper/Death Jester/Corsair Ship: Place 1 free reinforcement token in this area."
         },
         {
