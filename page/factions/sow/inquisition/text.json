@@ -65,19 +65,19 @@
     ],
     "combatText": [
         {
-            "title": "BLINDING SALVO",
-            "general": "If you are attacking, your opponent cannot resolve the general abilities of his next revealed combat card. *newpara* If you are defending, gain 1 [D].",
-            "unit": ""
+            "title": "TROUPE OF LIGHT",
+            "general": "If it is not the last combat round, reroll 1 [D]. *newpara* If it is the last combat round, gain 2 (S).",
+            "unit": "Trouper/Corsair Ship: Gain 1 (B) or 1 (S) for every friendly or contested void in the active system."
         },
         {
-            "title": "SHADOW ASSIGNMENT",
-            "general": "Gain 1 [M]. *newpara* Rally 1 of your units.",
-            "unit": "Stormtrooper/Rogue Trader: If you have more [M] than your opponent, force your opponent to either choose and rout 1 of his units or to spend a die of your choice."
+            "title": "TROUPE OF TWILIGHT",
+            "general": "If you have more [B] than your opponent, he must lose 1 [D] of his choice. *newpara* If you have more [S] than your opponent, reroll up to 2 [D]. *newpara* If you have more [M] than your opponent, place 1 free reinforcement token in this area.",
+            "unit": "Trouper/Death Jester/Corsair Ship: Place 1 free reinforcement token in this area."
         },
         {
-            "title": "PSYKER SHIELD",
-            "general": "Gain 2 (S).",
-            "unit": "Deathwatch/Rogue Trader: Spend 2 (S) to place 1 free reinforcement token in this area."
+            "title": "TROUPE OF DARK",
+            "general": "You may retreat 1 unit. If you did, rally the retreated unit and place 1 free reinforcement token in this area. *newpara* Gain 1 materiel for each friendly unit destroyed during this execution round.",
+            "unit": "Deathwatch/Rogue Trader: Gain 1 (B) or reroll 1 [D]."
         },
         {
             "title": "UNQUESTIONABLE WISDOM",
