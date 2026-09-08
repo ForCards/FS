@@ -77,17 +77,17 @@
         {
             "title": "TROUPE OF DARK",
             "general": "You may retreat 1 unit. If you did, rally the retreated unit and place 1 free reinforcement token in this area. *newpara* Gain 1 materiel for each friendly unit destroyed during this execution round.",
-            "unit": "Deathwatch/Rogue Trader: Gain 1 (B) or reroll 1 [D]."
+            "unit": "Trouper/Corsair Ship: Gain 1 (B) or reroll 1 [D]."
         },
         {
-            "title": "UNQUESTIONABLE WISDOM",
-            "general": "Gain either 1 [B] or 1 [S].",
-            "unit": "Stormtrooper/Rogue Trader: Discard 1 combat card from your hand. Gain that card's combat icons until the end of this execution round."
+            "title": "LAST LAUGH",
+            "general": "Either gain 1 (S) or spend 1 [B] to force your opponent to lose an equal number of [B].",
+            "unit": "Trouper: Gain 1 (B) or reroll 1 [D]."
         },
         {
-            "title": "FRENZON IMPLANTS",
-            "general": "Gain 2 (B).",
-            "unit": "Stormtrooper/Rogue Trader: Spend 2 (B) to convert all of your [M] into [B]."
+            "title": "FROM THIN AIR",
+            "general": "Move a friendly unit in the active or an adjacent system to this area (via a legal movement path). Gain [D] equal to its health value.",
+            "unit": "Trouper/Corsair Ship: Rally a unit. Reroll 1 [D]."
         },
         {
             "title": "SANCTIONED PSYKER",
