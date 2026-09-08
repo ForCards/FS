@@ -65,27 +65,27 @@
     ],
     "combatText": [
         {
-            "title": "TROUPE OF LIGHT",
+            "title": "   TROUPE OF LIGHT",
             "general": "If it is not the last combat round, reroll 1 [D]. *newpara* If it is the last combat round, gain 2 (S).",
             "unit": "Trouper/Corsair Ship: Gain 1 (B) or 1 (S) for every friendly or contested void in the active system."
         },
         {
-            "title": "TROUPE OF TWILIGHT",
+            "title": "   TROUPE OF TWILIGHT",
             "general": "If you have more [B] than your opponent, he must lose 1 [D] of his choice. *newline* If you have more [S] than your opponent, reroll up to 2 [D]. *newline* If you have more [M] than your opponent, place 1 free reinforcement token in this area.",
             "unit": "Trouper/Death Jester/Corsair Ship: Place 1 free reinforcement token in this area."
         },
         {
-            "title": "TROUPE OF DARK",
+            "title": "   TROUPE OF DARK",
             "general": "You may retreat 1 unit. If you did, rally the retreated unit and place 1 free reinforcement token in this area. *newpara* Gain 1 materiel for each friendly unit destroyed during this execution round.",
             "unit": "Trouper/Corsair Ship: Gain 1 (B) or reroll 1 [D]."
         },
         {
-            "title": "LAST LAUGH",
+            "title": "   LAST LAUGH",
             "general": "Either gain 1 (S) or spend up to 3 [B] to force your opponent to lose an equal number of [B].",
             "unit": "Trouper: If you are defending, you may move 1 friendly unit to a an adjacent area. This can start another combat after resolving this combat, and if it does, you are considered the attacker."
         },
         {
-            "title": "FROM THIN AIR",
+            "title": "   FROM THIN AIR",
             "general": "Move a friendly unit in the active or an adjacent system to this area (via a legal movement path). Gain [D] equal to its health value.",
             "unit": "Trouper/Corsair Ship: Rally a unit. Reroll 1 [D]."
         },
