@@ -29,7 +29,7 @@
         },
         {
             "title": "FORBIDDEN SORCERY",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* While resolving an order you may discard this card to increase your command level by 1 and gain 2 materiel.",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the end of the next Action Phase. *newpara* While this card is in play, your command level is increased by 1.",
             "type": "SCHEME"
         },
         {
