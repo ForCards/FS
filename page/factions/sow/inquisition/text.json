@@ -76,8 +76,8 @@
         },
         {
             "title": "   TROUPE OF DARK",
-            "general": "You may retreat 1 unit. If you did, rally the retreated unit and place 1 free reinforcement token in this area. *newpara* Gain 1 materiel for each friendly unit destroyed during this execution round.",
-            "unit": "Trouper/Corsair Ship: Gain 1 (B) or reroll 1 [D]."
+            "general": "Gain 1 (B) or reroll 1 [D].",
+            "unit": "Trouper/Corsair Ship: You may retreat 1 unit. If you did, rally the retreated unit and place 1 free reinforcement token in this area. *newpara* Gain 1 materiel for each friendly unit destroyed during this execution round."
         },
         {
             "title": "   LAST LAUGH",
@@ -90,24 +90,24 @@
             "unit": "Trouper/Corsair Ship: Rally a unit. Reroll 1 [D]."
         },
         {
-            "title": "SANCTIONED PSYKER",
-            "general": "Your opponent may spend 1 [B] to gain 1 (B). If he does not, force your opponent to lose 1 [S].",
-            "unit": "Stormtrooper/Rogue Trader: Your opponent rerolls 2 dice of his choice. For each [B] rolled, gain 1 (B) and 1 (S). For each [S] rolled, gain 1 (S)."
+            "title": "   LETHAL ART",
+            "general": "Cards in play do not provide combat icons until the end of the current combat round.",
+            "unit": "Death Jester/Starveawer/Solitaire/Corsair Ship: spend 2 [D] to gain 2 [B], 2 [S] or 2 [M]."
         },
         {
-            "title": "UNFLINCHING CRUSADERS",
-            "general": "Gain 2 (B).",
-            "unit": "Deathwatch/Rogue Trader: If you are defending, rally 1 of your units. *newpara* Force your opponent to lose either 1 [S] or 2 (B)."
+            "title": "   HOLO-SUITS",
+            "general": "Convert all of your [S] to [M].",
+            "unit": "Trouper/Death Jester/Corsair Ship: When your units would be destroyed during this round of combat, they may retreat instead. You may spend any number of [B] to rally 1 retreated unit for every 2 [B] spent."
         },
         {
-            "title": "RELENTLESS ASSAULT",
+            "title": "   SPIRAL OF MIRTH AND MADNESS",
             "general": "Gain 2 (S).",
-            "unit": "Deathwatch/Rogue Trader: If you are attacking, rally 1 of your units. *newpara* Spend 1 [S] to gain 2 (B)."
+            "unit": "Death Jester: Spend up to 2 (S). For every (S) spent, destroy 1 Corsair ship in an adjacent friendly void to place 1 Trouper on this world."
         },
         {
-            "title": "FAITH GUIDANCE",
-            "general": "If you are attacking, your opponent cannot resolve the unit abilities of his next revealed combat card. *newpara* If you are defending, either gain 1 | or retreat 1 of your units.",
-            "unit": ""
+            "title": "   SHRIEKER CANNONS",
+            "general": "Gain 1 (B) for every [B] you have, up to 4.",
+            "unit": "Death Jester/Corsair Ship: Destroy an enemy unit of a CL equal to or less then [M] you have, unless your opponent spends a number of [D] equal to its CL (of his choice)."
         },
         {
             "title": "LIDLESS STARE",
