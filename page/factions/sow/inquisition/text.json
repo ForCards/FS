@@ -100,7 +100,7 @@
             "unit": "Trouper/Death Jester/Corsair Ship: When your units would be destroyed during this round of combat, they may retreat instead. You may spend any number of [B] to rally 1 retreated unit for every 2 [B] spent."
         },
         {
-            "title": "   SPIRAL OF MIRTH AND MADNESS",
+            "title": " SPIRAL OF MIRTH AND MADNESS",
             "general": "Gain 2 (S).",
             "unit": "Death Jester: Spend up to 2 (S). For every (S) spent, destroy 1 Corsair ship in an adjacent friendly void to place 1 Trouper on this world."
         },
@@ -110,29 +110,29 @@
             "unit": "Death Jester/Corsair Ship: Destroy an enemy unit of a CL equal to or less then [M] you have, unless your opponent spends a number of [D] equal to its CL (of his choice)."
         },
         {
-            "title": "LIDLESS STARE",
-            "general": "Gain 1 [D].",
-            "unit": "Deathwatch/Black Ship: Your opponent loses 3 dice of his choice. Then you spend 3 of your dice."
+            "title": "   SPECTACLE OF DEATH",
+            "general": "Reroll any of your [S], then you may force you opponent to reroll the same number of [S].",
+            "unit": "Starweaver/Corsair Ship: Whenever a friendly unit is routed or destroyed during this execution round, gain 2 (B)."
         },
         {
-            "title": "STORM ENVOY",
-            "general": "Reroll either 1 [B] or 1 [M] to force your opponent to lose 1 [B].",
-            "unit": "Valkyrie: Take 1 Stormtrooper from any world and place it on this world. *newpara* Black Ship: Take 1 Stormtrooper from any world and place it on a friendly or uncontrolled world in this system."
+            "title": "   ONTO THE STAGE",
+            "general": "Choose a friendly unrouted unit. Spend [D] equal to its health value to gain 1 [S] for every [D] spent and to additionally gain 1 (B) for every [M] spent.",
+            "unit": "Starweaver: Destroy 1 Corsair Ship in an adjacent fiendly void to purchase a Trouper, Death Jester or Starweaver, reducing its cost by 2, and place it on this world."
         },
         {
-            "title": "HELLSTRIKE MISSILES",
-            "general": "Reroll either 1 [S] or 1 [M] to force your opponent to lose 1 [S].",
-            "unit": "Valkyrie/Black Ship: Destroy 1 of your opponent's routed units."
+            "title": "   CEGORACH'S REVENGE",
+            "general": "Convert 1 of your [D] to [S]. Rally a unit.",
+            "unit": "Starweaver: If you are attacking, your opponent cannot gain (B) during this execution round and you gain 1 (B). *newline* If you are defending, your opponent loses all of his (B). Gain an equal number of (B)."
         },
         {
-            "title": "TRUESILVER ARMOUR",
-            "general": "Gain either 1 [S] or 2 (S).",
-            "unit": "Grey Knight/Black Ship: During this combat, the health value of your units is increased by 1."
+            "title": "   THE FINAL ACT",
+            "general": "",
+            "unit": "Solitaire: Gain 1 (B) for every [S] your opponent has and every shield icon on your opponent's combat cards in play. If a friendly Solitaire is destroyed during this round, do not discard your (B) at the end of the next assess damage step."
         },
         {
-            "title": "DEEP STRIKE",
-            "general": "Either gain 1 (B) or convert up to 3 of your dice into [B].",
-            "unit": "Grey Knight: When an enemy unit suffers damage during this execution round, it is destroyed. *newpara* Black Ship: Rout 1 of your opponent's units."
+            "title": "   HARLEQUIN'S CARESS",
+            "general": "Rally a unit.",
+            "unit": "SOLITAIRE: If you have exactly 1 unrouted unit, deal 4 damage to enemy units, distributing it as you like. Then gain 1 (S) for every unit destroyed and lose 1 (S) for every unit routed."
         }
     ]
 }
