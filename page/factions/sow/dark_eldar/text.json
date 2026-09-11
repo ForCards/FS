@@ -13,7 +13,7 @@
             "general": "When resolving this order you may treat any cities and factories in the active system as friendly for the purpose of purchasing a single unit (but not for unit placement). *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "???",
+            "title": "",
             "general": "During this orbital strike you may spend any number of [S]. Your opponent must rout a unit on the target world for every 2 [S] spent. *newline* LIMIT ONCE PER ROUND."
         },
         {
@@ -92,12 +92,12 @@
         {
             "title": "STRIKE FROM BEHIND",
             "general": "Rout a friendly unit to rally a unit or place a free reinforcement token in this area.",
-            "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S) for every urouted friendly reinforcement unit in this area."
+            "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S) for every urouted friendly CL0 unit in this area."
         },
         {
             "title": "SERPENT'S FANGS",
             "general": "Convert any 2 of your opponent's [D] to [B] or [S].",
-            "unit": "Alpha Marine/Cruiser: gain 1 [B] or 1 [S]. Search your combat deck for a card. Your opponent may spend 1 [D] of your choice to discard it."
+            "unit": "Alpha Marine/Cruiser: Your opponent may spend 1 [D] of your choice. If he doesn't, search your combat deck for a card and add it to your hand."
         },
         {
             "title": "WEAKEST LINK",
@@ -106,12 +106,12 @@
         },
         {
             "title": "HEADS OF A HYDRA",
-            "general": "Until the end of the current combat round, whenever a friendly unit is destroyed, place a free reinforcement token in this area. At the beginning of the next combat round, gain 1 (B) for every friendly reinforcement unit.",
+            "general": "Until the end of the current combat round, whenever a friendly unit is destroyed, place a free reinforcement token in this area. At the beginning of the next combat round, gain 1 (B) for every friendly CL0 unit.",
             "unit": "Alpha Marine/Cruiser: Gain 1 [B] or 1 [S]."
         },
         {
             "title": "SABOTAGE",
-            "general": "Convert any 2 of your opponent's [D] to [S] or [B]. *newpara* Spend any number of [M] to force your opponent to rout 1 reinforcement unit for every [M] spent.",
+            "general": "Convert any 2 of your opponent's [D] to [S] or [B]. *newpara* Spend any number of [M] to force your opponent to rout 1 CL0 unit for every [M] spent.",
             "unit": "Hydrafiend/Dominus: Force your opponent to rout 1 unit of a command level equal to or less than the number of morale icons on his cards in play."
         },
         {
