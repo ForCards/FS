@@ -132,7 +132,7 @@
         {
             "title": "   HARLEQUIN'S CARESS",
             "general": "Rally a unit.",
-            "unit": "SOLITAIRE: If you have exactly 1 unrouted unit, deal 4 damage to enemy units, distributing it as you like. Then gain 1 (S) for every unit destroyed and lose 1 (S) for every unit routed."
+            "unit": "Solitaire: If you have exactly 1 unrouted unit, deal 4 damage to enemy units, distributing it as you like. Then gain 1 (S) for every unit destroyed and lose 1 (S) for every unit routed. *newline* *newline*"
         }
     ]
 }
