@@ -77,12 +77,12 @@
         {
             "title": "DIVERSION",
             "general": "At the start of the Assess Damage step, gain 1 (S) for every shield icon on your opponent's combat cards played this round.",
-            "unit": "Infiltrator/Cruiser: Reroll 1 [S] or [M]."
+            "unit": "Infiltrator/Cruiser: Gain 1 (B)."
         },
         {
             "title": "ONE STEP AHEAD",
             "general": "Either gain 1 [M] or force your opponent to choose and reveal any number of cards from his hand.",
-            "unit": "Infiltrator/Alpha Marine: Choose one: *newpara* Your opponent discards all unrevealed cards unless he spends 2 [D] of your choice. *newpara* Or your opponent discards 1 of the revealed cards of your choice."
+            "unit": "Infiltrator/Alpha Marine: Choose one: *newpara* Your opponent discards all unrevealed cards *newline* Or: *newline* Your opponent discards 1 of the revealed cards of your choice."
         },
         {
             "title": "ASSASINATION",
@@ -106,7 +106,7 @@
         },
         {
             "title": "HEADS OF A HYDRA",
-            "general": "Until the end of the current combat round, whenever a friendly unit is destroyed, place a free reinforcement token in this area. At the beginning of the next combat round, gain 1 (B) for every friendly CL0 unit.",
+            "general": "Until the end of the current combat round, whenever a friendly unit is destroyed, place a free reinforcement token in this area. At the beginning of the next combat round, gain 1 (B) for every unrouted friendly CL0 unit.",
             "unit": "Alpha Marine/Cruiser: Gain 1 [B] or 1 [S]."
         },
         {
