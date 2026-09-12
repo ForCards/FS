@@ -24,7 +24,7 @@
     "eventsText": [
         {
             "title": "A FEAST TO REMEMBER",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme when collecting materiel in the Refresh phase. Choose a system and collect materiel from all friendly worlds in that system again.",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme after collecting materiel in the Refresh phase. Either collect materiel once more from all friendly worlds in a single system or gain materiel once more for the Pleasure Seekers on your faction board.",
             "type": "SCHEME"
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "title": "SHE IS NEVER SATED",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme after resolving your next advance order. You must immediately resolve this advance order again.",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* You must discard this scheme after resolving your next advance order. Immediately resolve this advance order again.",
             "type": "SCHEME"
         },
         {
             "title": "THE DARK PRINCE BECKONS",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme at the start of a combat on a world with friendly units or structures. Replace 1 of your opponent's CL0 units with a Pleasure Seeker from your supply.",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this scheme at the start of a combat on a world. Replace 1 of your opponent's CL0 units with a Pleasure Seeker from your supply.",
             "type": "SCHEME"
         },
         {
             "title": "DANCE OF THE DEMONETTES",
-            "general": "*newpara* Return any number of Pleasure Seekers from your faction board and place them on any friendly worlds.",
+            "general": "*newpara* Either place 1 Pleasure Seeker from your supply on your faction board or return any number of Pleasure Seekers from your faction board and place them on any friendly worlds.",
             "type": "TACTIC"
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "title": "PRIDE BEFORE THE FALL",
-            "general": "*newpara* Choose a player. That player must retun one of their claimed objectives to any enemy or uncontrolled world.",
+            "general": "*newpara* Force a player with the most claimed objectives (in case of a tie, you choose) to retun one of his claimed objectives to any enemy or uncontrolled world.",
             "type": "TACTIC"
         },
         {
