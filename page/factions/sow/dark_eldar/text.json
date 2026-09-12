@@ -86,7 +86,7 @@
         },
         {
             "title": "ASSASINATION",
-            "general": "If you are attacking, you may force your opponent to discard his facedown card and pick a new one. If you do, gain 1 [M] for every morale icon on the discarded card. *newpara* If you are defending, your opponent looses 2 (B).",
+            "general": "If you are attacking, you may force your opponent to discard his facedown card and pick a new one. If you do, place 1 free reinforcement token in this area for every morale icon on the discarded card. *newpara* If you are defending, your opponent looses 2 (B).",
             "unit": "Alpha Marine/Cruiser: Gain 1 (B) or 1 (S)."
         },
         {
