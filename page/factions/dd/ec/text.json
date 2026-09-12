@@ -78,7 +78,7 @@
         {
             "title": "       TRAITOROUS SOUL",
             "general": "Gain 1 (B) for each enemy command level 0 unit.",
-            "unit": "Seeker: Replace 1 routed enemy CL0 unit with an unrouted Pleasure Seeker."
+            "unit": "Seeker: Replace 1 enemy CL0 unit with an unrouted friendly Pleasure Seeker."
         },
         {
             "title": "       SONG OF SLAANESH",
@@ -87,13 +87,13 @@
         },
         {
             "title": "       UNEXPECTED ALACRITY",
-            "general": "Either steal 1 (B) or 1 (S) or gain 1 (B) or 1 (S).",
-            "unit": "Seeker/Cruiser: Discard a combat card from your hand and resolve its unit abilities."
+            "general": "Gain 1 (B) or 1 (S). Force your opponent to lose 1 (B) or 1 (S), whichever you gained.",
+            "unit": "Seeker/Cruiser: Discard a combat card from your hand to resolve its unit abilities (if you satisfy requirements)."
         },
         {
             "title": "       ACOUSTIC BARRAGE",
             "general": "Spend 1 [M] to gain 2 (B).",
-            "unit": "Noise Marine/Cruiser: Your opponent must either rout 1 of his units or destroy all of his routed units (your opponent chooses)."
+            "unit": "Noise Marine/Cruiser: Your opponent must destroy all of his routed units, unless he chooses and routs 1 of his units. If he has no routed units, he must choose and rout a unit."
         },
         {
             "title": "       BLISSFUL AGONY",
@@ -113,27 +113,27 @@
         {
             "title": "       UNSPEAKABLE PERVERSION",
             "general": "Steal 1 [M].",
-            "unit": "Seeker: Your opponent looses all reinforcement tokens. Place that many free reinforcement tokens in this area."
+            "unit": "Seeker: Your opponent discards all reinforcement tokens. Place that many free reinforcement tokens in this area."
         },
         {
             "title": "       MUTUAL DESTRUCTION",
             "general": "Destroy a friendly unrouted unit to choose and destroy an enemy unit of the same or lower command level.",
-            "unit": "Soul Grinder/Cruiser/Grand Cruiser: Gain (B) equal to the highest command level among unrouted friendly units."
+            "unit": "Defiler/Cruiser/Grand Cruiser: Gain (B) equal to the highest command level among unrouted friendly units."
         },
         {
             "title": "       REVEL IN MISERY",
             "general": "Rally all friendly and enemy units.",
-            "unit": "Soul Grinder/Cruiser/Grand Cruiser: Gain 1 (B) or 1 (S) for each unit that was rallied as a result of the general ability of this card."
+            "unit": "Defiler/Cruiser/Grand Cruiser: Gain 1 (B) or 1 (S) for each unit that was rallied as a result of the general ability of this card."
         },
         {
             "title": "       FULGRIM'S AVARICE",
             "general": "Gain 1 [M] for each unclaimed objective in the active system.",
-            "unit": "Keeper of Secrets/Grand Cruiser: Gain 3 (B) if you have claimed more objectives than your opponent. Gain 3 (S) if you have claimed fewer objectives than your opponent."
+            "unit": "Subjugator Titan/Grand Cruiser: Gain 3 (B) if you have claimed more objectives than your opponent. Gain 3 (S) if you have claimed fewer objectives than your opponent."
         },
         {
             "title": "       IRRESISTIBLE TEMPTATION",
-            "general": "Steal 1 [B] and 1 [M].",
-            "unit": "Keeper of Secrets/Grand Cruiser: gain 2 (B) for each [D] you could not steal."
+            "general": "Gain 1 [B] and 1 [M]. Your opponent loses 1 [B} and 1 [M].",
+            "unit": "Subjugator Titan/Grand Cruiser: gain 2 (B) for each [D] you could not gain or your opponent could not lose during the resolution of the general ability."
         }
     ]
 }
