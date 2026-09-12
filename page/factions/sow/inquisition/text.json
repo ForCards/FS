@@ -66,7 +66,7 @@
     "combatText": [
         {
             "title": "   TROUPE OF LIGHT",
-            "general": "If it is not the last combat round, reroll 1 [D]. *newpara* If it is the last combat round, gain 2 (S).",
+            "general": "If it is not the last combat round, gain 1 (B). *newpara* If it is the last combat round, gain 2 (S).",
             "unit": "Trouper/Corsair Ship: Gain 1 (B) or 1 (S) for every friendly or contested void in the active system."
         },
         {
