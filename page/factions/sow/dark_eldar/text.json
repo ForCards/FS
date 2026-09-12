@@ -24,7 +24,7 @@
     "eventsText": [
         {
             "title": "COMPROMISED CHAIN OF COMMAND",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat before the Draw phase to look at the top 3 cards of your opponent's Combat deck. Move any of them to the bottom of his deck.",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat before the Draw phase to look at the top 5 cards of your opponent's Combat deck. Move any of them to the bottom of his deck.",
             "type": "SCHEME"
         },
         {
@@ -34,32 +34,32 @@
         },
         {
             "title": "SLEEPER AGENT",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Secretly choose and place 1 of your order tokens facedown onto any world. Dscard this card at the start of a combat on that world to reveal the token, discard it and do the following: *newline* If it is a Strategize order, replace a CL0 unit in this area with a CL0 unit from your reserve. *newline* If it is a Deploy order, replace a CL1 unit in this area with a CL1 unit from your reserve. *newline* If it is a Dominate order, replace a CL2 unit in this area with a CL2 unit from your reserve. *newline* If it is an Advance order, replace a CL3 unit in this area with a CL3 unit from your reserve.",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara*  Choose and place 1 order token facedown onto this card. You must discard this card at the beginning of a combat on a world to place the token from this card on that world.",
             "type": "SCHEME"
         },
         {
             "title": "STOLEN BLUEPRINTS",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card when when you resolve an order. Your command level during this order resolution is equal to the highest command level among opponents who share at least 1 system with you.",
+            "general": "Place this card in your play area and discard all of your other schemes. *newpara* You may discard this card when you resolve an order. Your command level during this order resolution is equal to the highest command level among opponents who share at least 1 system with you.",
             "type": "SCHEME"
         },
         {
             "title": "REDIRECT SUPPLIES",
-            "general": "Choose an opponent who you share at least 1 system with and an asset token type. Gain asset tokens of that type equal to the number of tokens of that type that he has.",
+            "general": "Choose an opponent whom you share at least 1 system with and an asset token type. Gain asset tokens of that type equal to the number of tokens of that type that he has.",
             "type": "TACTIC"
         },
         {
             "title": "DISRUPT COMMUNICATIONS",
-            "general": "Choose a player and 2 different order tokens. He must place those 2 tokens on top of his event deck. The tokens remain on top of his event deck till the next event phase.",
+            "general": "Place a free Alpha Marine on a friendly or neutral world in a system containing a friendly area.",
             "type": "TACTIC"
         },
         {
             "title": "STEALTH OPERATION",
-            "general": "Choose an opponent. That opponent must choose and replace 1 of his CL0 units on any world with an Infiltrator from your reserve. This may start a combat, and if it does, you are considered the attacker.",
+            "general": "Choose an opponent. Secretly choose and place one of your order tokens facedown on any world.",
             "type": "TACTIC"
         },
         {
             "title": "INDOCTRINATED POPULATION",
-            "general": "Choose an opponent and a system. Resolve an advance order within that system, controlling that opponent's forces as if they were yours. This advance order may not result in a combat or an orbital strike and areas' unit capacity may not be exceeded as the result of this order.",
+            "general": "Remove your order token from a friendly or a neutral world to place a free structure of your choice on that world if it does not already contain a structure of that type.",
             "type": "TACTIC"
         }
     ],
