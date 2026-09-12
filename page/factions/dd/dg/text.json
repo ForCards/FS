@@ -123,7 +123,7 @@
         {
             "title": "  SPREAD CONTAGION",
             "general": "You and your opponent must immediately suffer damage equal to the difference between your [M].",
-            "unit": "Poxwalker/Plague Marine/Blight-hauler/Crawler: *newline* Gain 1 [M] if an enemy unit was destroyed by this card's general ability. *newline* Gain 1 [M] if a friendly unit was destroyed by this card's general ability."
+            "unit": "Poxwalker/Plague Marine/Blight-hauler/The Great Unclean One: *newline* Gain 1 [M] if an enemy unit was destroyed by this card's general ability. *newline* Gain 1 [M] if a friendly unit was destroyed by this card's general ability."
         },
         {
             "title": "  MORTARION'S REGRET",
@@ -133,7 +133,7 @@
         {
             "title": "  THE SEVENTH PLAGUE",
             "general": "Gain 7 (S).",
-            "unit": "Crawler/Executor: For each of your (S) that did not block damage this round of combat, gain 1 (B) at the beginning of the next round."
+            "unit": "The Great Unclean One/Executor: For each of your (S) that did not block damage this round of combat, gain 1 (B) at the beginning of the next round."
         }
     ]
 }
