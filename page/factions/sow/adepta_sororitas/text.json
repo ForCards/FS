@@ -81,13 +81,13 @@
         },
         {
             "title": "   ANCESTRAL SENTENCE",
-            "general": "Gain 1 [B]. Spend 1 materiel to gain 2 (B).",
-            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [S] or 1 [M]."
+            "general": "Discard another of your combat cards in play to gain 1 [S] or 1 [M].",
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Spend up to 2 materiel to gain 2 (B) for each materiel spent."
         },
         {
             "title": "   VOID ARMOUR",
-            "general": "Gain 1 [S]. Spend 1 materiel to gain 2 (S).",
-            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Discard another of your combat cards in play to gain 1 [B] or 1 [M]."
+            "general": "Discard another of your combat cards in play to gain 1 [B] or 1 [M].",
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Spend up to 2 materiel to gain 2 (S) for each materiel spent."
         },
         {
             "title": " TECHNOLOGIES OF THE DARK AGE",
@@ -106,8 +106,8 @@
         },
         {
             "title": "   WISDOM OF THE VOTANN",
-            "general": "Spend 1 [S] to draw a card. *newline* Rally a unit. *newline* Gain 1 (S) for every [S] you have.",
-            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Choose 1 of your cards in play and spend materiel equal to the number of combat icons it has to find a copy of that card in your deck or in your hand and play it, without resolving its abilities but gaining its combat icons for this combat. You may spend 1 materiel to resolve its unit abilities."
+            "general": "Rally a unit. *newline* Gain 1 (S) for every [S] you have.",
+            "unit": "Einhyr Hearthguard/Bastion Commerce Vessel: Choose 1 of your cards in play and spend 1 materiel to find a copy of that card in your deck or in your hand and play it, without resolving its abilities but gaining its combat icons for this combat. You may spend 1 materiel to resolve its general abilities."
         },
         {
             "title": "   SAGITAUR",
@@ -122,7 +122,7 @@
         {
             "title": "   SUPERIOR CRAFTSMANSHIP",
             "general": "Until the end of this combat, whenever a card ability requires you to spend materiel, spend 1 less materiel.",
-            "unit": "Sagitaur/Stronghold Commerce Vessel: Lose up to 3 of your dice. Then spend up to 3 materiel to gain 1 [B] for each materiel spent."
+            "unit": "Sagitaur/Stronghold Commerce Vessel: Spend up to 3 materiel to convert 1 of your [D] to [B] for each materiel spent."
         },
         {
             "title": "   MIGHT OF THE FORGE",
