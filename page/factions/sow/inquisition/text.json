@@ -23,44 +23,44 @@
     ],
     "eventsText": [
         {
-            "title": "VIOLENT ACQUISITION",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* After you resolve an Advance Order, you may discard this card to collect an Inquisition objective token that is on a friendly world in the active system.",
+            "title": "A MORBID JEST",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat on a world. For the duration of this combat, your reinforcement tokens are considered to be Death Jesters.",
             "type": "SCHEME"
         },
         {
-            "title": "PSIONIC WARFARE",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* When you reveal an order during the Operations Phase, you may discard this card to choose an order upgrade card in any player's play area. That order upgrade card is considered used during this round.",
+            "title": "OBSESSIVE PRECISION",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of a combat, after rolling the dice, to convert 4 of your [D] to [B], [S], or [M] in any combination.",
             "type": "SCHEME"
         },
         {
-            "title": "STRATEGIC EXCRUCIATION",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* Instead of revealing an order during the Operations Phase, you may discard this card to discard a scheme from another player's play area.",
+            "title": "SLIPPERY AS SILK",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card when you resolve an advance order. You may move up to 2 units through a single contested void during the ground units movement phase.",
             "type": "SCHEME"
         },
         {
-            "title": "THEOSOPHAMY",
-            "general": "Discard this card.",
-            "type": "TACTIC"
-        },
-        {
-            "title": "RADICALS AND PURITANS",
-            "general": "Either purchase 1 structure, reducing its cost materiel by 1, and place it on a friendly world not containing a structure, or destroy 1 of your structures on any world to gain materiel equal to its materiel cost increased by 1.",
-            "type": "TACTIC"
-        },
-        {
-            "title": "ELYSIAN DROP TROOPS",
-            "general": "Either place 1 free Stormtrooper on an uncontrolled world in a system containing at least 1 of your ships or place 1 free Stormtrooper on any friendly world.",
-            "type": "TACTIC"
-        },
-        {
-            "title": "MINISTORUM'S DOGMA",
-            "general": "Purchase 1 combat upgrade, reducing its materiel cost by 1 for each system with no enemy units, to a minimum of 1.",
-            "type": "TACTIC"
-        },
-        {
-            "title": "IMPERIAL MANDATE",
-            "general": "Place this card in your play area and discard all of your other schemes. *newpara* After placing your first order token during the Planning Phase, you may discard this card to place 1 additional order token. If you do, you place 5 order tokens during this Planning Phase.",
+            "title": "THEATRE OF WAR",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card at the start of the reinforce step of a combat. For the duration of this combat, all units' combat values and morale values are swapped.",
             "type": "SCHEME"
+        },
+        {
+            "title": "SPECTACLE OF DEATH",
+            "general": "*newpara* Choose a system with a friendly void and an enemy world. Execute an orbital strike of the enemy world collecting [D] equal to the sum of the combat values of your units in the chosen friendly void. (This orbital strike is not considered to be a part of an advance order resolution.)",
+            "type": "TACTIC"
+        },
+        {
+            "title": "NOMADIC TROUPE",
+            "general": "*newpara* Either destroy a friendly structure to gain 1 cache token, 1 forge token and 1 reinforcement token, or destroy a friendly city to gain 2 cache tokens, 2 forge tokens and 2 reinforcement tokens.",
+            "type": "TACTIC"
+        },
+        {
+            "title": "ENCORE",
+            "general": "*newpara* Resolve an advance order in any system. During this order resolution you cannot move ground units, initiate combat or perform an orbital strike.",
+            "type": "TACTIC"
+        },
+        {
+            "title": "UNMASKING",
+            "general": "Destroy a friendly Trouper and a friendly Death Jester on the same world to place a free Solitaire on that world.",
+            "type": "TACTIC"
         }
     ],
     "combatText": [
