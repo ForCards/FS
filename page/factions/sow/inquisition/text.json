@@ -97,7 +97,7 @@
         {
             "title": "   HOLO-SUITS",
             "general": "Convert all of your [S] to [M].",
-            "unit": "Trouper/Death Jester/Corsair Ship: When your units would be destroyed during this round of combat, they may retreat instead. You may spend any number of [B] to rally 1 retreated unit for every 2 [B] spent."
+            "unit": "Trouper/Death Jester/Corsair Ship: When your units would be destroyed during this round of combat, they may retreat instead."
         },
         {
             "title": "SPIRAL OF MIRTH AND MADNESS",
