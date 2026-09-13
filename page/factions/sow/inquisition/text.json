@@ -86,7 +86,7 @@
         },
         {
             "title": "   FROM THIN AIR",
-            "general": "Move a friendly unit in the active or an adjacent system to this area (via a legal movement path). Gain [D] equal to its health value.",
+            "general": "Move a unit from a friendly area in the active or an adjacent system to this area (via a legal movement path). Gain [D] equal to its health value.",
             "unit": "Trouper/Corsair Ship: Rally a unit. Reroll 1 [D]."
         },
         {
