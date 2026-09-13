@@ -59,7 +59,7 @@
         },
         {
             "title": "UNMASKING",
-            "general": "Destroy a friendly Trouper and a friendly Death Jester on the same world to place a free Solitaire on that world.",
+            "general": "*newpara* Destroy a friendly Trouper and a friendly Death Jester on the same world to place a free Solitaire on that world.",
             "type": "TACTIC"
         }
     ],
