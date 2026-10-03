@@ -72,7 +72,7 @@
         {
 
             "title": "        CORRUPTING INFLUENCE",
-            "general": "Your opponent must give you one of his [D].",
+            "general": "Force your opponent to lose one of his [D], then gain the same [D].",
             "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand."
         },
         {
@@ -81,7 +81,7 @@
             "unit": "Seeker: Replace 1 enemy CL0 unit with an unrouted friendly Pleasure Seeker."
         },
         {
-            "title": "        UNSPEAKABLE PERVERSION",
+            "title": "        SAVOUR THEIR AGONY",
             "general": "Gain 1 [M].",
             "unit": "Seeker/Cruiser: Gain 1 (B) for each [M] you have."
         },
@@ -116,7 +116,7 @@
             "unit": "Seeker: Your opponent destroys all reinforcement tokens in this area. Place that many free reinforcement tokens in this area."
         },
         {
-            "title": "        MUTUAL DESTRUCTION",
+            "title": "        UNSPEAKABLE PERVERSION",
             "general": "Destroy a friendly unrouted unit to choose and destroy an enemy unit of the same or lower command level.",
             "unit": "Defiler/Cruiser/Grand Cruiser: Gain (B) equal to the highest command level among unrouted friendly units."
         },
@@ -132,7 +132,7 @@
         },
         {
             "title": "        SONG OF SLAANESH",
-            "general": "Gain 1 [B] and 1 [M]. Your opponent loses 1 [B} and 1 [M].",
+            "general": "Gain 1 [B] and 1 [M]. Your opponent loses 1 [B] and 1 [M].",
             "unit": "Subjugator Titan/Grand Cruiser: gain 2 (B) for each [D] you could not gain or your opponent could not lose during the resolution of the general ability."
         }
     ]
