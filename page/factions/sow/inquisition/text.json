@@ -77,7 +77,7 @@
         {
             "title": "   TROUPE OF DARK",
             "general": "Gain 1 (B) or reroll 1 [D].",
-            "unit": "Trouper/Corsair Ship: You may retreat 1 unit. If you did, rally the retreated unit and place 1 free reinforcement token in this area. *newpara* Gain 1 materiel for each friendly unit destroyed during this execution round."
+            "unit": "Trouper: Retreat up to 2 of your units. Rally the retreated units and place 1 free reinforcement token in this area for every retreated unit."
         },
         {
             "title": "   LAST LAUGH",
