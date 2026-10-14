@@ -66,8 +66,8 @@
     "combatText": [
         {
             "title": "    SHIELD FORMATION",
-            "general": "Gain 1 [S].",
-            "unit": "Slave soldier/Devastation/Bastion: Gain 1 (S). *newpara* Convert 1 of your [D] to [S]."
+            "general": "Gain 1 (S). ",
+            "unit": "Slave soldier/Devastation/Bastion: Gain 1 [S]."
         },
         {
             "title": "    CANNON FODDER",
@@ -76,18 +76,18 @@
         },
         {
             "title": "    PURGE THE WEAK",
-            "general": "If this card was played from Tactical stack, rout 1 Slave Soldier to place 1 free reinforcement token in this area. *newpara* Rout 1 friendly Slave Soldier to rally up to 1 unit. *newpara* Gain 1 (S). Destroy any number of friendly routed units to gain 1 materiel and 1 [M] for each one.",
+            "general": "Rout 1 Slave Soldier to either place 1 free reinforcement token in this area or to rally a unit. *newpara* Gain 1 (S). Destroy any number of friendly routed units to gain 1 materiel and 1 [M] for each one.",
             "unit": ""
         },
         {
             "title": "    WARSMITH",
             "general": "Gain 1 [D]. If this world's capacity is 2 or less, gain 1 (S) or 1 (B) for each unrouted friendly Slave Soldier.",
-            "unit": "Siege Marine: if this world contains no structures, rout or destroy 1 friendly Slave Soldier and spend 1 materiel to place a free friendly factory on this world."
+            "unit": "Siege Marine: if this world contains no structures, rout 1 friendly Slave Soldier and spend 1 materiel to place a free friendly factory on this world."
         },
         {
             "title": "    BRUTAL ATTRITION",
             "general": "Spend 1 [S] to gain 1 (B) for every [B] you have, to a maximum of 3.",
-            "unit": "Slave soldier/Devastation: If this card was played from Tactical stack, convert up to 2 of your [D] to [S]."
+            "unit": "Slave soldier/Devastation: Convert up to 2 of your [D] to [S]."
         },
         {
             "title": "    IRON WITHIN",
@@ -106,17 +106,17 @@
         },
         {
             "title": "    IRON WITHOUT",
-            "general": "Choose a friendly unrouted unit in an adjacent area. Gain (B) equal to its combat value. If this card was played from Tactical stack, gain (B) equal to its morale value instead.",
-            "unit": "Siege Marine/Devastation/Bastion: Convert any of your [M] to [B]."
+            "general": "Convert any of your [M] to [B].",
+            "unit": "Siege Marine/Devastation: Choose a friendly unrouted unit in an adjacent area. Gain (B) equal to its morale value."
         },
         {
             "title": "    JUDGEMENT OF IRON",
-            "general": "Spend up to 2 [S] to gain 2 (B) for every [S] spent. *newline* If this world contains a friendly structure, gain 1 [S].",
+            "general": "Spend up to 3 [S] to gain 2 (B) for every [S] spent. *newline* If this world contains a friendly structure, gain 1 [S].",
             "unit": "Hellforged Leviathan/Devastation: Gain 1 [B]. If this world contains an enemy structure, you may destroy it."
         },
         {
             "title": "    SIEGECRAFT",
-            "general": "Until the end of this combat, an unrouted Helforged Leviathan Dreadnought or Donjon Siege Engine is considered to be a friendly structure as well as a unit. *newpara* Immediately reveal the topmost card of the Tactical stack and play it.",
+            "general": "Until the end of this combat, an unrouted Hellforged Leviathan Dreadnought or Donjon Siege Engine is considered to be a friendly structure as well as a unit. *newpara* Immediately reveal the topmost card of the Tactical stack and play it.",
             "unit": ""
         },
         {
@@ -132,7 +132,7 @@
         {
             "title": "    HAMMER OF OLYMPIA",
             "general": "Convert 1 of your [D] to [M].",
-            "unit": "Donjon/Hecate: Rally a unit. *newpara* If this card was played from Tactical stack, your opponent must either rout 3 CL0 or CL1 units or lose 3 [M] in any combination (your opponent chooses)."
+            "unit": "Donjon/Hecate: Rally a unit. *newpara* Your opponent must choose 3 times to either rout 1 CL1 or CL2 unit or spend 1 [M]."
         }
     ]
 }
