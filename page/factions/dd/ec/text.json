@@ -132,8 +132,8 @@
         },
         {
             "title": "        SONG OF SLAANESH",
-            "general": "Place 1 Pleasure Seeker from your facion mat in this area.",
-            "unit": "Subjugator Titan/Grand Cruiser: Gain 1 (S) for every Pleasure Seeker on your faction mat."
+            "general": "Place 1 Pleasure Seeker from your facion board in this area.",
+            "unit": "Subjugator Titan/Grand Cruiser: Gain 1 (S) for every Pleasure Seeker on your faction board."
         }
     ]
 }
