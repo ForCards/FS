@@ -103,7 +103,7 @@
         {
             "title": "        ACOUSTIC BARRAGE",
             "general": "Gain 1 [B] and 1 (B) and force your opponent to lose 1 [B].",
-            "unit": "Noise Marine/Cruiser: Gain 3 (S), unless your opponent chooses and destroys 1 of his units."
+            "unit": "Noise Marine/Cruiser: Rout a friendly unit. If you did, gain 2 (S) unless your opponent chooses and destroys 1 of his units."
         },
         {
             "title": "        SHRIEKING HAVOCS",
