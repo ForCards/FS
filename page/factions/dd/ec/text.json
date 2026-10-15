@@ -71,7 +71,7 @@
         },
         {
 
-            "title": "        CORRUPTING INFLUENCE",
+            "title": "        ENTRANCING SIGHT",
             "general": "Force your opponent to lose one of his [D], then gain the same [D].",
             "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand."
         },
@@ -96,14 +96,14 @@
             "unit": "Noise Marine/Cruiser: Your opponent must destroy all of his routed units, unless he chooses and routs 1 of his units. If he has no routed units, he must choose and rout a unit."
         },
         {
-            "title": "        BLISSFUL AGONY",
+            "title": "        CORRUPTING INFLUENCE",
             "general": "",
             "unit": "Noise Marine/Cruiser: Your opponent must give you one card from his hand. Play it (do not resolve its unit abilities). If it provides no printed shield icons, your opponent must discard 1 card from his hand at random."
         },
         {
             "title": "        ACOUSTIC BARRAGE",
             "general": "Gain 1 [B] and 1 (B) and force your opponent to lose 1 [B].",
-            "unit": "Noise Marine/Cruiser: Rout a friendly unit. If you did, gain 2 (S) unless your opponent chooses and destroys 1 of his units."
+            "unit": "Noise Marine/Cruiser: Rout a friendly Noise Marine. If you did, gain 2 (S) unless your opponent chooses and destroys 1 of his units."
         },
         {
             "title": "        SHRIEKING HAVOCS",
