@@ -76,7 +76,7 @@
             "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand."
         },
         {
-            "title": "        TRAITOROUS SOUL",
+            "title": "        IRRESISTIBLE TEMPTATION",
             "general": "Gain 1 (B) for each enemy command level 0 unit.",
             "unit": "Seeker: Replace 1 enemy CL0 unit with an unrouted friendly Pleasure Seeker."
         },
@@ -111,12 +111,12 @@
             "unit": "Noise Marine/Cruiser: If you gained 2 (B), remove 1 Pleasure Seeker from your faction board to gain 3 (S)."
         },
         {
-            "title": "        IRRESISTIBLE TEMPTATION",
+            "title": "        UNSPEAKABLE PERVERSION",
             "general": "Your opponent may rout any of his units. Gain (S) equal to the number of unrouted enemy units.",
             "unit": "Seeker: Your opponent destroys all reinforcement tokens in this area. Place that many free reinforcement tokens in this area."
         },
         {
-            "title": "        UNSPEAKABLE PERVERSION",
+            "title": "        MUTUAL DESTRUCTION",
             "general": "Your opponent may spend any of his [B] and (B). For every friendly unit destroyed during this combat round, your opponent must destroy his unit of the highest command level.",
             "unit": "Noise Marine/Cruiser/Grand Cruiser: Gain (B) equal to the highest command level among unrouted friendly units."
         },
