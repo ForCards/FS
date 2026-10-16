@@ -73,7 +73,7 @@
 
             "title": "        BEWITCH",
             "general": "Force your opponent to lose one of his [D], then gain the same [D].",
-            "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand."
+            "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand and resolve its general abilities as if you played it."
         },
         {
             "title": "        IRRESISTIBLE TEMPTATION",
@@ -98,7 +98,7 @@
         {
             "title": "        CORRUPTING INFLUENCE",
             "general": "",
-            "unit": "Noise Marine/Cruiser: Your opponent must give you one card from his hand. Play it (do not resolve its unit abilities). If it provides no printed shield icons, your opponent must discard 1 card from his hand at random."
+            "unit": "Noise Marine/Cruiser: Your opponent must give you one card from his hand. Play it. If it provides no printed shield icons, your opponent must discard 1 card from his hand at random."
         },
         {
             "title": "        ACOUSTIC BARRAGE",
