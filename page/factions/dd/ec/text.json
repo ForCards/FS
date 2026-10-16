@@ -98,7 +98,7 @@
         {
             "title": "        CORRUPTING INFLUENCE",
             "general": "",
-            "unit": "Noise Marine/Cruiser: Force your opponent to lose 1 [S]. *newpara* Your opponent must give you one card from his hand. Play it. If it provides no printed shield icons, your opponent must discard 1 card from his hand at random."
+            "unit": "Noise Marine/Cruiser: Force your opponent to lose 1 [S]. *newpara* Your opponent must choose and give you a card from his hand. Play it. If it provides no printed shield icons, your opponent must discard 1 card from his hand at random."
         },
         {
             "title": "        ACOUSTIC BARRAGE",
