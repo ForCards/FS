@@ -118,7 +118,7 @@
         {
             "title": "        MUTUAL DESTRUCTION",
             "general": "Gain (B) equal to the highest command level among unrouted friendly units.",
-            "unit": "Defiler/Cruiser/Grand Cruiser: Your opponent may spend any of his [B] and (B). For every friendly unit destroyed during this combat round, your opponent must destroy his unit of the highest command level."
+            "unit": "Defiler/Cruiser/Grand Cruiser: Your opponent may spend any of his [B] and (B). Whenever a friendly unit is destroyed during this combat round, your opponent must destroy his unit of the highest command level."
         },
         {
             "title": "        REVEL IN MISERY",
