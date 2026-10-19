@@ -72,7 +72,7 @@
         {
             "title": "GRUESOME TROPHY",
             "general": "Force your opponent to loose 1 [D] of your choice.",
-            "unit": "Blood Cultist/Berzerker/Carnage: If you have more [D] then your opponent, he must rout 1 unit."
+            "unit": "Blood Cultist/Berzerker/Carnage: If you have more [D] then your opponent, he must choose and rout 1 unit."
         },
         {
             "title": "LET THE GALAXY BURN",
@@ -87,7 +87,7 @@
         {
             "title": "SLAUGHTER THEM ALL",
             "general": "Gain 1 [B] and 1 (B).",
-            "unit": "Blood Cultist/Berzerker/Carnage: Your opponent must destroy 1 of his units, unless he spends 1 [D]."
+            "unit": "Blood Cultist/Berzerker/Carnage: Your opponent must destroy 1 of his units, unless he spends 1 [D] of his choice."
         },
         {
             "title": "BLINDED BY RAGE",
@@ -107,7 +107,7 @@
         {
             "title": "DARK OFFERING",
             "general": "",
-            "unit": "Blood Cultist/Berzerker/Hellbrute: You must activate this ability. Your opponent may destroy 1 of their units. If they do, you do not deal damage in the next Assess Damage step."
+            "unit": "Blood Cultist/Berzerker/Hellbrute: You must activate this ability. Your opponent may destroy 1 of his units. If he did, he does not suffer damage in the next Assess Damage step."
         },
         {
             "title": "RED HAZE",
@@ -122,7 +122,7 @@
         {
             "title": "LIMITLESS CARNAGE",
             "general": "",
-            "unit": "Hellbrute: Your opponent must rout all of his CL0 units."
+            "unit": "Hellbrute: If you are attacking, your opponent must rout all of his CL0 units."
         },
         {
             "title": "ANGRON'S DISDAIN",
