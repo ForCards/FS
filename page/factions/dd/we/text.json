@@ -2,7 +2,7 @@
     "ordersText": [
         {
             "title": "BLOOD FOR THE BLOOD GOD",
-            "general": "While resolving this order you may draw 2 additional cards at the start of a combat. *newline* LIMIT ONCE PER ROUND."
+            "general": "During the preparation step of a combat you start with this order, you may draw 2 additional cards, then discard 2 cards. *newline* LIMIT ONCE PER ROUND."
         },
         {
             "title": "BUTCHER'S NAILS",
@@ -67,11 +67,11 @@
         {
             "title": "RECKLESS ASSAULT",
             "general": "You must destroy 1 friendly unit.",
-            "unit": "Berzerker: Gain 2 (B). If the destroyed unit was not a reinforcement token, gain 2 (B)."
+            "unit": "Berzerker: If you are attacking, gain 2 (B). If the destroyed unit was not a reinforcement token, gain 2 (B)."
         },
         {
             "title": "GRUESOME TROPHY",
-            "general": "Force your opponent to loose 1 [D] of your choice.",
+            "general": "If you are attacking, force your opponent to loose 1 [D] of your choice.",
             "unit": "Blood Cultist/Berzerker/Carnage: If you have more [D] then your opponent, he must choose and rout 1 unit."
         },
         {
@@ -97,7 +97,7 @@
         {
             "title": "BLOOD FRENZY",
             "general": "If it is the first round of combat, gain 2 (B) or 2 (S).",
-            "unit": "Berzerker: Gain 1 (B) and 1 (S)."
+            "unit": "Berzerker: If you are attacking, gain 1 (B) and 1 (S)."
         },
         {
             "title": "CUT THEM DOWN",
@@ -111,8 +111,8 @@
         },
         {
             "title": "RED HAZE",
-            "general": "Gain 1 (S) for each unplayed card in your opponent's hand.",
-            "unit": "Berzerker/Hellbrute/Gloriana: Convert any number of [S] to [B]."
+            "general": "Gain 1 (S) for each card in your opponent's hand.",
+            "unit": "Berzerker/Hellbrute/Gloriana: If you are attacking, convert any of your [S] to [B]."
         },
         {
             "title": "INSATIABLE BLOODLUST",
@@ -122,7 +122,7 @@
         {
             "title": "LIMITLESS CARNAGE",
             "general": "",
-            "unit": "Hellbrute: If you are attacking, your opponent must rout all of his CL0 units."
+            "unit": "Hellbrute: Your opponent must rout all of his CL0 units."
         },
         {
             "title": "ANGRON'S DISDAIN",
