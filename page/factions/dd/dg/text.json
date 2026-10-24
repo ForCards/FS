@@ -77,7 +77,7 @@
         },
         {
             "title": "  MIASMA AND ROT",
-            "general": "Gain 1 (S) for each of your other combat cards in play.",
+            "general": "Gain 1 (S) for each of your combat cards in play, including this card.",
             "unit": "Poxwalker/Plague Marine/Pestilaan: Gain 1 (S) if you have any [M]."
         },
         {
@@ -87,7 +87,7 @@
         },
         {
             "title": "  PUTRESCENT VITALITY",
-            "general": "Gain 1 (S).",
+            "general": "",
             "unit": "Poxwalker/Plague Marine/Pestilaan: Convert any [D] to [S] until you have more [S] than [D] of any other type."
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "title": "  IN DEATH'S SHADOW",
-            "general": "If you have more units in this area than your opponent, he must rout 1 unit.",
+            "general": "Your opponent must choose and rout 1 unit.",
             "unit": "Pestilaan/Executor: Gain (B) equal to the highest morale value among routed enemy units."
         },
         {
