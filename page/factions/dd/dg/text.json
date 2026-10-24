@@ -127,7 +127,7 @@
         },
         {
             "title": "  MORTARION'S REGRET",
-            "general": "All units' health value is reduced by 3, to a minimum of 1.",
+            "general": "All units' health value is reduced by 2, to a minimum of 1.",
             "unit": "The Great Unclean One/Executor: Your opponent must immediately suffer 3 damage."
         },
         {
