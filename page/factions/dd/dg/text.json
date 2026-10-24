@@ -133,7 +133,7 @@
         {
             "title": "  THE SEVENTH PLAGUE",
             "general": "Gain 7 (S).",
-            "unit": "The Great Unclean One/Executor: At the beginning of the next round gain a number of (B) equal to the difference between your Defence Value and your opponent's Offence Value ."
+            "unit": "The Great Unclean One/Executor: At the start of the Assess Damage step, calculate the difference between your Defence Value and your opponent's Offence Value. At the start of the next round, gain that many (B)."
         }
     ]
 }
