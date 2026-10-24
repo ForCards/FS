@@ -72,17 +72,17 @@
         {
 
             "title": "  DESEASED BLADES",
-            "general": "Gain 1 (B) for each of your combat cards in play.",
+            "general": "Gain 1 (B) for each of your combat cards in play, including this card.",
             "unit": "Poxwalker/Plague Marine/Pestilaan: Gain 1 (B) if you have any [M]."
         },
         {
             "title": "  MIASMA AND ROT",
-            "general": "Gain 1 (S) for each of your combat cards in play.",
+            "general": "Gain 1 (S) for each of your other combat cards in play.",
             "unit": "Poxwalker/Plague Marine/Pestilaan: Gain 1 (S) if you have any [M]."
         },
         {
             "title": "  PLAGUE PACT",
-            "general": "If any unit would be destroyed during this combat round, it is routed instead.",
+            "general": "You must activate this ability. All units' health value is reduced by 1, to a minimum of 1. *newpara* If any unit would be destroyed during this combat round, it is routed instead.",
             "unit": "Poxwalker/Plague Marine/Pestilaan: After the Assess Damage step, gain 1 [M] for each unit that was routed during this combat round."
         },
         {
@@ -107,12 +107,12 @@
         },
         {
             "title": "  BLIGHT LAUNCHERS",
-            "general": "Your opponent must immediately suffer 1 damage for each of your [M].",
+            "general": "All units' health value is reduced by 1, to a minimum of 1. *newpara* Your opponent must immediately suffer 1 damage for each of your [M].",
             "unit": "Plague Marine/Blight-hauler/Pestilaan: If no units were destroyed as a result of this card's general ability, gain 1 [M]."
         },
         {
             "title": "  PLAGUECRAFT",
-            "general": "If yout opponent has 2 or fewer [S], he must discard all his [S].",
+            "general": "Your opponent must discard 1 [S] for every routed unit in this area.",
             "unit": "Plague Marine/Blight-hauler/Pestilaan: If your opponent has an unrouted CL2 or CL3 unit, gain 3 (B)."
         },
         {
@@ -122,18 +122,18 @@
         },
         {
             "title": "  SPREAD CONTAGION",
-            "general": "You and your opponent must immediately suffer damage equal to the difference between your [M].",
+            "general": "All units' health value is reduced by 2, to a minimum of 1. *newpara* You and your opponent must immediately suffer damage equal to the difference between your [M].",
             "unit": "Poxwalker/Plague Marine/Blight-hauler/The Great Unclean One: *newline* Gain 1 [M] if an enemy unit was destroyed by this card's general ability. *newline* Gain 1 [M] if a friendly unit was destroyed by this card's general ability."
         },
         {
             "title": "  MORTARION'S REGRET",
-            "general": "Each of your combat cards in play provides an additional morale icon.",
-            "unit": ""
+            "general": "All units' health value is reduced by 3, to a minimum of 1.",
+            "unit": "The Great Unclean One/Executor: Your opponent must immediately suffer 3 damage."
         },
         {
             "title": "  THE SEVENTH PLAGUE",
             "general": "Gain 7 (S).",
-            "unit": "The Great Unclean One/Executor: For each of your (S) that did not block damage this round of combat, gain 1 (B) at the beginning of the next round."
+            "unit": "The Great Unclean One/Executor: At the beginning of the next round gain a number of (B) equal to the difference between your Defence Value and your opponent's Offence Value ."
         }
     ]
 }
