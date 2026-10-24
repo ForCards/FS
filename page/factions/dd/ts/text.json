@@ -77,28 +77,28 @@
         },
         {
             "title": "   EMBRACE MADNESS",
-            "general": "Convert up to 3 of your opponent's [D] to [B], [S] or [M] in any combination.",
+            "general": "Convert 1 of your opponent's [D] to [B], [S] or [M] for every unrouted Cairic Acolyte.",
             "unit": "Rubric Marine/Cruiser: Gain 1 (S) for each of your opponent's [M]."
         },
         {
             "title": "   WARD OF CHANGE",
             "general": "You must simultaneously convert all of your [B] to [S], all of your [S] to [M] and all of your [M] to [B].",
-            "unit": "Rubric Marine/Cruiser: Gain either 1 [B] or 1 [S]."
+            "unit": "Acolyte/Cruiser: Gain either 1 [B] or 1 [S]."
         },
         {
             "title": "   FICKLE SORCERY",
-            "general": "Randomly gain either 1 (B) or 1 (S) 3 times.",
-            "unit": "Acolyte: You must reroll all your [M]. For each new [M] rolled, gain 1 [D]."
+            "general": "You must reroll all your [M]. For each new [M] rolled, gain 1 [D].",
+            "unit": "Acolyte: Randomly gain either 1 (B) or 1 (S) 3 times."
         },
         {
             "title": "   INFERNAL FLAMES",
             "general": "",
-            "unit": "Rubric Marine/Heldrake/Lord of Change: Destroy 1 enemy CL0 unit for every [M] you have. Gain 1 (B) for every unit destroyed."
+            "unit": "Rubric Marine/Heldrake/Lord of Change: Spend any number of [M] to destroy 1 enemy CL0 unit for every [M] spent. Gain 1 (B) for every unit destroyed."
         },
         {
             "title": "   PINK HORRORS",
             "general": "Your opponent gains 1 [D] and you gain 2 [D].",
-            "unit": "Rubric Marine/Cruiser: Gain 1 (B) for each [S] rolled while resolving the general ability of this card."
+            "unit": "Acolyte/Cruiser: Gain 1 (B) for each [S] rolled while resolving the general ability of this card."
         },
         {
             "title": "   BLUE HORRORS",
@@ -132,8 +132,8 @@
         },
         {
             "title": "   MAGNUS'S PENANCE",
-            "general": "Resolve the abilities of all your combat cards in play, starting from the earliest one. Then discard this card and play the top card from your deck. Do not resolve its abilities but gain its icons during this combat.",
-            "unit": ""
+            "general": "",
+            "unit": "Acolyte: Resolve the abilities of all your combat cards in play, starting from the earliest one. Then discard this card and play the top card from your deck. Do not resolve its abilities but gain its icons during this combat."
         }
     ]
 }
