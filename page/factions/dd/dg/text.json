@@ -117,7 +117,7 @@
         },
         {
             "title": "  IN DEATH'S SHADOW",
-            "general": "Your opponent must choose and rout 1 unit.",
+            "general": "If you have a routed unit, your opponent must choose and rout 1 unit.",
             "unit": "Pestilaan/Executor: Gain (B) equal to the highest morale value among routed enemy units."
         },
         {
