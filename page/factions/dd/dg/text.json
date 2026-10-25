@@ -107,8 +107,8 @@
         },
         {
             "title": "  BLIGHT LAUNCHERS",
-            "general": "All units' health value is reduced by 1, to a minimum of 1. *newpara* Your opponent must immediately suffer damage equal to the number of [M] you have.",
-            "unit": "Plague Marine/Blight-hauler/Pestilaan: If no units were destroyed as a result of this card's general ability, gain 1 [M]."
+            "general": "All units' health value is reduced by 1, to a minimum of 1. *newpara* You and your opponent must immediately suffer damage equal to the absolute difference between your [M].",
+            "unit": "Plague Marine/Blight-hauler/Pestilaan: If no enemy units were destroyed by this card's general ability, gain 1 [M]. If a friendly unit was destroyed by this card's general ability, gain 1 [M]."
         },
         {
             "title": "  PLAGUECRAFT",
@@ -122,8 +122,8 @@
         },
         {
             "title": "  SPREAD CONTAGION",
-            "general": "All units' health value is reduced by 1, to a minimum of 1. *newpara* You and your opponent must immediately suffer damage equal to the absolute difference between your [M].",
-            "unit": "Poxwalker/Plague Marine/Blight-hauler/The Great Unclean One: *newline* Gain 1 [M] if an enemy unit was destroyed by this card's general ability. *newline* Gain 1 [M] if a friendly unit was destroyed by this card's general ability."
+            "general": "All units' health value is reduced by 1, to a minimum of 1.",
+            "unit": "Poxwalker/Plague Marine/Blight-hauler/The Great Unclean One: Your opponent must immediately suffer damage equal to the number of [M] you have. Gain 1 [M] if an enemy unit was destroyed by this ability."
         },
         {
             "title": "  MORTARION'S REGRET",
