@@ -78,12 +78,12 @@
         {
             "title": "   EMBRACE MADNESS",
             "general": "Convert 1 of your opponent's [D] to [B], [S] or [M] for every unrouted Cairic Acolyte.",
-            "unit": "Rubric Marine/Cruiser: Gain 1 (S) for each of your opponent's [M]."
+            "unit": "Acolyte/Cruiser: Gain 1 (S) for each of your opponent's [M]."
         },
         {
             "title": "   WARD OF CHANGE",
             "general": "You must simultaneously convert all of your [B] to [S], all of your [S] to [M] and all of your [M] to [B].",
-            "unit": "Acolyte/Cruiser: Gain either 1 [B] or 1 [S]."
+            "unit": "Rubric Marine/Cruiser: Gain either 1 [B] or 1 [S]."
         },
         {
             "title": "   FICKLE SORCERY",
@@ -111,14 +111,14 @@
             "unit": "Acolyte: Discard one of your opponent's combat cards in play."
         },
         {
-            "title": "   TERROR FROM ABOVE",
+            "title": "   PSYCHIC TEMPEST",
             "general": "Gain 1 (B) for every [B] you have.",
-            "unit": "Heldrake/Cruiser/Relic Battlebarge: Your opponent must reroll a number of [D] (of your choice) equal to the current combat round."
+            "unit": "Mutalith/Cruiser/Relic Battlebarge: Your opponent must reroll a number of [D] (of your choice) equal to the current combat round."
         },
         {
             "title": "   HAND OF THE WARP",
             "general": "Your opponent must choose and discard 1 [D]. *newline* Gain 1 [D].",
-            "unit": "Heldrake/Cruiser/Relic Battlebarge: If [M] was discarded or gained while resolving the general ability of this card, gain 1 [D]."
+            "unit": "Mutalith/Cruiser/Relic Battlebarge: If [M] was discarded or gained while resolving the general ability of this card, gain 1 [D]."
         },
         {
             "title": "   ALTER THE PAST",
