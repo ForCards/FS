@@ -9,7 +9,7 @@
             "general": "After you resolve this order, you may spend 1 materiel to place 1 free Rubric Marine on a friendly world containing a Cairic Acolyte in the active system. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "A PRESENCE IN THE WARP",
+            "title": "FORESEEN, FOREWARNED",
             "general": "During a combat initiated by this order, you can resolve the unit ability of any combat card that requires a Cairic Acolyte as if you had a participating unrouted Cairic Acolyte. *newline* LIMIT ONCE PER ROUND."
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "title": "PRODIGAL SONS",
-            "general": "Choose a neutral void in a system containing no friendly areas. Either place up to 2 free Hellfire Cruisers in that void or spend 1 forge token to place 1 free Relic Battlebarge in that void.",
+            "general": "Choose a neutral void in a system containing no friendly areas. Either spend 1 materiel to place up to 2 free Hellfire Cruisers in that void or spend 2 materiel and 1 forge token to place 1 free Relic Battlebarge in that void.",
             "type": "TACTIC"
         },
         {
