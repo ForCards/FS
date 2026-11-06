@@ -2,11 +2,11 @@
     "ordersText": [
         {
             "title": "PSYKER LEGION",
-            "general": "While resolving this order, increase your command level by 1."
+            "general": "When you reveal this order you may destroy an unrouted Cairic Acolyte in the active system to increase your command level by 1 while resolving this order."
         },
         {
             "title": "RUBRIC OF AHRIMAN",
-            "general": "After you resolve this order, you may place 1 free Rubric Marine on a friendly world containing a structure in the active system. *newline* LIMIT ONCE PER ROUND."
+            "general": "After you resolve this order, you may spend 1 materiel to place 1 free Rubric Marine on a friendly world containing a Cairic Acolyte in the active system. *newline* LIMIT ONCE PER ROUND."
         },
         {
             "title": "A PRESENCE IN THE WARP",
