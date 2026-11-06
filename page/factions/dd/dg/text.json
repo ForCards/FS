@@ -122,8 +122,8 @@
         },
         {
             "title": "  SPREAD CONTAGION",
-            "general": "All units' health value is reduced by 1, to a minimum of 1.",
-            "unit": "Poxwalker/Plague Marine/Blight-hauler/The Great Unclean One: Your opponent must immediately suffer damage equal to the number of [M] you have. Gain 1 [M] if an enemy unit was destroyed by this ability."
+            "general": "Gain 1 [M]. *newpara* All units' health value is reduced by 1, to a minimum of 1.",
+            "unit": "Poxwalker/Plague Marine/Blight-hauler/The Great Unclean One: Your opponent must immediately suffer damage equal to the number of [M] you have. If no enemy units were destroyed by this ability, gain 1 [M]."
         },
         {
             "title": "  MORTARION'S REGRET",
