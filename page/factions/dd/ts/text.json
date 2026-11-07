@@ -113,7 +113,7 @@
         {
             "title": "   PSYCHIC TEMPEST",
             "general": "Gain 1 (B) for every [B] you have.",
-            "unit": "Mutalith/Cruiser/Relic Battlebarge: Your opponent must reroll a number of [D] (of your choice) equal to the current combat round."
+            "unit": "Mutalith/Cruiser/Relic Battlebarge: Your opponent rerolls a number of [D] (of your choice) equal to the current combat round."
         },
         {
             "title": "   HAND OF THE WARP",
