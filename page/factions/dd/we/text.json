@@ -132,7 +132,7 @@
         {
             "title": "FURY INCARNATE",
             "general": "Gain 1 [M] for each unit destroyed in the next Assess Damage step.",
-            "unit": "Banelord/Gloriana: Gain 1 (B) for each unrouted friendly CL1, CL2 or CL3 unit, to a maximum of 3 (B)."
+            "unit": "Banelord/Gloriana: Gain 1 (B) for each unrouted friendly CL1, CL2 or CL3 unit, to a maximum of 4 (B)."
         }
     ]
 }
