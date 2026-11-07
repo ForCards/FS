@@ -101,7 +101,7 @@
         },
         {
             "title": "CUT THEM DOWN",
-            "general": "If there are no routed friendly units in this area, gain 2 (B).",
+            "general": "If there are no routed friendly units in this area, gain 2 (S).",
             "unit": "Blood Cultist/Berzerker/Carnage: Gain 1 (B) for each routed unit in this area, to a maximum of 3 (B)."
         },
         {
@@ -121,8 +121,8 @@
         },
         {
             "title": "LIMITLESS CARNAGE",
-            "general": "",
-            "unit": "Hellbrute: Your opponent must rout all of his CL0 units."
+            "general": "You and your opponent must lose all of your [M].",
+            "unit": "Hellbrute: Your opponent routs 1 of his CL0 units for every [M] you lost plus 1."
         },
         {
             "title": "ANGRON'S DISDAIN",
