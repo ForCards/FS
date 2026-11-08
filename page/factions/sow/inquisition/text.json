@@ -54,7 +54,7 @@
         },
         {
             "title": "ENCORE",
-            "general": "*newpara* Resolve an advance order in any system. During this order resolution you cannot move ground units or perform an orbital strike.",
+            "general": "*newpara* Resolve an advance order in any system. During this order resolution you cannot initiate combat or perform an orbital strike.",
             "type": "TACTIC"
         },
         {
