@@ -34,7 +34,7 @@
         },
         {
             "title": "SLIPPERY AS SILK",
-            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card when you resolve an advance order. You may move up to 2 units through a single contested void during the ground units movement phase.",
+            "general": "*newpara* Place this card in your play area and discard all of your other schemes. *newpara* Discard this card when you resolve an advance order. You may move up to 2 units through a single contested void during the ground units movement phase and you can create a second contested area during the movement, but only if the second area does not contain unrouted enemy units or bastions.",
             "type": "SCHEME"
         },
         {
@@ -102,7 +102,7 @@
         {
             "title": "SPIRAL OF MIRTH AND MADNESS",
             "general": "Gain 2 (S).",
-            "unit": "Death Jester: Spend up to 2 (S). For every (S) spent, destroy 1 Corsair ship in an adjacent friendly void to place 1 Trouper on this world."
+            "unit": "Resolve one of the following: *newline* Death Jester: Spend up to 2 (S). For every (S) spent, destroy 1 Corsair ship in an adjacent void to place 1 Trouper on this world. *newpara* Corsair Ship: Spend up to 2 (S). For every (S) spent, destroy 1 friendly unit on an adjacent world to place 1 free Corsair Ship in this void."
         },
         {
             "title": "   SHRIEKER CANNONS",
