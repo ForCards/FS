@@ -81,13 +81,13 @@
         },
         {
             "title": "   ANCESTRAL SENTENCE",
-            "general": "Discard another of your combat cards in play to gain 1 [S] or 1 [M].",
-            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Spend up to 2 materiel to gain 2 (B) for each materiel spent."
+            "general": "Spend 1 materiel to gain 2 (B). *newpara* Discard another of your combat cards in play to gain 1 [S] or 1 [M].",
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Gain 2 (B)."
         },
         {
             "title": "   VOID ARMOUR",
-            "general": "Discard another of your combat cards in play to gain 1 [B] or 1 [M].",
-            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Spend up to 2 materiel to gain 2 (S) for each materiel spent."
+            "general": "Spend 1 materiel to gain 2 (S). *newpara* Discard another of your combat cards in play to gain 1 [B] or 1 [M].",
+            "unit": "Hearthkin Warrior/Bastion Commerce Vessel: Gain 2 (S)."
         },
         {
             "title": " TECHNOLOGY OF THE DARK AGE",
