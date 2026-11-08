@@ -116,7 +116,7 @@
         },
         {
             "title": "   ONTO THE STAGE",
-            "general": "Choose a friendly unrouted unit. Spend [D] equal to its health value to gain 1 [S] for every [D] spent and to additionally gain 1 (B) for every [M] spent.",
+            "general": "Choose a friendly unrouted unit. Gain a number of (S) equal to its health value.",
             "unit": "Starweaver: Destroy 1 Corsair Ship in an adjacent fiendly void to purchase a Trouper, Death Jester or Starweaver, reducing its cost by 2, and place it on this world."
         },
         {
