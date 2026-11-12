@@ -128,7 +128,7 @@
         {
             "title": "        FULGRIM'S AVARICE",
             "general": "Gain 2 (B) or 1 (S).",
-            "unit": "Subjugator Titan/Grand Cruiser: If your opponent has more claimed Objectives than you, replace 1 of his units with an unrouted friendly unit of the same CL from your supply, unless you opponent returns 1 of his claimed Objectives to any enemy or uncontrolled world of his choice."
+            "unit": "Subjugator Titan/Grand Cruiser: If your opponent has no fewer claimed Objectives than you, replace 1 of his units with an unrouted friendly unit of the same CL from your supply, unless you opponent returns 1 of his claimed Objectives to any enemy or uncontrolled world of his choice."
         },
         {
             "title": "        SONG OF SLAANESH",
