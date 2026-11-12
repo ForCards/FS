@@ -81,9 +81,9 @@
             "unit": "Seeker: Replace 1 enemy CL0 unit with an unrouted friendly Pleasure Seeker."
         },
         {
-            "title": "        BLISSFUL AGONY",
+            "title": "        SAVOUR THEIR AGONY",
             "general": "Gain 1 [M]. Gain 1 (B) for every [M] you have.",
-            "unit": "Seeker/Cruiser: Whenever a friendly unit is destroyed during this execution round, gain 1 reinforcement token."
+            "unit": "Seeker/Cruiser: If a friendly unit is destroyed during this execution round, gain 1 reinforcement token."
         },
         {
             "title": "        MURDEROUS PASSION",
@@ -107,7 +107,7 @@
         },
         {
             "title": "        SHRIEKING HAVOCS",
-            "general": "Your opponent chooses for you to gain either 2 (B) or 2 (S).",
+            "general": "Your opponent chooses for you to gain either 2 (B) or 2 (S). *newpara* If you lose this combat, gain 1 asset of your choice.",
             "unit": "Noise Marine/Cruiser: If you gained 2 (B), remove 1 Pleasure Seeker from your faction board to gain 3 (S)."
         },
         {
