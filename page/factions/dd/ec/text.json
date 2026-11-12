@@ -81,29 +81,29 @@
             "unit": "Seeker: Replace 1 enemy CL0 unit with an unrouted friendly Pleasure Seeker."
         },
         {
-            "title": "        SAVOUR THEIR AGONY",
-            "general": "Gain 1 [M].",
-            "unit": "Seeker/Cruiser: Gain 1 (B) for each [M] you have."
+            "title": "        BLISSFUL AGONY",
+            "general": "Gain 1 [M]. Gain 1 (B) for every [M] you have.",
+            "unit": "Seeker/Cruiser: Whenever a friendly unit is destroyed during this execution round, gain 1 reinforcement token."
         },
         {
             "title": "        MURDEROUS PASSION",
-            "general": "Gain 1 (B) or 1 (S). Force your opponent to lose 1 (B) or 1 (S), whichever you gained.",
-            "unit": "Seeker/Cruiser: Discard a combat card from your hand to resolve its unit abilities (if you satisfy the requirements)."
+            "general": "Gain 1 [D] or 1 (S).",
+            "unit": "Noise Marine: The first time a friendly Pleasure Seeker is destroyed during this round of combat, place it on your faction mat. You cannot place reinforcement tokens on your faction mat this way."
         },
         {
             "title": "        UNEXPECTED ALACRITY",
-            "general": "Spend 1 [M] to gain 2 (B).",
-            "unit": "Noise Marine/Cruiser: Your opponent must destroy all of his routed units, unless he chooses and routs 1 of his units. If he has no routed units, he must choose and rout a unit."
+            "general": "Gain 2 (B).",
+            "unit": "Noise Marine/Cruiser: If your opponent has a routed unit, he destroys all of his routed units, unless he chooses and routs 1 of his units. Otherwise, he chooses and routs 1 of his units."
         },
         {
             "title": "        CORRUPTING INFLUENCE",
             "general": "",
-            "unit": "Noise Marine/Cruiser: Force your opponent to lose 1 [S]. *newpara* Your opponent must choose and give you a card from his hand. Play it. If it provides no printed shield icons, your opponent must discard 1 card from his hand at random."
+            "unit": "Noise Marine/Cruiser: Force your opponent to lose 1 [S]. *newpara* Your opponent must choose and give you a card from his hand. Play it. You may resolve its general abilities. If it provides no shield icons, your opponent must discard 1 card from his hand at random."
         },
         {
             "title": "        ACOUSTIC BARRAGE",
-            "general": "Gain 1 [B] and 1 (B) and force your opponent to lose 1 [B].",
-            "unit": "Noise Marine/Cruiser: Rout a friendly Noise Marine. If you did, gain 2 (S) unless your opponent chooses and destroys 1 of his units."
+            "general": "If your opponent has 1 or more materiel, gain 4 (B) or 4 (S), unless your opponent spends 1 materiel. If he did, gain 1 materiel.",
+            "unit": "Noise Marine/Cruiser: Rout a friendly Noise Marine to gain 2 (S)."
         },
         {
             "title": "        SHRIEKING HAVOCS",
@@ -122,17 +122,17 @@
         },
         {
             "title": "        REVEL IN MISERY",
-            "general": "Rally all friendly and enemy units.",
+            "general": "Rally all friendly and enemy units. *newpara* If you lose this combat, gain 1 asset of your choice.",
             "unit": "Defiler/Cruiser/Grand Cruiser: Gain 2 (B) or 2 (S) for each enemy unit that was rallied as a result of the general ability of this card."
         },
         {
             "title": "        FULGRIM'S AVARICE",
-            "general": "Gain 1 [M] for each unclaimed objective in the active system.",
-            "unit": "Subjugator Titan/Grand Cruiser: Gain 3 (B) if you have claimed more objectives than your opponent. Gain 3 (S) if you have claimed fewer objectives than your opponent."
+            "general": "If your opponent does not have more claimed Objectives than you, gain 2 (B) or 2 (S).",
+            "unit": "Subjugator Titan/Grand Cruiser: If your opponent has more claimed Objectives than you, replace 1 of his units with an unrouted friendly unit of the same CL from your supply, unless you opponent returns 1 of his claimed Objectives to any enemy or uncontrolled world of his choice."
         },
         {
             "title": "        SONG OF SLAANESH",
-            "general": "Place 1 Pleasure Seeker from your facion board in this area.",
+            "general": "Place up to 2 Pleasure Seekers from your facion board in this area.",
             "unit": "Subjugator Titan/Grand Cruiser: Gain 1 (S) for every Pleasure Seeker on your faction board."
         }
     ]
