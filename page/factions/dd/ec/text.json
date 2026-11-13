@@ -5,8 +5,8 @@
             "general": "If this advance order results in a combat, you may play an additional combat card during the first round. *newline* However, after each round of combat your combat cards are discarded and do not carry over to future rounds. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "PURE GENESEED",
-            "general": "While resolving this order, you may spend forge tokens as if they were cache tokens. *newline* LIMIT ONCE PER ROUND."
+            "title": "CROWN JEWEL",
+            "general": "After you take control of a city as a result of this order resolution, you may immediately claim an Objective token from any world under the control of the previous owner of that city. *newline* LIMIT ONCE PER GAME."
         },
         {
             "title": "SHEER PERFECTION",
@@ -81,19 +81,19 @@
             "unit": "Seeker: Replace 1 enemy CL0 unit with an unrouted friendly Pleasure Seeker."
         },
         {
-            "title": "        SAVOUR THEIR AGONY",
+            "title": "        MURDEROUS PASSION",
             "general": "Gain 1 [M]. Gain 1 (B) for every [M] you have.",
             "unit": "Seeker/Cruiser: If a friendly unit is destroyed during this execution round, gain 1 reinforcement token."
         },
         {
-            "title": "        MURDEROUS PASSION",
-            "general": "Gain 1 [D] or 1 (S).",
+            "title": "        BLISSFUL AGONY",
+            "general": "Gain 1 (B) or 1 (S).",
             "unit": "Noise Marine: The first time a friendly Pleasure Seeker is destroyed during this round of combat, place it on your faction mat. You cannot place reinforcement tokens on your faction mat this way."
         },
         {
             "title": "        UNEXPECTED ALACRITY",
             "general": "Gain 2 (B).",
-            "unit": "Noise Marine/Cruiser: If your opponent has a routed unit, he destroys all of his routed units, unless he chooses and routs 1 of his units. Otherwise, he chooses and routs 1 of his units."
+            "unit": "Noise Marine/Cruiser: If your opponent has a routed unit, he destroys all of his routed units. Otherwise, he chooses and routs 1 of his units."
         },
         {
             "title": "        CORRUPTING INFLUENCE",
@@ -122,7 +122,7 @@
         },
         {
             "title": "        REVEL IN MISERY",
-            "general": "Rally all friendly and enemy units. *newpara* If you lose this combat, gain 1 asset of your choice.",
+            "general": "Rally all friendly and enemy units. *newpara* If you are defending, your opponent must choose and destroy his structure on any world.",
             "unit": "Defiler/Cruiser/Grand Cruiser: Gain 2 (B) or 2 (S) for each enemy unit that was rallied as a result of the general ability of this card."
         },
         {
