@@ -106,7 +106,7 @@
         },
         {
             "title": "        SHRIEKING HAVOCS",
-            "general": "Your opponent chooses for you to gain either 2 (B) or 2 (S). *newpara* If you lose this combat, gain 1 asset of your choice.",
+            "general": "If you lose this combat, gain 1 asset of your choice. *newpara* Your opponent chooses for you to gain either 2 (B) or 2 (S).",
             "unit": "Noise Marine/Cruiser: If you gained 2 (B), remove 1 Pleasure Seeker from your faction board to gain 3 (S)."
         },
         {
