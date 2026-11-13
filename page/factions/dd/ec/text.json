@@ -70,7 +70,6 @@
             "unit": "Seeker/Cruiser: Gain a number of [S] or [M] equal to the highest CL among unrouted enemy units."
         },
         {
-
             "title": "        BEWITCH",
             "general": "Force your opponent to lose one of his [D], then gain the same [D].",
             "unit": "Seeker/Cruiser: Discard a card at random from your opponent's hand and resolve its general abilities as if you played it."
@@ -87,7 +86,7 @@
         },
         {
             "title": "        BLISSFUL AGONY",
-            "general": "Gain 1 (B) or 1 (S).",
+            "general": "Gain 1 (B) or 1 (S). *newpara* If you are defending, place 1 order token from your place area on top of your Event deck.",
             "unit": "Noise Marine: The first time a friendly Pleasure Seeker is destroyed during this round of combat, place it on your faction mat. You cannot place reinforcement tokens on your faction mat this way."
         },
         {
