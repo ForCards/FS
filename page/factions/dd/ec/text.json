@@ -86,7 +86,7 @@
         },
         {
             "title": "        BLISSFUL AGONY",
-            "general": "Gain 1 (B) or 1 (S). *newpara* If you are defending, place 1 order token from your place area on top of your Event deck.",
+            "general": "Gain 1 (B) or 1 (S). *newpara* If you lose this combat, place 1 order token from your play area on top of your Event deck.",
             "unit": "Noise Marine: The first time a friendly Pleasure Seeker is destroyed during this round of combat, place it on your faction mat. You cannot place reinforcement tokens on your faction mat this way."
         },
         {
