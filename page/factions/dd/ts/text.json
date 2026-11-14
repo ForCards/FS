@@ -66,14 +66,14 @@
     "combatText": [
         {
             "title": "   ELDRICH SMITE",
-            "general": "Gain 1 [D]. You may spend it to force your opponent to lose a matching [D].",
+            "general": "Gain 1 [D]. You may spend it to force your opponent to either lose a matching [D] or gain 1 (B).",
             "unit": "Rubric Marine/Cruiser: Force your opponent to lose a matching [D]."
         },
         {
 
             "title": "   PROTECTION OF THE WARP",
-            "general": "If you have more [M] than your opponent, gain 1 [S] and 1 (S).",
-            "unit": "Rubric Marine/Cruiser: Either rally 1 unit or gain 1 [M]."
+            "general": "Gain 1 [D]. If you gained [B], gain 1 (S). *newpara* If you have more [M] than your opponent, gain 1 (S).",
+            "unit": "Rubric Marine/Cruiser: Either rally 1 unit or convert 1 of your [D] to [M]."
         },
         {
             "title": "   EMBRACE MADNESS",
@@ -87,13 +87,13 @@
         },
         {
             "title": "   FICKLE SORCERY",
-            "general": "You must reroll all your [M]. For each new [M] rolled, gain 1 [D].",
-            "unit": "Acolyte: Randomly gain either 1 (B) or 1 (S) 3 times."
+            "general": "Randomly gain either 1 (B) or 1 (S) 3 times.",
+            "unit": "Acolyte: Reroll 1 [D]. If [M] was rolled, gain 1 [D]."
         },
         {
             "title": "   INFERNAL FLAMES",
             "general": "",
-            "unit": "Rubric Marine/Heldrake/Lord of Change: Spend any number of [M] to destroy 1 enemy CL0 unit for every [M] spent. Gain 1 (B) for every unit destroyed."
+            "unit": "Rubric Marine/Heldrake/Lord of Change: Spend any number of [M] to destroy 1 enemy CL0 unit and gain 1 (B) for every [M] spent."
         },
         {
             "title": "   PINK HORRORS",
@@ -102,7 +102,7 @@
         },
         {
             "title": "   BLUE HORRORS",
-            "general": "Resolve the general ability of a Combat card you have removed from your deck.",
+            "general": "Resolve the general ability of a basic combat card from your upgrade deck.",
             "unit": "Rubric Marine/Cruiser: Force your opponent to lose 1 [M]. If he did, gain 1 (S)."
         },
         {
@@ -112,23 +112,23 @@
         },
         {
             "title": "   PSYCHIC TEMPEST",
-            "general": "Gain 1 (B) for every [B] you have.",
-            "unit": "Mutalith/Cruiser/Relic Battlebarge: Your opponent rerolls a number of [D] (of your choice) equal to the current combat round."
+            "general": "Your opponent rerolls a number of [D] (of your choice) equal to the current combat round.",
+            "unit": "Mutalith/Cruiser/Relic Battlebarge: Gain 1 (B) for every [B] you have."
         },
         {
             "title": "   HAND OF THE WARP",
-            "general": "Your opponent must choose and discard 1 [D]. *newline* Gain 1 [D].",
-            "unit": "Mutalith/Cruiser/Relic Battlebarge: If [M] was discarded or gained while resolving the general ability of this card, gain 1 [D]."
+            "general": "Your opponent must choose and discard 1 [D]. *newline* Gain 1 [D]. *newpara* If [M] was discarded or gained while resolving the general ability of this card, gain 1 [D].",
+            "unit": "Mutalith: If you have at least 1 [M], your opponent chooses and replaces 1 of his CL1, CL2 or CL3 units with a unit of a lower CL from his supply, if able."
         },
         {
             "title": "   ALTER THE PAST",
-            "general": "Play a combat card you have removed from your deck. Do not resolve its abilities but gain its icons during this combat.",
-            "unit": "Acolyte: Resolve the general ability of the played card."
+            "general": "Play a basic or a CL0 combat card from your upgrade deck. Do not resolve its abilities but gain its icons during this combat.",
+            "unit": "Acolyte: Resolve the general abilities of the played card. Then resolve the unit abilities, if you satisfy the requirements."
         },
         {
             "title": "   CHANGER OF WAYS",
             "general": "Rally all friendly units.",
-            "unit": "Lord of Change/Relic Battlebarge: Replace any of your cards in play with cards from your hand. Do not resolve the abilities of the newly played cards."
+            "unit": "Lord of Change/Relic Battlebarge: Return 1 of your other combat cards in play to your hand and replace it with a card from your upgrade deck. Do not resolve the abilities of the newly played card, but gain its icons for this combat."
         },
         {
             "title": "   MAGNUS'S PENANCE",
