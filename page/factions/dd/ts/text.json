@@ -112,13 +112,13 @@
         },
         {
             "title": "   PSYCHIC TEMPEST",
-            "general": "Your opponent rerolls a number of [D] (of your choice) equal to the current combat round.",
+            "general": "If you have at least 1 [M], your opponent chooses and replaces 1 of his CL1, CL2 or CL3 units with a unit of a lower CL from his supply, if able.",
             "unit": "Mutalith/Cruiser/Relic Battlebarge: Gain 1 (B) for every [B] you have."
         },
         {
             "title": "   HAND OF THE WARP",
-            "general": "Your opponent must choose and discard 1 [D]. *newline* Gain 1 [D]. *newpara* If [M] was discarded or gained while resolving the general ability of this card, gain 1 [D].",
-            "unit": "Mutalith: If you have at least 1 [M], your opponent chooses and replaces 1 of his CL1, CL2 or CL3 units with a unit of a lower CL from his supply, if able."
+            "general": "Your opponent must choose and discard 1 [D]. *newline* Gain 1 [D] for every forge token on your faction mat.",
+            "unit": "Mutalith: If [M] was discarded or gained, your opponent chooses and routs 1 of his units."
         },
         {
             "title": "   ALTER THE PAST",
@@ -128,7 +128,7 @@
         {
             "title": "   CHANGER OF WAYS",
             "general": "Rally all friendly units.",
-            "unit": "Lord of Change/Relic Battlebarge: Return 1 of your other combat cards in play to your hand and replace it with a card from your upgrade deck. Do not resolve the abilities of the newly played card, but gain its icons for this combat."
+            "unit": "Lord of Change/Relic Battlebarge: Return 1 of your combat cards in play to your hand and replace it with a card from your hand or upgrade deck. Do not resolve the abilities of the newly played card, but gain its icons for this combat."
         },
         {
             "title": "   MAGNUS'S PENANCE",
