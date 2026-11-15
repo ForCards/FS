@@ -2,14 +2,14 @@
     "ordersText": [
         {
             "title": "PSYKER LEGION",
-            "general": "While resolving this order you can spend a forge token to increase your command level by 1 for the purpose of purchasing a single upgrade of any type."
+            "general": "While resolving this, order you can spend a forge token when purchasing an upgrade of any type to temporarily reduce the upgrade's command level restriction by 1. You can do this for every upgrade you purchase, but you cannot spend more than 1 token per an upgrade."
         },
         {
             "title": "RUBRIC OF AHRIMAN",
-            "general": "After you resolve this order, you may spend 1 materiel to place 1 free Rubric Marine on a friendly world containing a Cairic Acolyte in the active system. *newline* LIMIT ONCE PER ROUND."
+            "general": "After you resolve this order, you may spend 1 forge token to place 1 free Rubric Marine on a friendly world containing a Cairic Acolyte in the active system. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "FORESEEN, FOREWARNED",
+            "title": "TELEPATHY",
             "general": "During the first round of a combat initiated by this order, you may look at your opponent's facedown Combat card before choosing and playing yours. *newline* LIMIT ONCE PER ROUND."
         },
         {
