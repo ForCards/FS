@@ -77,7 +77,7 @@
         },
         {
             "title": "   EMBRACE MADNESS",
-            "general": "Convert 1 of your opponent's [D] to [B], [S] or [M]. *newline* Convert 1 of your opponent's [D] to [B], [S] or [M] for every unrouted Cairic Acolyte or Hellfire Cruiser.",
+            "general": "Convert 1 of your opponent's [D] to [B], [S] or [M]. *newline* Convert 1 of your opponent's [D] to [B], [S] or [M] for every unrouted Cairic Acolyte, Lord of Change or Hellfire Cruiser.",
             "unit": "Acolyte/Rubric Marine/Cruiser: Gain 1 (S) for each of your opponent's [M]."
         },
         {
@@ -93,12 +93,12 @@
         {
             "title": "   INFERNAL FLAMES",
             "general": "",
-            "unit": "Rubric Marine/Heldrake/Lord of Change: Spend any number of [M] to destroy 1 enemy CL0 unit and gain 1 (B) for every [M] spent."
+            "unit": "Rubric Marine/Mutalith/Lord of Change: Spend any number of [M] to destroy 1 enemy CL0 unit and gain 1 (B) for every [M] spent."
         },
         {
             "title": "   PINK HORRORS",
             "general": "Your opponent gains 1 [D] and you gain 2 [D].",
-            "unit": "Acolyte/Cruiser: Gain 1 (B) for each [S] rolled while resolving the general ability of this card."
+            "unit": "Rubric Marine/Cruiser: Gain 1 (B) for each [S] rolled while resolving the general ability of this card."
         },
         {
             "title": "   BLUE HORRORS",
