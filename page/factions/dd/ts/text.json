@@ -98,7 +98,7 @@
         {
             "title": "   PINK HORRORS",
             "general": "Your opponent gains 1 [D] and you gain 2 [D].",
-            "unit": "Rubric Marine/Cruiser: Gain 1 (B) for each [S] rolled while resolving the general ability of this card."
+            "unit": "Acolyte/Cruiser: Gain 1 (B) for each [S] rolled while resolving the general ability of this card."
         },
         {
             "title": "   BLUE HORRORS",
@@ -116,9 +116,9 @@
             "unit": "Mutalith/Cruiser/Relic Battlebarge: Gain 1 (B) for every [B] you have."
         },
         {
-            "title": "   HAND OF THE WARP",
-            "general": "Your opponent must choose and discard 1 [D]. *newline* Gain 1 [D] for every forge token on your faction mat.",
-            "unit": "Mutalith: If [M] was discarded or gained, your opponent chooses and routs 1 of his units."
+            "title": "   SPLIT INTO SHARDS",
+            "general": "Destroy a friendly CL1, CL2 or CL3 unit to place 1 reinforcement token in this area for every forge token on your faction mat.",
+            "unit": "Mutalith/Relic Battlebarge: Gain 1 [D] for every forge token on your faction mat."
         },
         {
             "title": "   ALTER THE PAST",
