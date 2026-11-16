@@ -113,7 +113,7 @@
         {
             "title": "   PSYCHIC TEMPEST",
             "general": "If you have at least 1 [M], your opponent chooses and replaces 1 of his CL1, CL2 or CL3 units on this world with a unit of a lower CL from his supply, if able.",
-            "unit": "Mutalith/Relic Battlebarge: Gain 1 (B) for every [B] you have."
+            "unit": "Mutalith/Cruiser/Relic Battlebarge: Gain 1 (B) for every [B] you have."
         },
         {
             "title": "   UNCONTROLABLE MUTATIONS",
@@ -133,7 +133,7 @@
         {
             "title": "   MAGNUS'S PENANCE",
             "general": "",
-            "unit": "Acolyte/Lord of Change/Relic Battlebarge: Resolve the abilities of all your combat cards in play, starting from the earliest one. Then discard this card and play the top card from your deck. Do not resolve its abilities but gain its icons during this combat."
+            "unit": "Acolyte/Lord of Change/Cruiser: Resolve the abilities of all your combat cards in play, starting from the earliest one. Then discard this card and play the top card from your deck. Do not resolve its abilities but gain its icons during this combat."
         }
     ]
 }
