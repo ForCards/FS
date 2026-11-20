@@ -97,7 +97,7 @@
         {
             "title": "    DIG IN!",
             "general": "Gain 1 [M]. *newpara* If this world contains a structure and you are attacking, gain 1 (B) for each unrouted Slave Soldier. If this world contains a structure and you are defending, gain 1 (S) for each unrouted Slave Soldier.",
-            "unit": "Siege Marine: If this world contains no structures, spend 1 [M] and destroy an unrouted Slave Soldier to immediatly place a free friendly bastion on it."
+            "unit": "Siege Marine: If this world contains no bastions, spend 1 [M] and destroy an unrouted Slave Soldier to immediatly place a free friendly bastion on it."
         },
         {
             "title": "    OBLITERATORS",
