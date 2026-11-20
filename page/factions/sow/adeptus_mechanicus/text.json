@@ -72,7 +72,7 @@
         {
             "title": "    CANNON FODDER",
             "general": "If this world contains a structure, gain 1 [S]. *newpara* Gain up to 2 [B]. Your opponents gains that many (B).",
-            "unit": "Slave soldier/Devastation: Convert 1 [D] to [B]."
+            "unit": "Slave soldier/Devastation: Convert 1 of your [D] to [B]."
         },
         {
             "title": "    PURGE THE WEAK",
@@ -87,7 +87,7 @@
         {
             "title": "    BRUTAL ATTRITION",
             "general": "Spend 1 [S] to gain 1 (B) for every [B] you have, to a maximum of 3.",
-            "unit": "Slave soldier/Devastation: Convert up to 2 of your [D] to [S]."
+            "unit": "Slave soldier/Devastation: Convert up to 1 of your [D] to [S]."
         },
         {
             "title": "    IRON WITHIN",
