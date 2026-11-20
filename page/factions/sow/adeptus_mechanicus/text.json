@@ -126,13 +126,13 @@
         },
         {
             "title": "    ETERNAL RESENTMENT",
-            "general": "Gain up to 7 (B), and your opponent gains the same number of (B). *newline* If this world contains a structure, your opponent loses 2 (B).",
-            "unit": "Donjon/Hecate: Your opponent loses 3 (B)."
+            "general": "Gain 2 (B) if this world contains a friendly structure. *newline* Gain 2 (B) if this world contains an enemy structure.",
+            "unit": "Donjon/Hecate: Gain 3 (B)."
         },
         {
             "title": "    HAMMER OF OLYMPIA",
-            "general": "Convert 1 of your [D] to [M].",
-            "unit": "Donjon/Hecate: Rally a unit. *newpara* Your opponent must choose 3 times to either rout 1 CL1 or CL2 unit or spend 1 [M]."
+            "general": "Gain 7 [D]. Your opponent gains 1 (B) for every [D] you gained.",
+            "unit": "Donjon/Hecate: Convert 1 of your [D] to [M]. *newpara* Choose a friendly unit in an adjacent area. Gain (S) equal to its health value."
         }
     ]
 }
