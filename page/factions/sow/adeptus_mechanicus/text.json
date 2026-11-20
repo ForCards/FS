@@ -126,13 +126,13 @@
         },
         {
             "title": "    ETERNAL RESENTMENT",
-            "general": "Gain 2 (B) if this world contains a friendly structure. *newline* Gain 2 (B) if this world contains an enemy structure.",
-            "unit": "Donjon/Hecate: Gain 3 (B)."
+            "general": "Gain 1 [B] or 1 (B) if this world contains a friendly structure. *newline* Gain 1 [B] or 1 (B) if this world contains an enemy structure.",
+            "unit": "Donjon/Hecate: Gain eqither 2 [B] or 3 (B)."
         },
         {
             "title": "    HAMMER OF OLYMPIA",
             "general": "Gain 7 [D]. Your opponent gains 1 (B) for every [D] you gained.",
-            "unit": "Donjon/Hecate: Convert 1 of your [D] to [M]. *newpara* Choose a friendly unit in an adjacent area. Gain (S) equal to its health value."
+            "unit": "Donjon/Hecate: Reroll any of your [D]. Your opponent gains 1 (B) for every [D] you rerolled. *newpara* Choose a friendly unit in an adjacent area. Gain (S) equal to its morale value."
         }
     ]
 }
