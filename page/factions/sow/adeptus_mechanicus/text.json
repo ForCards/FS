@@ -132,7 +132,7 @@
         {
             "title": "    HAMMER OF OLYMPIA",
             "general": "Gain 7 [D]. Your opponent gains 1 (B) for every [D] you gained.",
-            "unit": "Donjon/Hecate: Reroll any of your [D]. Your opponent gains 1 (B) for every [D] you rerolled. *newpara* Choose a friendly unit in an adjacent area. Gain (S) equal to its morale value."
+            "unit": "Donjon/Hecate: Reroll any of your [D]. Your opponent gains 1 (B) for every [D] you rerolled. *newpara* Choose a friendly unit in an adjacent area. Your opponent loses a number of (B) equal to its morale value."
         }
     ]
 }
