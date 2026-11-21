@@ -5,8 +5,8 @@
             "general": "Before resolving this order, shuffle your Tactical stack into your deck. After resolving the order if you purchased a combat upgrade, immediately form a new tactic stack with 3 different cards from your combat deck. *newline* LIMIT ONCE PER ROUND."
         },
         {
-            "title": "DAEMONCULABA ",
-            "general": "When resolving this order friendly cities and bastions act as factories. Each one can produce up to 1 Slave Soldier or Siege Marine and that unit must be placed on the world with the city or the bastion that was used to produce it. *newline* LIMIT ONCE PER ROUND."
+            "title": "RUTHLESS EFFICIENCY",
+            "general": "Before you resolve this order, you may destroy a friendly unit in any system. *newline* If the first unit you purchase is a Slave Soldier, reduce the total materiel cost of purchased units by the number of friendly structures in this system and a single adjacent system of your choice. *newline* LIMIT ONCE PER ROUND."
         },
         {
             "title": "FIELD FORTIFICATIONS",
