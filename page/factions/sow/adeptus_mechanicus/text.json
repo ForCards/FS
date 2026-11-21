@@ -10,7 +10,7 @@
         },
         {
             "title": "FIELD FORTIFICATIONS",
-            "general": "When resolving this order you may move up to 1 friendly bastion as if it were a ground unit. A bastion may never end its movement in a world with another structure. *newline* LIMIT ONCE PER ROUND."
+            "general": "When resolving this order you may move up to 1 friendly bastion as if it were a ground unit. A bastion may never end its movement in a world with another bastion. *newline* LIMIT ONCE PER ROUND."
         },
         {
             "title": "",
